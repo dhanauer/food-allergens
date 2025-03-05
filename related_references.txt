@@ -1,0 +1,13 @@
+Related references
+
+
+Bioinformatics: Current perspectives and future directions for food and nutritional research facilitated by a Food-Wiki database
+https://www.sciencedirect.com/science/article/abs/pii/S0924224413001842
+
+
+FoodKG: A Semantics-Driven Knowledge Graphfor Food Recommendation
+https://www.cs.rpi.edu/~zaki/PaperDir/ISWC19.pdf
+
+
+FoodBase corpus: a new resource of annotated food entities
+https://academic.oup.com/database/article/doi/10.1093/database/baz121/5611291

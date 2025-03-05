@@ -1,0 +1,6729 @@
+Bubble tea|Bubble tea
+Bubble and squeak|Bubble and squeak
+Couscous|Couscous
+Caesar salad|Caesar salad
+Chocolate|null
+Dessert|Dessert
+Espagnole sauce|Espagnole sauce
+French fries|French fries
+Gazpacho|Gazpacho
+Grits|Grits
+Gelatin dessert|Gelatin dessert
+Hominy|Hominy
+Ham|Ham
+Haggis|Haggis
+İskender kebap|İskender kebab
+Jell-O|Jell-O
+Kvass|Kvass
+Kutia|Kutia
+Maple syrup|Maple syrup
+Mousse|Mousse
+Macaroni|Macaroni
+Minestrone|Minestrone
+Miso|Miso
+Matzah|Matzah
+Neapolitan sauce|Neapolitan sauce
+Neapolitan ice cream|Neapolitan ice cream
+Nori|Nori
+Pasta|Pasta
+Pizza|Pizza
+Rosół|Rosół
+Submarine sandwich|Submarine sandwich
+Sushi|Sushi , 寿司
+Suprême sauce|Suprême sauce
+Zuppa alla modenese|Zuppa alla modenese
+Zuppa del canavese|Zuppa del canavese
+Spaghetti|Spaghetti
+Thyme|Thyme
+Taco|Taco
+Tiramisu|Tiramisu
+Tomato sauce|Tomato sauce
+Tapas|Tapas
+Worcestershire sauce|Worcestershire sauce
+null|Vitam-R
+Bread|Bread
+Blancmange|Blancmange
+Ramen|Ramen
+Yorkshire pudding|Yorkshire pudding
+Nutmeg|Nutmeg
+Panettone|Panettone
+Bangers and mash|Bangers and mash
+Cannoli|Cannoli
+null|Nutritional info
+Frutta martorana|Frutta martorana
+Pane carasau|Pane carasau
+Hamburger|Hamburger
+Fish and chips|Fish and chips
+Portable soup|Portable soup
+Herring soup|Herring soup
+Scotch broth|Scotch broth
+Corn soup|Corn soup
+Chicken soup|null
+Fish sauce|Fish sauce
+Apple sauce|Apple sauce
+null|null
+Bread pudding|Bread pudding
+Puff pastry|Puff pastry
+Mince pie|Mince pie
+Shortcrust pastry|Shortcrust pastry
+Paella|Paella
+Ice cream|Ice cream
+Fortune cookie|Fortune cookie
+Enchilada|Enchilada
+Tonkatsu|Tonkatsu
+Jaffas|Jaffas
+Aioli|Aioli
+Candy|Candy
+Mayonnaise|Mayonnaise
+Salad|Salad
+Tartar sauce|Tartar sauce
+Custard|Custard
+Soy sauce|Soy sauce
+Trifle|Trifle
+Edamame|Edamame
+Bacon|Bacon
+Caramel|Caramel
+Tamale|Tamales
+Pastry|Pastries
+Rose water|Rose water
+Anzac biscuit|ANZAC biscuit
+Pavlova (dessert)|Pavlova
+Lamington|Lamington
+Tzatziki|Tzatziki
+Ketchup|Ketchup
+Cenovis|Cenovis
+Ovos moles|Ovos moles de Aveiro
+Ceviche|Ceviche
+Pa amb tomàquet|Pa amb tomàquet
+Escalivada|Escalivada
+Corned beef|Corned beef
+Poutine|Poutine
+Doughnut|Doughnut
+Hummus|Hummus
+Porridge|Porridge
+Chocolate chip cookie|Toll House cookie
+Chazuke|Chazuke
+Sandwich|Sandwich
+Pita|Pita
+Marshmallow|Marshmallow
+Bopis|Bopis
+BLT|BLT sandwich
+Corn tortilla|Corn tortilla
+Oden|Oden
+Tostada (tortilla)|Tostada
+Chilaquiles|Chilaquiles
+Braunschweiger (sausage)|Braunschweiger
+Pez|null
+Noodle|Noodle
+Pie|Pie
+Tourin|Tourin
+Gnocchi|Gnocchi
+Chocolate bar|Chocolate bar
+Buffalo wing|Buffalo wings
+Lasagna|Lasagna
+Meringue|Meringue
+Succotash|Succotash
+Marmalade|Marmalade
+Nabemono|Nabemono
+Miso soup|Miso soup
+Dango|Dango
+Onigiri|Onigiri
+Tempura|Tempura
+Okonomiyaki|Okonomiyaki
+Soba|Soba
+Hong dou tang|Hong dou tang
+Kakigōri|Kakigōri
+null|Shirokuma
+Anmitsu|Anmitsu
+Uirō|Uirō
+Zabaione|Zabaione
+Cheeseburger|Cheeseburger
+Candy corn|Candy corn
+Udon|Udon
+Yogurt|Yogurt
+Knäck|Knäck
+Tensoba|Tensoba
+Apple pie|Apple pie
+Melba toast|Melba Toast
+Plum in madeira|Plum in madeira
+Falafel|null
+Croissant|Croissant
+Pizzelle|Pizzelle
+Dashi|Dashi
+Omelette|Omelette
+Halloumi|Halloumi
+Kamaboko|
+Cucumber soup|Cucumber soup
+Cracker (food)|Cracker
+Caramilk|Caramilk
+Maple sugar|Maple sugar
+French toast|French toast
+Amish friendship bread|Amish friendship bread
+Baked beans|Baked beans
+Pepperoni|Pepperoni
+Salami|Salami
+Kimchi|Kimchi
+Knödel|Knödel
+Sōmen|Sōmen
+Takoyaki|Takoyaki
+Niboshi|Niboshi
+Danish pastry|Danish pastry
+Corn flakes|Corn flakes
+Tentsuyu|Tentsuyu
+Halva|Halva
+Jelly Babies|Jelly Babies
+Sausage roll|Sausage roll
+Sunday roast|Sunday roast
+Pigs in a blanket|Pigs in a blanket
+Savory spinach pie|Savory spinach pie
+Pasty|Pasty
+Sourdough|Sourdough bread
+Pudding|Pudding
+Hot dog|Hot dog
+Margarine|Margarine
+Cornmeal|null
+Oatmeal|Oatmeal
+Chutney|Chutney
+Oyakodon|Oyakodon
+Waldorf salad|Waldorf salad
+Rock (confectionery)|Rock
+Potato salad|Potato salad
+Satay|Satay
+Shepherd's pie|Shepherd's pie
+Pemmican|null
+Spanish omelette|Spanish omelette
+Lancashire hotpot|Lancashire hotpot
+Poi (food)|Poi
+Altoids|Altoids
+Fideuà|Fideuà
+Waffle|Waffle
+Pancake|Pancake
+Mämmi|Mämmi
+Quiche|Quiche
+Pretzel|Pretzel
+Bagel|Bagel
+Carpaccio|Carpaccio
+Graham cracker|Graham cracker
+Instant coffee|Instant coffee
+Blood sausage|Blood sausage
+Borscht|Borscht
+Coddled egg|Coddled egg
+Akashiyaki|Akashiyaki
+Bubble gum|Bubble gum
+Trail mix|Trail mix
+Bratwurst|Bratwurst
+Chocolate-coated marshmallow treats|Chocolate-coated marshmallow treats
+Crumble|Crumble
+Foie gras|Foie gras
+Compote|Compote
+Candy cane|Candy cane
+Praline (nut confection)|Praline
+Chapati|Chapati
+Goulash|Goulash
+Buttermilk|Buttermilk
+Spotted dick|Spotted dick
+Biltong|Biltong
+Milkshake|Milkshake
+Coq au vin|Coq au vin
+Cornbread|Cornbread
+Angel food cake|Angel food cake
+Mars bar|Mars
+Souvlaki|Souvlaki
+Sliced bread|Sliced bread
+Brunost|
+String cheese|String cheese
+Tuna salad|Tuna salad
+Sangria|Sangria drink
+Blintz|Blintz
+Chow mein|Chow mein
+Latte|Latte
+Bun|Bun
+Seitan|Seitan
+Roast beef|Roast beef
+Cream tea|Cream tea
+Scone|Scone
+Clotted cream|Clotted cream
+Potato pancake|Potato pancake
+Pesto|Pesto
+Croquembouche|Croquembouche
+Chewing gum|Chewing gum
+Tahini|Tahini
+Gumbo|Gumbo
+Peanut butter|Peanut butter
+Fajita|Fajita
+Chicken-fried steak|Chicken-fried steak
+Tempeh|Tempeh
+Fried egg|Fried egg
+Sukiyaki|Sukiyaki
+Kumis|Kumis
+Chili con carne|Chili con carne
+Gefilte fish|Gefilte fish
+Baguette|Baguette
+Scrapple|Scrapple
+Monte Cristo sandwich|Monte Cristo sandwich
+Croque monsieur|Croque monsieur
+Mornay sauce|Mornay sauce
+Lassi|Lassi
+Muffin|Quickbread muffin
+null|Flatbread muffin
+Mămăligă|Mămăligă
+Biscuit|Biscuit
+Katsuobushi|
+Reuben sandwich|Reuben sandwich
+Gummy bear|Gummy bear
+S'more|S'more
+Curry powder|Curry powder
+Andouille|Andouille
+Moon Pie|Moon Pie
+Brioche|Brioche
+Beignet|Beignet
+Spiced bun|Spiced bun
+Hot cross bun|Hot cross bun
+Bushmeat|Bushmeat
+Crêpe|Crêpe
+Chorizo|Chorizo
+Gyros|Gyros
+Nachos|Nachos
+Nougat|Nougat
+Bird's Custard|Bird's Custard
+Larb|Laab / Larb
+Crème anglaise|Crème Anglaise
+Pandoro|Pandoro
+Vermicelli|Vermicelli
+Meze|Meze
+Digestive biscuit|Digestive biscuit
+Zeppole|Zeppole
+Quiche Lorraine|Quiche Lorraine
+Cheesesteak|Cheesesteak
+Jambalaya|Jambalaya
+Club sandwich|Club sandwich
+Dosa (food)|Dosa
+Churro|null
+Purée Mongole|Purée Mongole
+Rock candy|Rock candy
+Welsh rarebit|Welsh rarebit
+Hardtack|Hardtack
+Ice milk|Ice milk
+Frozen yogurt|Frozen yogurt
+Shashlik|Shashlik
+Lebkuchen|Lebkuchen
+Fuet|Fuet
+Nattō|Nattō
+Colonial goose|Colonial goose
+Snow cream|Snow cream
+Scotch egg|Scotch egg
+Pączki|Pączek
+Ploughman's lunch|null
+Lemon meringue pie|Lemon meringue pie
+Kebab|Kebab
+Pound cake|Pound cake
+null|Cherry cake
+Wedding cake|Wedding cake
+Crouton|Crouton
+Nasi lemak|Nasi lemak ,  }}
+Crème caramel|Crème caramel
+Pad thai|Pad Thai
+Pocky|Pocky
+Fried clams|Fried clams
+Christmas pudding|Christmas pudding
+Amanattō|Amanattō
+Tom kha kai|Tom kha kai
+Timbits|Timbits
+Mooncake|Mooncake
+Idli|Idli
+Spätzle|Spätzle
+Jaggery|Jaggery
+Fry sauce|Fry sauce
+Zwieback|Zwieback
+Turrón|Turrón
+Egg salad|Egg salad
+Ranch dressing|null
+Salsa (food)|Salsa
+Kedgeree|Kedgeree
+Carbonara|Carbonara
+Vegetable sandwich|Vegetable sandwich
+Flapjack (oat bar)|Flapjack
+Condensed milk|null
+Graham bread|Graham bread
+Naan|null
+Roti|Roti
+Ice cream cone|Ice cream cone
+Laksa|Laksa
+Taiyaki|
+Pickert|Heap of several Pickerts
+Pierogi|Pierogi
+Pirozhki|Pirozhki
+Open sandwich|Open sandwich
+Macaroni and cheese|Macaroni and cheese
+Huevos motuleños|Huevos motuleños
+Rocky Mountain oysters|Rocky Mountain oysters
+Shawarma|Shawarma
+Marzipan|Marzipan
+Tagliatelle|Tagliatelle
+Fettuccine Alfredo|Fettuccine Alfredo
+Shortbread|Shortbread
+Zongzi|Zongzi
+Cream of Wheat|Cream of Wheat
+Syrniki|Syrniki
+King cake|King cake
+Scrambled eggs|Scrambled eggs
+Soufflé|Soufflé
+Amazake|Amazake
+Vindaloo|Goan vindaloo
+Gyūdon|Gyūdon
+Chicken nugget|Chicken nugget
+Caffè corretto|Caffè corretto
+Bulgogi|Bulgogi
+Eggs Benedict|Eggs Benedict
+Russian dressing|Russian dressing
+Chuckles|null
+Hot dry noodles|Hot dry noodles
+Mashed potato|Mashed potato
+Toad in the hole|Toad in the hole
+Pork pie|Pork pie
+Raisin bran|Raisin bran
+Gelato|Gelato
+Anpan|Anpan
+Guacamole|null
+Quesadilla|Quesadilla
+Fried bread|Fried bread
+Youtiao|Youtiao
+Semla|Semla
+Arctic roll|Arctic roll
+Pie floater|Pie floater
+Poon choi|Poon Choi
+Castella|Castella
+Gomashio|Gomashio
+Hanabiramochi|Hanabiramochi
+Falukorv|Falukorv
+Konpeitō|Konpeitō
+Gionbō|Gionbō
+Rendang|Rendang
+Canapé|Canapé
+Tea sandwich|Tea sandwich
+Chocolate brownie|Chocolate brownie
+Sweetheart cake|Sweetheart cake
+Chinese noodles|Chinese noodles
+Cotton candy|Cotton candy
+Soda bread|Soda bread
+Empanada|Empanada
+Fried rice|Fried rice
+Chicago-style pizza|Chicago-style pizza
+Pâté chinois|Pâté chinois
+Wafer|Wafer
+McFlurry|McFlurry
+Cuban sandwich|Cuban sandwich
+Chateaubriand (dish)|Chateaubriand
+Tarte Tatin|Tarte Tatin
+Suncake (Taiwan)|Suncake
+Yakisoba|Yakisoba
+Dagwood sandwich|Dagwood sandwich
+Lunch meat|Lunch meat
+Italian wedding soup|Italian wedding soup
+Cheesecake|Cheesecake
+Samosa|Samosa(s)
+Hawaiian pizza|Hawaiian pizza
+Stargazy pie|Stargazy pie
+Devil's food cake|Devil's food cake
+Horseshoe sandwich|Horseshoe
+Key lime pie|Key lime pie
+Mulligatawny|Mulligatawny
+Polenta|Polenta
+Pontefract cake|Pontefract cake
+Po' boy|Po' boy
+Rogan josh|Rogan josh
+Bakewell pudding|Bakewell pudding
+Choc ice|Choc ice
+Frozen custard|Frozen custard
+Fabada asturiana|Fabada asturiana
+Bosnian pot|Bosnian pot
+Crispbread|Crispbread
+Patty melt|
+Milk chocolate|Milk chocolate
+Cassoulet|Cassoulet
+Bread roll|Roll
+Tortellini|Tortellini
+Fish finger|Fish fingers
+Pilaf|Pilaf
+Rice and curry|Rice and curry
+Sambar (dish)|Sambar
+Beef noodle soup|Beef noodle soup
+Magiritsa|Magiritsa
+Dutch process cocoa|Dutch processed cocoa
+Macaroon|Macaroon
+Masa|Masa
+Gugelhupf|Gugelhupf
+Korma|Korma
+Cruller|Cruller
+null|French cruller
+Maultasche|Maultaschen
+Granita|Granita
+Butter chicken|Butter chicken
+English muffin|English muffin
+Vanilla slice|Vanilla slice
+Focaccia|Focaccia
+Ravioli|Ravioli
+Fudge|Fudge
+Lollipop|Lollipop
+Toffee|Toffee
+Pandebono|Pandebono
+Bread bowl|Bread bowl
+Hollandaise sauce|Hollandaise sauce
+Feijoada|Feijoada
+Pho|Phở
+Fruitcake|Fruitcake
+Butterscotch|Butterscotch
+Granola|Granola
+Buccellato|Buccellato
+Avgolemono|Avgolemono
+Tart|Tart
+Leberkäse|Leberkäse
+Lye roll|Lye roll
+Rijsttafel|Rijsttafel
+Corn dog|Corn dog
+Ice cream sandwich|Ice cream sandwich
+Breadstick|Breadstick
+Kalakukko|Kalakukko
+Lomi-lomi salmon|Lomilomi salmon
+Grilled cheese|Grilled cheese
+Gudeg|Gudeg
+Chipped beef|Chipped beef
+Cucumber sandwich|Cucumber sandwiches
+Makki ki roti|Makki ki roti
+Wagashi|Wagashi
+Rillettes|Rillettes
+Mustamakkara|Mustamakkara
+Blanquette de veau|Blanquette de veau
+Baba ghanoush|Baba ghanoush
+Baba ghanoush|Mutabbal
+Karelian pasty|Karelian pasty
+Shortcake|Shortcake
+Profiterole|Profiterole
+Custard pie|Custard pie
+Saimin|Saimin
+Saag|Saag
+Moussaka|Moussaka
+Waterzooi|Waterzooi
+Alfajor|Alfajor
+Dulce de leche|Dulce de leche
+Fondue|Fondue
+Blaa|Blaa
+Risotto|Risotto
+Funnel cake|Funnel cake
+Fried dough|Fried dough
+Nata de coco|Nata de coco
+Consommé|Consommé
+Clam chowder|Clam chowder
+Café au lait|Café au lait
+Gingerbread|Gingerbread
+Tartiflette|Tartiflette
+Red bean cake|Red bean cake
+Gianduiotto|Gianduiotto
+Coconut milk|Coconut milk
+Tandoori chicken|null
+Béchamel sauce|Béchamel sauce
+Prosciutto|Prosciutto
+Furikake|
+Pares (food)|Pares
+Uunijuusto|Uunijuusto
+Boerewors|Boerewors Sausage
+Kopi luwak|Kopi luwak
+Baked potato|Baked potato
+Casserole|Casserole
+Demi-glace|Demi-glace
+Bouillabaisse|Bouillabaisse
+Crumpet|
+Bakewell tart|Bakewell tart
+Doogh|null
+Gooey butter cake|Gooey butter cake
+Calzone|Calzone
+Zwiebelkuchen|Zwiebelkuchen
+Pelmeni|Pelmeni
+Bosna (sausage)|Bosna
+Fromage blanc|Fromage blanc
+Gulyásleves|Gulyásleves
+Pumpernickel|Pumpernickel
+Mint (candy)|Mint
+White pudding|White pudding
+Panini (sandwich)|Panini
+French dip|
+White bread|White bread
+Blini|Blini
+Veggie burger|Veggie burger
+Steak tartare|Steak tartare
+Tenkasu|Tenkasu
+Coffee milk|Coffee milk
+Koeksister|Koeksister
+Prahok|Prahok
+Pâté|Pâté
+Galbi|galbi
+Bibimbap|Bibimbap
+Fufu|Fufu
+Pyttipanna|Pytt i panna
+Balsamic vinegar|Balsamic vinegar
+Churrasco|Churrasco
+Rice pudding|Rice pudding
+Rösti|Rösti
+Piccalilli|Piccalilli
+Snow cone|Snow cone
+Bánh mì|Bánh mì
+Fettuccine|Fettuccine
+Chili dog|Chili dog
+Locro|null
+Latke|Latke
+Green papaya salad|Green papaya salad
+Kitchener bun|Kitchener bun
+Shchi|Shchi
+Coronation chicken|Coronation chicken
+Hot water crust pastry|Hot water crust pastry
+Steak and kidney pie|Steak and kidney pie
+Vada pav|Vada pav
+Bhel puri|Bhelpuri
+Baked Alaska|null
+Kulfi|Kulfi
+Dolma|Dolma
+Black soup|null
+Gingerbread man|Gingerbread man
+Bonda (snack)|Bonda
+Baby food|Baby food
+Doner kebab|Doner kebab
+Donair|Donair
+Kai yang|Kai yang
+Shark fin soup|Shark fin soup
+null|Imitation shark fin soup
+Rugbrød|
+Balut (food)|Balut
+Pozole|Pozole
+Gruel|Gruel
+Penne alla vodka|Penne alla vodka
+Kissel|Kissel
+Pakora|Pakora
+Sachertorte|Sachertorte
+St. Louis–style pizza|St. Louis–style pizza
+Fairy bread|
+Small sausage in large sausage|Small sausage in large sausage
+Oyster vermicelli|Oyster vermicelli
+Upma|Upma
+Mantou|Mantou
+Marshmallow creme|Marshmallow creme
+General Tso's chicken|General Tso's chicken
+Sōmen salad|Sōmen salad
+Cupcake|Cupcake
+Snickerdoodle|Snickerdoodle
+Farl|Farl
+Coleslaw|Coleslaw
+Horilka|Horilka
+Irish stew|Irish stew
+Beef Stroganoff|Beef Stroganoff
+Cheese fries|Cheese fries
+Shabu-shabu|Shabu-shabu
+Coddle|Coddle
+Paneer|Paneer
+Horse meat|Horse meat
+Sundae|Sundae
+Fried brain sandwich|Fried brain sandwich
+Brigadeiro|Brigadeiro
+Tortilla chip|Tortilla chip
+Gobstopper|Gobstopper
+Rollmops|Rollmops
+Lox|Lox
+Mizuame|
+Higashi (food)|
+Perpetual stew|Perpetual stew
+Ladyfinger (biscuit)|Ladyfinger
+Soup with risotto|Soup with risotto
+Aloo gobhi|Aloo gobhi
+Obatzda|Obatzda
+Panna cotta|Panna cotta
+Gulab jamun|Gulab jamun
+Rocky road (ice cream)|Rocky road
+Freezie|Freezie
+Lobster roll|Lobster roll
+Prekmurska gibanica|Prekmurska gibanica
+Sloppy joe|Sloppy Joe
+Oyster cracker|Oyster crackers
+Schnitzel|Schnitzel
+Ekiben|Ekibento
+Bouillon (soup)|Bouillon
+Clambake|Clambake
+Jaffa Cakes|Jaffa Cakes
+Menudo (soup)|Menudo
+Marrow (vegetable)|Marrow
+Liver pâté|Liver pate
+Cadbury Creme Egg|Cadbury Creme Egg
+Frikadelle|Frikadelle
+Beurre noisette|Beurre noisette
+Bamba (snack)|Bamba
+Biryani|Biryani
+Cinnamon roll|Cinnamon roll
+Scotch pie|null
+Greek salad|Greek salad
+Raita|Raita
+Toaster pastry|Toaster pastry
+Béarnaise sauce|Béarnaise sauce
+Chikuwa|'Chikuwa'
+Tabbouleh|Tabbouleh
+Tourtière|Tourtière
+Red pudding|Red pudding
+Champon|Champon
+Korokke|Korokke
+Butter tart|Butter tart
+Speculaas|Speculaas
+Red velvet cake|Red velvet cake
+Pampushka|Pampushka
+Kringle|Kringle
+Penuche|Penuche
+Käsespätzle|Käsespätzle
+Toasted ravioli|Toasted ravioli
+Tajine|Tajine,
+Cranachan|Cranachan
+Belgian waffle|Belgian waffles
+Rusk|Rusk
+Fig roll|Fig Roll
+Po'e|Poʻe
+Mille-feuille|Mille-feuille
+Deep-fried Mars bar|Deep-fried Mars bar
+Bialy (bread)|Bialy
+Italian beef|Italian beef
+Knish|Knishes
+Challah|Challah
+Taramasalata|Taramasalata
+Devilled kidneys|Devilled kidneys
+Hamburger Helper|Hamburger Helper
+Jemput-jemput|Jemput-jemput
+Fritter|Fritter
+Fried ice cream|Fried ice cream
+Onion ring|Onion ring
+Montreal-style bagel|Montreal-style bagel
+Smoked meat|Smoked meat
+Schmaltz|Schmaltz
+Königsberger Klopse|Königsberger Klopse
+Dahi vada|Dahi vada or Dahi Bada
+Kraft Singles|Kraft Singles
+Salisbury steak|Salisbury steak
+Æbleskiver|Æbleskiver
+Poffertjes|Poffertjes
+Samlor machu|Samlor machu
+Vla|Vla
+Sauerbraten|Sauerbraten
+Kornigou|Kornigou
+Spumoni|Spumoni
+Spiedie|Spiedie
+Candy apple|Candy apple
+Gimbap|Gimbap
+Czernina|Czernina
+Kroppkaka|Kroppkaka
+Fun Dip|null
+Lefse|Lefse
+Fruit sours|Fruit sours
+Rissole|Rissole
+Stollen|Stollen
+German chocolate cake|German chocolate cake
+Melt sandwich|Melt sandwich
+Tsampa|Tsampa
+Popiah|Popiah
+Haleem|Haleem
+Rambak petis|Rambak petis
+Kamarcut|Kamarkattu
+Ajvar|Ajvar
+Capocollo|Capocollo
+Hornazo|Hornazo
+Banana bread|Banana bread
+Bagoong|Bagoong
+Cobbler (food)|Cobbler
+Kugel|Kugel
+Kompot|Kompot
+Kouign-amann|Kouign-amann
+Hokkien mee|Hokkien mee
+Bak kut teh|Bak kut teh
+Runza|Runza
+Bananas Foster|Bananas Foster
+Flummadiddle|Flummadiddle
+Dondurma|Dondurma
+Beurre noir|Beurre noir
+Linguine|Linguine
+Cotriade|Cotriade
+Deviled egg|null
+Louis dressing|Louis dressing
+Mint chocolate chip|Mint chocolate chip
+Apple strudel|Apple strudel
+Chess pie|Chess pie
+Tirit|Tirit
+Quindim|Quindim
+Coconut jam|Coconut jam
+Otak-otak|Otak-otak
+Chocolate liquor|Chocolate liquor
+Gochujang|Gochujang
+Corned beef pie|Corned beef pie
+Egg roll|Egg roll
+Velouté sauce|Velouté sauce
+Papo-de-anjo|Papo-de-anjo
+Madeleine (cake)|Madeleines
+Kinpira|Kinpira
+Saganaki|Saganaki
+Bombay mix|Bombay mix
+Rum ball|Rum ball
+Japanese noodles|Japanese noodles
+Damper (food)|Damper
+Tablet (confectionery)|Tablet
+Namagashi|Namagashi
+Yōkan|Yōkan
+Monaka|Monaka
+Adobo|Adobo
+Filo|Filo
+Jujube (confectionery)|Jujube
+Mettwurst|Mettwurst
+Teewurst|Teewurst
+Ziti|Ziti
+Atole|Atole
+Chimichurri|
+Arroz a la cubana|Arroz a la cubana
+Champurrado|null
+Jalebi|Jalebi
+Cervelat|Cervelat
+Breadcrumbs|Breadcrumbs
+Sopaipilla|Sopaipilla
+Spritzgebäck|Spritzgebäck
+Crows (candy)|Crows
+Pasta al pomodoro|Pasta al pomodoro
+Cheesymite scroll|Cheesymite scroll
+Peach Melba|Peach Melba
+Scouse (food)|Scouse
+Nanaimo bar|Nanaimo bar
+Shiruko|Shiruko
+Fruit salad|Fruit salads
+Salty liquorice|Salty liquorice
+Devil's curry|Devil curry
+Hash browns|Hash browns
+Česnica|Česnica
+Lemon ice box pie|Lemon ice box pie
+Limoncello|Limoncello
+Knickerbocker glory|Knickerbocker glory
+New York–style bagel|null
+Pancetta|Pancetta
+Ciabatta|Ciabatta
+Sata (food)|null
+Zhajiangmian|null
+Cobb salad|Cobb salad
+Hamantash|Hamantash
+Misua|Misua
+Tianmian sauce|Tianmian sauce
+Farfel|Farfel
+Shoofly pie|Shoo-fly pie
+Panipuri|, !--####DON'T ADD ANY OTHER NAME HERE####--,  Panipuri
+Garlic chutney|Garlic chutney
+Bhakri|Bhakri
+Egg foo young|Egg foo young
+Steak pie|Steak Pie
+Momo (food)|Momo
+Apple cake|Apple cake
+Orange chicken|Orange chicken
+Toast Hawaii|Toast Hawaii
+Rumtopf|Rumtopf
+Christmas wafer|Christmas wafer
+Hujiao bing|Hujiao bing
+Jammie Dodgers|Jammie Dodgers
+Bamsemums|Bamsemums
+Bundt cake|Bundt Cake
+Eccles cake|Eccles cake
+Bara brith|Bara brith
+Honeycomb toffee|Honeycomb toffee
+Farinata|Farinata
+Groat (grain)|Groats
+Kasha|Kasha
+Kuchen|Kuchen
+Galette|Galette
+Cholent|Cholent
+Double ka meetha|Double ka Meetha
+Corn on the cob|Corn on the cob
+Liquorice allsorts|Liquorice allsorts
+Scrod|Scrod
+Salmorejo|Salmorejo
+Pain au chocolat|Pain au chocolat
+Ice cream float|Ice cream float
+Goetta|Goetta
+Buttery (bread)|Rowie
+Stinky tofu|Stinky tofu
+Muffuletta|Muffuletta
+Grape leaves|Grape leaves
+Soy sauce chicken|Soy sauce chicken
+Chicken tenders|Chicken tenders
+Soused herring|Soused herring
+Penne|Penne
+Pecan pie|Pecan pie
+Tater tots|Tater tots
+Cincinnati chili|Cincinnati chili
+Wine gum|null
+Biscotti|Biscotti
+Tapioca pudding|Tapioca pudding
+Queen of Puddings|Queen of Puddings
+Promite|Promite
+Boxty|Boxty
+Portuguese sweet bread|Portuguese sweet bread
+Powidl|Powidl
+Mozartkugel|Mozartkugel
+White chocolate|White chocolate
+London drops|London drops
+Chicken Kiev|null
+Peanut butter cup|Peanut butter cup
+Naengmyeon|Naengmyeon
+Syllabub|Syllabub
+Fasnacht (doughnut)|Fasnacht
+Samgyeopsal|Samgyeopsal
+Golden syrup|Golden syrup
+Cawl|Cawl
+Solero (ice cream)|Solero
+Chocolate pudding|Chocolate pudding
+Liptauer|Liptauer
+Hotdish|Hotdish
+Choux pastry|Choux pastry
+Arepa|Arepa
+Douhua|Douhua
+Douchi|Douchi (豆豉)
+Empire biscuit|Empire biscuit
+Krapfen (doughnut)|Berliner
+Nunt|Nunt
+Apple crisp|Apple crisp
+Kreplach|Kreplach
+Yusheng|Yee Sang
+Matzah ball|Matzah ball
+Pizzoccheri|Pizzoccheri
+Welsh cake|Welsh cake ,
+Crempog|Crempog
+Cuccìa|Cuccìa
+Parker House roll|Parker House roll
+Tomalley|Tomalley
+Madeira cake|Madeira cake
+Tripe soup|Tripe soup
+Koottu|Koottu
+Chimichanga|Chimichanga
+Gumdrop|Gumdrop
+Machacado con huevo|Machacado con huevo
+Harees|Harees
+French onion soup|French onion soup
+Karintō|Karintō
+Macedonia (food)|Macedonia
+Torta caprese|Torta caprese
+Black Forest gateau|Black Forest gateau
+Koliva|Koliva
+Whoopie pie|Whoopie pie
+Ais kacang|Ais kacang ,
+Kuih|Kuih ,
+Meat pie (Australia and New Zealand)|Meat pie
+Kaiser roll|Kaiser roll
+Vark|Vark or Waraq
+Chermoula|Chermoula
+Shichimi|Shichimi
+Banana cream pie|Banana cream pie
+Merguez|Merguez
+Beef Wellington|Beef Wellington
+Bigilla|Bigilla
+Apple butter|Apple butter
+Combos|Combos
+Sealed crustless sandwich|Sealed crustless sandwich
+Continental AG|Mansaf
+Jameed|Jameed
+Carne asada|Carne asada
+Coyotas|Coyotas
+Garibaldi biscuit|Garibaldi biscuit
+Chip butty|Chip butty
+Stroopwafel|Stroopwafel
+Pease pudding|Pease pudding
+Unleavened bread|Unleavened bread
+Bonbon|Bonbon
+Gravlax|Gravlax
+Pot pie|Pot pie
+Sugar cookie|
+Ghormeh sabzi|Ghormeh Sabzi
+Mexican rice|Mexican rice
+Surf and turf|Surf and turf
+Brunswick stew|Brunswick stew
+Bruschetta|Bruschetta
+Mititei|Mititei
+Fluffernutter|Fluffernutter sandwich
+Khaja|Khaja
+Stottie cake|Stottie cake
+Danger dog|Danger dog
+Maple taffy|Maple taffy
+Kottenbutter|Kottenbutter
+Pupusa|Pupusa
+Panela|Panela
+Fasolada|Fasolada
+Strudel|Strudel
+Hasenpfeffer|Hasenpfeffer
+Migas|Migas
+Bappir|Bappir
+Ensaïmada|Ensaimada
+Sobrassada|Sobrassada
+Gallo pinto|Gallo pinto
+Hallaca|Hallaca
+Laddu|Laddu
+Currywurst|Currywurst
+Daube|Daube
+Hard sauce|Hard sauce
+Smalahove|Smalahove
+Nasi kandar|Nasi kandar,
+Caramel apple|Caramel apple
+Manapua|Manapua
+Cream pie|null
+Layer cake|Layer cake
+Butajiru|Tonjiru
+Bhatura|Bhatura
+Chocolate chip|Chocolate chip
+Charoset|Charoset
+Pabellón criollo|Pabellón criollo
+Tequeño|Tequeño
+Cachapa|Cachapas
+Pastitsio|Pastitsio
+Kifli|Kipferl
+Tempoyak|Tempoyak ,
+Solyanka|Solyanka
+Sufganiyah|Sufganiyah
+Pot liquor|Pot liquor
+Sadya|Sadya
+Dipping sauce|Dip sauce
+Buchteln|Buchteln
+Simnel cake|Simnel cake
+Cashew chicken|Cashew chicken
+Nacatamal|Nacatamal
+Pio Quinto|Pio Quinto
+Fat rascal|Fat rascal
+Haw flakes|Haw flakes
+Cullen skink|Cullen skink
+Bourbon biscuit|Bourbon
+Oatmeal ball|Oatmeal Balls
+Texas toast|Texas toast
+Harira|Harira
+Chicken and mushroom pie|Chicken and mushroom pie
+Paçoca|Paçoca
+Amuse-bouche|Amuse-bouche
+Antipasto|Antipasto
+Beef on weck|Beef on weck
+Liquorice (confectionery)|Liquorice
+Tompouce|Tompoes
+Cellophane noodles|Cellophane noodles
+Chicago-style hot dog|Chicago-style hot dog
+Cheese puffs|Cheese puffs
+Dodger Dog|The Dodger Dog
+Pastiera|Pastiera
+Rich tea|Rich tea
+Chaat|Chaat
+Hong Kong–style milk tea|Hong Kong–style milk tea
+Egg tart|Egg tart
+Kheer|Kheer
+Junior Mints|Junior Mints
+Tlacoyo|Tlacoyo
+Chistorra|Chistorra
+Serbian salad|Serbian salad
+Corn nut|Corn nut
+Kuyteav|Kuyteav
+Lukanka|Lukanka
+Sujuk|Sujuk
+Cream cracker|Cream cracker
+Cepelinai|Cepelinai
+Lyutika|Lyutika
+Soured milk|Soured milk
+Viili|Viili
+Teja (confectionery)|Teja
+Jenny Lind's soup|Jenny Lind's soup
+Au jus|Au jus
+Italian ice|Italian ice
+Buddha Jumps Over the Wall|Buddha Jumps Over the Wall
+Lay's Wow chips|Lay's Wow Chips
+Egg in the basket|Egg in the basket
+Rumaki|Rumaki
+Tapenade|Tapenade
+Baozi|Baozi
+American chop suey|American chop suey
+Kibbeh|Kibbeh
+Koshary|Koshary
+Frito pie|Frito pie
+Tortelloni|Tortelloni
+Papadam|Papadam
+Chocolate balls|Chocolate balls
+Mysore pak|Mysore pak
+Swiss roll|Swiss roll
+Chicharrón|Chicharrón
+Tortas de aceite|Torta de aceite
+Potato bread|Potato bread
+Chalupa|Chalupas
+Bigos|Bigos
+Smørrebrød|Smørrebrød
+Zacuscă|Zacuscă
+Popover|Popover
+Falooda|Falooda
+Macaroni salad|Macaroni salad
+Hushpuppy|Hushpuppy
+Porchetta|Porchetta
+Luther Burger|Luther Burger
+Dim sim|Dim sim
+Bacon sandwich|Bacon sandwich
+Ragout|Ragout
+Bánh bao|Bánh bao
+Benedictine (spread)|Benedictine
+Panch phoron|Panch phoron ,  Pancha phutana
+Italian tomato pie|Italian tomato pie
+Bizcochito|Bizcochito
+Éclair|Éclair
+Colcannon|Colcannon
+Prosphora|Prosphora
+Sapote|Sapote
+French dressing|French dressing
+Mandoca|Mandoca
+Francesinha|Francesinha
+Ginger beef|Ginger beef
+Sliced fish soup|Sliced fish soup
+Wat (food)|Wat
+Niter kibbeh|Niter kibbeh
+Loco moco|Loco moco
+Bear claw|Bear claw
+Hot milk cake|Hot milk cake
+Hoe (food)|Hoe
+Sop|Sop
+Sloosh|Sloosh
+Gordita|Gordita
+Fondant icing|Fondant
+Macaron|
+Chocolate spread|Chocolate spread
+Callaloo|Callaloo
+Pepperoni roll|Pepperoni roll
+CC's|CC's
+Chile relleno|Chile relleno
+Force (cereal)|Force
+Rasgulla|Rasgulla
+Angel wings|Angel wings
+Carrot cake|Carrot cake
+Spice cake|Spice cake
+Mock turtle soup|Mock turtle soup
+Aloo pie|Aloo pie
+Huevos rancheros|Huevos rancheros
+Depression cake|Depression cake
+Nice biscuit|Nice biscuit
+Kombdi vade|vade sagoti
+Yong tau foo|Yong tau foo
+Chocolate syrup|Chocolate syrup
+Chai tow kway|Chai tow kway
+Meat and potato pie|Meat and potato pie
+Machaca|Machaca
+Ugali|Ugali
+Traou Mad|Traou Mad
+Cajeta de Celaya|Cajeta
+Banta|Goli Soda
+Caffè mocha|mocha
+Nonpareils|Nonpareils
+Droëwors|Droëwors / Dry Wors
+Arròs negre|Arròs negre
+Chocolate fish|Chocolate fish
+Fanesca|Fanesca
+Kimchi fried rice|Kimchi fried rice
+Frybread|Frybread
+Squash blossom|Squash blossom
+Vienna sausage|Vienna sausage
+Cioppino|Cioppino
+Halo-halo|Halo-Halo
+Jansson's temptation|Jansson's temptation
+Stovies|Stovies
+Hot Brown|Hot Brown
+Mesclun|Mesclun
+Torta|Torta
+Ćevapi|Ćevapi
+Murtabak|Motabbaq
+Tahu goreng|Tahu goreng
+Farina (food)|Farina
+Soto ayam|Soto ayam
+Mee siam|Mee Siam
+Pernil|Pernil
+Chelow kabab|Chelow kebab
+Halušky|Haluški
+Cannelloni|Cannelloni
+Lekor|Keropok Lekor ,  }}
+Stuffed crust pizza|Stuffed crust pizza
+Bunny chow|Bunny chow
+Kimchi-jjigae|Kimchi-jjigae
+Palt|Palt
+Blodpalt|Blodpalt
+Pitepalt|Pitepalt
+Lebanon bologna|Lebanon bologna
+Thuringian sausage|Thuringian sausage
+Mandu (food)|Mandu
+Okroshka|Okroshka
+Linzer torte|Linzer torte
+Shrikhand|Shrikhand
+Ipoh white coffee|Ipoh white coffee , BR/,   , BR/,     , BR/,   , BR/,
+Jallab|Jallab
+Yakiniku|
+Ragù|Ragù
+Nihari|Nihari
+Jhajariya|Jhajhariya
+Oh Henry!|Oh Henry!
+Nokul|Nokul
+New York–style pizza|New York–style pizza
+Bistek|Bistek
+Sinigang|Sinigang
+Bisque (food)|Bisque
+Senbei|Senbei
+Tinola|Tinola
+Mechado|Mechado
+Svartsoppa|Svartsoppa
+New Haven–style pizza|New Haven-style pizza
+California-style pizza|California-style pizza
+Greek pizza|Greek pizza
+Wrap (food)|Wrap
+Puri (food)|Puri
+Yuenyeung|Yuenyeung
+Jamón|Jamón
+Upside-down cake|Upside-down cake
+Date and walnut loaf|Date and walnut loaf
+Corn chip|Corn chip
+Bò nướng lá lốt|Bò nướng lá lốt
+Kettle corn|Kettle corn
+Agnolotti|Agnolotti
+Ful medames|Ful
+Alicot|Alicot
+Aligot|Aligot
+Freeze-dried ice cream|Freeze-dried ice cream
+Beef bourguignon|Beef bourguignon
+Truffade|Truffade
+Batata harra|Batata harra
+Kolach (cake)|Koláč
+Bierock|Bierock
+Songpyeon|Songpyeon
+Arrabbiata sauce|Arrabbiata sauce
+Jamaican patty|Jamaican patty
+Bingsu|Bingsu
+Pappardelle|Pappardelle
+Hayashi rice|Hayashi rice
+Arancini|Arancini
+Cranberry sauce|Cranberry sauce
+Everlasting Gobstopper|Everlasting Gobstopper
+Creamed corn|Creamed corn
+Mozzarella sticks|Mozzarella sticks
+American goulash|American goulash
+Sancocho|Sancocho
+Hwangnam-ppang|Gyeongju bread
+Gofio|Gofio
+Butter cake|Butter cake
+Chupe|Chupe
+Pav bhaji|Pav Bhaji
+Sopa de pata|Sopa de foot
+Red beans and rice|Red beans and rice
+Moqueca|Moqueca
+Cheese sandwich|Cheese sandwich
+Alcapurria|Alcapurria
+Teh tarik|Teh tarik
+Rössypottu|Rössypottu
+Fläskpannkaka|Fläskpannkaka
+Panforte|Panforte
+Almond bark|Almond bark
+Caramel corn|Caramel corn, caramel popcorn
+Hyderabadi biryani|Hyderabadi biryani
+Barbari bread|Barbari bread
+Chicken tikka|Chicken tikka
+Baeckeoffe|Baeckeoffe
+Eton mess|Eton mess
+Creme de papaya|Creme de papaya
+Khachapuri|Khachapuri
+Divinity (confectionery)|Divinity
+Cocktail sauce|Cocktail sauce
+Banoffee pie|Banoffee pie
+Rumford's Soup|Rumford's Soup
+Nasi uduk|Nasi uduk
+Doubles (food)|Doubles
+Samgye-tang|Samgye-tang
+Doenjang|Doenjang
+Spam musubi|Spam musubi
+Bridie|Bridie
+Phall|Phall
+Kaju katli|Kaju katli
+Chuño|Chuño
+Flattened rice|Flattened rice
+Salt potatoes|Salt potatoes
+Grass jelly|Grass jelly
+Bucatini|Bucatini
+Blooming onion|Blooming onion
+Rasam (dish)|Rasam
+Kraków sausage|Kraków sausage
+Chocolate cake|Chocolate cake
+Flammekueche|Flammekueche
+Kare-kare|Kare-kare
+Song gao|Song gao
+Laobing|Laobing
+Pasanda|Pasanda (Pasande)
+Banitsa|Banitsa, баница
+Drisheen|Drisheen
+Sha cha beef|Sha cha beef
+Dorayaki|Dorayaki
+Tapa (Filipino cuisine)|Tapa
+Michigan hot dog|Michigan hot dog
+Tong sui|Tong sui
+Bouillon cube|Bouillon cubes
+Circus peanut|Circus peanut
+Potjiekos|Potjiekos
+Mielie meal|Mielie meal
+Tomato bredie|Tomato bredie
+Sosatie|Sosatie
+Umngqusho|Umngqusho
+Malva pudding|Malva pudding
+Melktert|Melktert
+Waterblommetjiebredie|Waterblommetjiebredie
+Vichyssoise|Vichyssoise
+Zōni|Zōni
+Red-eye gravy|
+Mix-in|Mix-in
+Cheddars|Cheddars
+Maxwell Street Polish|Maxwell Street Polish
+Sabzi polo|Sabzi polo
+Beer soup|Beer soup
+Vetkoek|Vetkoek
+Mealie bread|Mealie bread
+Frikkadel|Frikkadel
+Vietnamese iced coffee|Cà phê đá
+Lobster Thermidor|Lobster Thermidor
+Samp|
+Sangak|Sangak
+Tteokguk|Tteokguk
+Strela candy|Strela candy
+Kyiv cake|Kyiv cake
+Nut butter|Nut butter
+Flatbread|Flatbread
+Coney Island hot dog|Coney dog
+Wingko|Wingko
+Flatbrød|Flatbrød
+Full-course dinner|Full course dinner
+Boston cream pie|Boston cream pie
+Boston cream pie|Boston cream pie
+Livermush|Livermush
+Taffy (candy)|Taffy
+Kaiserschmarrn|
+Pisto|Pisto
+Dhokla|Dhokla
+Kugelis|Bulvių plokštainis
+Genoise|Genoise
+Al pastor|Al pastor
+Mike and Ike|Mike and Ike
+Acini di pepe|Acini di pepe
+St. Paul sandwich|St. Paul sandwich
+Melonpan|Melonpan
+Uszka|Uszka
+Haupia|Haupia
+Burong mangga|Burong mangga
+Lángos|Lángos
+Étouffée|Étouffée
+Sincronizada|Sincronizada
+Galaktoboureko|null
+Ayran|Ayran
+Spaghetti alla puttanesca|Spaghetti alla puttanesca
+Pörkölt|Pörkölt
+Börek|Börek
+Suya|Suya
+Sweet chili sauce|Sweet chili sauce
+Mohinga|Mohinga
+Abnabat|Abnabat
+Pot-au-feu|Pot-au-feu
+Salad cream|Salad cream
+Honey bun|Honey bun
+Rye bread|Rye bread
+Escudella|Escudella i carn d'olla
+Agemochi|Agemochi
+Tilkut|Tilkut
+Duqqa|Duqqa
+Pain de mie|Pain de mie
+Char siu|Char siu
+Military chocolate (United States)|Military chocolate
+Pineapple bun|Pineapple bun
+Manwich|Manwich
+Butter tea|Butter tea
+Frittata|Frittata
+Burgoo|Burgoo
+Cocktail bun|Cocktail bun
+Barfi|Barfi
+Mulligan stew|Mulligan stew
+Hot dog bun|Hot dog bun
+Biangbiang noodles|Biangbiang noodles
+Curd rice|Curd rice
+Cuajada|Cuajada
+Rugelach|Rugelach
+Crudités|Crudités
+Battenberg cake|Battenberg Cake
+Christmas cake|Christmas cake
+Banana pudding|Banana pudding
+Chocolate-covered raisin|Chocolate-covered raisin
+Saltine cracker|Saltine cracker
+Breakfast burrito|Breakfast burrito
+Abura-age|Abura-age
+Pancit|Pansit
+Kulen|null
+Christmas cookie|Christmas cookies
+Bulkie roll|Bulkie roll
+Coda alla vaccinara|Coda alla vaccinara
+Chinese sausage|Dried Chinese sausages
+Egg bhurji|Egg bhurji
+Sev mamra|Sev mamra
+Curry bread|Curry bread
+Duxelles|Duxelles
+Bottarga|Bottarga
+Financier (cake)|
+Banmian|Banmian
+Banmian|Mian Fen Guo
+Muisjes|Muisjes
+Ontbijtkoek|Ontbijtkoek
+Swiss wing|Swiss wing
+Mofongo|Mofongo
+Gosht|Gosht (گوشت)
+Mangalore bajji|Golibaje
+Lingonberry jam|Lingonberry jam
+Candy cigarette|Candy cigarettes
+Henry Bain sauce|Henry Bain sauce
+Bannock (British and Irish food)|Bannock
+Pignolata|Pignolata
+Mujaddara|Mujaddara
+Spoom|Spoom
+Puran poli|Obbattu
+Derby pie|Derby pie
+Vlokken|Vlokken
+Ice cream cake|Ice cream cake
+Swiss steak|Swiss steak
+Matar paneer|Mattar paneer
+Pizza Margherita|Pizza Margherita
+Bagna càuda|Bagna càuda
+Odori ebi|Odori ebi
+Stack cake|Stack cake
+Sofrito|Sofrito
+YoCrunch|
+Bourbon ball|Bourbon ball
+Ready Brek|Ready Brek
+Lobster Newberg|Lobster Newburg
+Nikujaga|Nikujaga
+Manti (food)|Manti
+Parmigiana|Parmigiana
+Ginger snap|Ginger Snap
+Green tea ice cream|Green Tea Ice Cream
+Bakauke|Bakauke
+Cookies and cream|Cookies and cream
+Fruit butter|Fruit butter
+Mak-guksu|Mak-guksu
+Caldo verde|Caldo verde
+Alheira|Alheira
+Chakli|Chakli
+Gribenes|Gribenes
+Parmo|Parmo
+Palak paneer|Palak paneer
+Flat white|Flat white
+Krumkake|Krumkake
+Kusa mochi|Kusa mochi
+Bolani|Bolani
+Cumberland sauce|Cumberland sauce
+Nian gao|Nian gao
+Oysters Rockefeller|Oysters Rockefeller
+Chiles en nogada|Chile en nogada
+Tavče gravče|Tavče gravče
+Diplomat pudding|Diplomat pudding
+Odong|Odong
+Steamed bread|Steamed bread
+Cuban espresso|Café Cubano
+Shrimp paste|Shrimp paste
+Orzo|Orzo
+Animal cracker|Animal Cracker
+Koala's March|Koala's March
+Simit|Simit
+Neapolitan ragù|Neapolitan ragù
+Chopped liver|Chopped liver
+Taquito|Taquito
+Banana boat (food)|Banana boat
+Teacake|Teacake
+Mattha|Mattha
+Kolak (food)|Kolak
+Carambar|Carambar
+Karelian hot pot|Karelian hot pot
+Cock-a-leekie|Cock-a-leekie soup
+Frog cake|Frog cake
+Shaobing|Shaobing
+Sukuti|Sukuti
+Double Decker (chocolate bar)|Double Decker
+Raheb|Raheb
+Noodle soup|Noodle soup
+Blue cheese dressing|Blue cheese dressing
+Anticucho|Anticuchos
+Dariole|Dariole
+Chawanmushi|Chawanmushi
+null|Myeongnan-jeot
+Canelé|Canelé
+Yankie Bar|Yankie Bar
+Sisig|Sisig
+Slinger (dish)|Slinger
+Japchae|Japchae
+Chiffon cake|Chiffon cake
+Chocolate-coated peanut|Chocolate-coated peanut
+St. Honoré cake|St. Honoré Cake
+Curry mee|Curry mee
+Barm cake|Barm cake
+Tulumba|Tulumba
+Xiaolongbao|Xiaolongbao
+Frangipane|Frangipane
+Sticky toffee pudding|null
+Stromboli (food)|Stromboli
+Kashk|Kashk
+Antidoron|Antidoron
+Campanelle|Campanelle
+Cavatelli|Cavatelli
+Conchiglie|Conchiglie
+Cacciatore|Cacciatore
+Prawn cocktail|Prawn cocktail
+Kelaguen|Kelaguen
+Chana masala|Chana masala
+Garlic bread|Garlic bread
+Chocolate letter|Chocolate letter
+Rice and beans|Beans and rice
+Salo (food)|Salo
+Mahleb|Mahleb
+Lung fung soup|Lung fung soup
+Trenette|Trenette
+Goat curry|Curry Goat
+Urnebes|Urnebes
+Junket (dessert)|Junket
+Cassata|Cassata
+Adana kebabı|Adana kebabı
+Pongal (dish)|Pongal
+White hot|White hot
+Crema catalana|Crema catalana
+Guinness Yeast Extract|Guinness Yeast Extract
+Ossobuco|Ossobuco
+Water biscuit|Water biscuit
+Farfalle|Farfalle
+Lemonhead (candy)|Lemonhead
+Lane cake|Lane cake
+Chile con queso|Chile con queso
+Idiyappam|Idiyappam
+Rigatoni|Rigatoni
+Smörgåstårta|Smörgåstårta
+Smažený sýr|Smažený sýr
+Sopa de mondongo|Sopa de mondongo
+Ajiaco|Ajiaco
+Arroz con pollo|Arroz con pollo
+Gözleme|Gözleme
+Comfit|Comfit
+Jajangmyeon|Jajangmyeon
+Molten chocolate cake|Molten chocolate cake
+Tea egg|Tea egg
+Meat floss|
+Cocada amarela|Cocada amarela
+Japanese curry|Japanese curry
+Montreal hot dog|Montreal hot dog
+Bati (bread)|Baati
+Unagi|Unagi
+Bonfire toffee|Bonfire toffee
+Sugar plum|Sugar plum
+Xacuti|Xacuti
+Sarapatel|Sarapatel
+Bebinca|Bebinca
+Hoppin' John|Hoppin' John
+Gyūhi|Gyūhi
+Clafoutis|Clafoutis
+Cremeschnitte|Cremeschnitte
+'otai|'Otai
+Rice vermicelli|Rice vermicelli
+Green curry|Green curry
+Buñuelo|Buñuelo
+Cretons|Cretons
+Pu pu platter|Pu pu platter
+Nasi goreng|Nasi goreng
+Chilli crab|Chilli crab
+Pepper pot soup|Philadelphia Pepper Pot
+Gỏi cuốn|Gỏi cuốn / cold roll
+Fusilli|Fusilli
+Royal icing|Royal icing
+Chocolate crackles|Chocolate crackles
+Lo mein|Lo mein
+Puttu|Puttu
+Appam|Appam , !-- Please do not add any Indic script in this infobox, per WP:INDICSCRIPT policy. --,
+Fried pie|Fried pie
+Sausage bread|Sausage bread
+Jeow bong|Jeow Bong
+Massaman curry|Massaman curry
+Easter bread|Easter bread
+Pão de queijo|Pão de queijo
+Ostkaka|Ostkaka
+Strozzapreti|
+Chivito (sandwich)|Chivito
+Ají (sauce)|null
+Pumpkin bread|Pumpkin bread
+Guilinggao|Guilinggao
+Baked bean sandwich|Baked bean sandwich
+Spettekaka|Spettekaka
+Cudighi|Cudighi
+Blue moon (ice cream)|Blue moon
+Saltimbocca|Saltimbocca
+Kaszanka|Kaszanka
+Khanom bueang|Khanom bueang
+Lahmacun|Lahmacun (Lahmajun)
+Sfogliatella|Sfogliatella
+Chow mein sandwich|Chow mein sandwich
+Carnitas|Carnitas
+Vanillekipferl|Vanillekipferl
+Chinese steamed eggs|Chinese steamed eggs
+Oyster omelette|O-a-tsian, , small, (Oyster omelette), /small,
+Salade niçoise|Salade niçoise
+Parkin (cake)|Parkin
+Brik|Brik
+Humita|Humintas
+Cavatappi|Cavatappi
+Sanchuisanda|Sanchuisanda
+Kalburabastı|Hurma, Kalburabastı
+Curanto|Curanto
+Bánh tráng|Bánh tráng
+Squirrel Nut Caramel|Squirrel Nut Caramel
+Omurice|Omurice
+Papri chat|Papri chat
+Jalapeño popper|Jalapeño popper
+Charlotte (cake)|Charlotte
+Lemon chicken|Lemon chicken
+Cong you bing|Cong you bing
+Home fries|Home fries
+Pastille|Pastille
+Clam cake|Clam cake
+Indian ice cream (Canada)|
+Primanti Bros.|Primanti Bros. sandwich
+Bertie Beetle|Bertie Beetle
+Phitti|Phitti
+Brown Bobby|Brown Bobby
+Hutspot|Hutspot
+Sarma (food)|Sarma
+Chankonabe|Chankonabe
+Bar-le-duc jelly|Bar-le-duc jelly
+Curry puff|Curry puff
+Shahe fen|Shahe fen
+Rice noodles|Rice noodles
+Kolach (bread)|Kolach
+Fish head curry|Fish head curry
+Karađorđeva šnicla|Karađorđeva šnicla
+Podvarak|Podvarak
+Popara|Popara, Попара
+Kačamak|Kačamak
+Seolleongtang|Seolleongtang
+Gołąbki|Gołąbki
+Szaloncukor|Szaloncukor
+Pain d'épices|Pain d'épices
+Pandan cake|Pandan cake
+Cuban bread|Cuban bread
+Kalduny|Kalduny
+Green goddess dressing|Green goddess dressing
+Pulihora|Pulihora
+Zrazy|Zrazy
+Taho|Tahô
+Bredele|Bredela
+Italian dressing|Italian dressing
+Persimmon pudding|Persimmon pudding
+Floating island (dessert)|Floating island
+Moravian spice cookies|Moravian spice cookies
+Hokey pokey (ice cream)|Hokey pokey
+Mee pok|Mee pok
+Jjigae|Jjigae
+Goody (dessert)|Goody
+Pizza bagel|Pizza bagel
+Mukhwas|Mukhwas
+Bibingka|Bibingka
+Tteok|Tteok
+Tomato soup|Tomato soup
+Coffee cake (American)|Coffee cake
+Seekh kebab|Seekh Kebab
+Biscocho|Biskotso
+Skirlie|Skirlie
+Lolly cake|Lolly cake
+Boil up|Boil up
+Tangyuan (food)|Tangyuan
+Crêpes Suzette|Crêpes Suzette
+Guyanese pepperpot|null
+Kaki no tane|Kaki no tane
+Umaibō|Umaibō
+Khoa|Khoa
+California roll|California roll
+Boiled egg|
+Tilgul|Tilgul
+Tuna pot|Tuna pot
+Jamón ibérico|Jamón ibérico, Presunto ibérico
+Cao lầu|Cao lầu
+Zarangollo|Zarangollo
+Uttapam|Uttappam
+Flummery|Flummery
+Fruit curd|Fruit curd
+Sicilian pizza|Sicilian pizza
+Garash cake|Garash cake
+Cecina (meat)|Cecina
+Bandung (drink)|Bandung
+Galinha à portuguesa|Galinha à portuguesa
+Ankimo|Ankimo
+Italian sausage|Italian sausage
+Cha siu bao|Char siu bao
+Café con leche|Café con leche
+Dal bhat|Dal bhat
+Escabeche|Escabeche
+Poached egg|Poached egg
+Teurgoule|Teurgoule
+Argan oil|Argan oil
+White pizza|White pizza
+Chicken feet|Chicken feet
+Tacacá|Tacacá
+Bánh xèo|Bánh Xèo
+Amba (condiment)|Amba
+Bordelaise sauce|Bordelaise sauce
+Biscuit Tortoni|Biscuit Tortoni
+Smetana (dairy product)|Smetana
+Chili sauce and paste|Chili sauce and paste
+Friand|Friand
+Musakhan|Musakhan
+Markook (bread)|Markook Bread
+Maqluba|Maqluba
+Bob chorba|Bob chorba
+South Asian pickle|South Asian pickle
+Veda bread|Veda bread
+Cendol|Cendol
+Jalfrezi|Jalfrezi
+Butterbrot|Butterbrot
+Chakna|Chakna
+Buldak|Buldak
+Pastilla|Pastilla, North African pie
+Peaches and cream|Peaches and cream
+Salmagundi|Salmagundi
+Buttercream|Buttercream
+Pickled egg|
+Mississippi mud pie|null
+Eve's pudding|Eve's pudding
+Curd snack|Curd snack
+Kibbeh nayyeh|Kibbeh nayyeh
+Kuksu|Kuksu
+Okinawa soba|Okinawa soba
+Lamian|Lamian
+Cream stew|Cream stew
+Chicken Maryland|null
+Chanpurū|Chanpurū
+Petha|Petha
+Soki|Soki
+Tavern sandwich|Tavern Sandwich
+Egg sandwich|Egg sandwich
+Puppy chow (snack)|Puppy chow
+Yangzhou fried rice|Yangzhou fried rice
+Raisin bread|Raisin bread
+Neenish tart|Neenish tart
+Clover (spread)|Clover
+Amatriciana sauce|Amatriciana
+Guanciale|Guanciale
+Ngome (bread)|Ngome
+Tuna casserole|Tuna casserole
+Tlayuda|Tlayuda
+Bitterballen|Bitterballen
+Unni appam|Unni Appam (Karollappam)
+Schnitz un knepp|Schnitz un knepp
+Patties pie|Patties Pie
+Šakotis|
+Pullman loaf|Pullman loaf
+Jollof rice|null
+Moin moin|Moin-Moin, Moi-Moi
+Ice cream bar|Ice cream bar
+Bacon and egg pie|Bacon and egg pie
+Zuppa inglese|Zuppa inglese
+Gratin dauphinois|Gratin dauphinois
+Jam roly-poly|Jam roly-poly
+Nagasari|Nagasari
+Pecel|Pecel
+Ngo hiang|Ngo hiang
+Jello salad|Jello salad
+Chwee kueh|Chwee kueh
+Claypot rice|Claypot rice
+Pannenkoek|Pannenkoek
+Siopao|Siopao
+Maeun-tang|Maeun-tang
+Ginger milk curd|Ginger milk curd
+Petit gâteau|Petit gâteau
+Papas arrugadas|Papas arrugadas
+Springerle|Springerle
+Garlic knot|Garlic knots
+Garlic powder|Garlic powder
+Dots (candy)|Dots
+Shrimp toast|Shrimp toast
+Olla podrida|Olla podrida
+Bean salad|Bean salad
+Chicken salad|Chicken salad
+Chef salad|Chef salad
+Budu (sauce)|Budu
+Custard cream|Custard cream
+Fruit fool|Fool
+Lecsó|Lecsó
+Gypsy tart|Gypsy tart
+Bougatsa|Bougatsa
+Manjar blanco|Manjar blanco (Spanish), Menjablanc (Catalan)
+Dahi puri|Dahi puri
+Ukha|Ukha
+Germknödel|Germknödel
+Yule log (cake)|Yule log
+Mojama|Mojama
+Sesame seed cake|Sesame seed cake
+Menchi-katsu|Menchi-katsu
+Pig's organ soup|Pig's organ soup
+Pastizz|Pastizz
+Ciarduna|Ciarduna
+Shami kebab|Shami kabab
+Chicken and waffles|Chicken and waffles
+Poke (dish)|Poke and rice
+Pasta e fagioli|Pasta e fagioli
+Monkey gland sauce|null
+Veg kolhapuri|Vegetable kolhapuri
+Sticky bun|Sticky bun
+Ragda pattice|Ragda patties
+Mulukhiyah|Mulukhiyah
+Bündnerfleisch|Bündnerfleisch
+Turtle soup|Turtle soup
+Glamorgan sausage|Glamorgan sausage
+Mango pudding|Mango pudding
+Elenski but|Elenski but
+Bánh canh|Bánh canh
+Caparrones|Caparrones
+Mì Quảng|Mì Quảng
+Zopf|Zopf
+Eish merahrah|Eish merahrah
+Bath bun|Bath bun
+Chelsea bun|Chelsea bun
+Colston bun|Colston bun
+London bun|London bun
+Saffron bun|Saffron bun
+Mlinci|Mlinci
+Peanut sauce|Peanut sauce
+Dock pudding|Dock pudding
+Huckabuck|Huckabuck
+Mandelbrot (cookie)|Mandelbrot
+Barmbrack|Barmbrack
+Garlic fingers|Garlic fingers
+Brittle (food)|Brittle
+Gibanica|Gibanica
+Kaymak|Kaymak
+Teiglach|Teiglach
+Karah Parshad|Karah Prashad, ਕੜਾਹ ਪ੍ਰਸਾਦ
+Pastel de nata|Pastel de nata
+Flies' graveyard|
+Orecchiette|Orecchiette
+Mee rebus|Mee rebus
+Tiropita|Tiropita
+Arabic coffee|Arabic coffee
+Afikoman|Afikoman/אפיקומן
+Potica|Potica
+Nut roll|Nut roll
+Beondegi|Beondegi
+Tsoureki|Tsoureki
+Lyutenica|Lyutenitsa
+Pindjur|Pindjur
+Proja|Proja
+Pljeskavica|Pljeskavica
+Belgian bun|Belgian bun
+Kokoretsi|Kokoretsi
+Skilpadjies|Skilpadjies
+Pickled onion|Pickled onion
+Corn chowder|Corn chowder
+Tarhana|Tarhana
+Tufahije|Tufahije
+Brose|Brose
+Chakka prathaman|Chakka Pradhaman
+Kutti pi|Cutie Pie
+Pan de coco|Pan de coco
+Bakpia|Hopia / Bakpia
+Inipit|Inipit
+Bourekas|Bourekas
+Pasta primavera|Pasta primavera
+Treacle tart|Treacle tart
+Stamppot|Stamppot
+Rocky road (dessert)|Rocky road
+Chocolate truffle|Chocolate truffle
+Kopytka|Kopytka
+Thenthuk|Thenthuk
+Prince Polo|Prince Polo
+Khai yat sai|Khai yat sai
+Fish and brewis|Fish and brewis
+Chorley cake|Chorley cake
+Bavarian cream|Bavarian cream
+Bhaji|Bajji
+Kachori|Kachori
+Whipped cream|Whipped cream
+Chinsukō|Chinsuko
+Bánh chưng|Bánh chưng
+Bún bò Huế|Bún bò Huế
+Cơm tấm|Cơm tấm
+Matzah brei|Matzah brei
+Steak au poivre|Steak au poivre
+Ambrosia (fruit salad)|Ambrosia
+Kinuski|Russian Candy, Kinuski
+Chèvre chaud|Chèvre chaud
+Mykyrokka|Mykyrokka
+Kati roll|Kati roll
+Cascaron|Cascaron
+Paska (bread)|Paska
+null|Pască
+Blackberry pie|Blackberry pie
+Seafoam salad|Seafoam salad
+Crostata|Crostata
+Sabich|Sabich
+Taftan (bread)|Taftan
+Maple leaf cream cookie|Maple leaf cream cookies
+Runeberg torte|Runeberg torte
+Undhiyu|Undhiyu
+Khakhra|Khakhra
+Sucre à la crème|Sucre à la crème
+Tajín seasoning|Tajín Clásico
+Soldiers (food)|Soldiers
+Taco salad|Taco Salad
+Pandesal|Pandesal
+Avial|Avial
+Injipuli|Injipuli
+Koottukari|Koottukari
+Marron glacé|Marron glacé
+Windsor soup|Windsor soup
+Espetada|Espetada
+Pathiri|Pathiri
+Vol-au-vent|Vol-au-vent
+Leblebi|Leblebi
+Kimchi-buchimgae|Kimchi-buchimgae
+Pashmak|Pashmak
+Thukpa|Thukpa
+Rice noodle roll|Rice noodle roll
+Sütlü Nuriye|Sütlü Nuriye
+Kue|Kue
+Dotori-muk|Dotori-muk
+Nokdu-muk|Nokdu-muk
+Birria|Birria
+Veal Orloff|Veal Orloff
+Memil-muk|Memil-muk
+Pişmaniye|Pişmaniye
+Çoban salatası|Çoban salatası
+Piyaz|Piyaz
+Fattoush|Fattoush
+Salted duck egg|Salted duck egg
+Geplak|Geplak
+Jolada rotti|Jolada rotti
+Spoonbread|Spoonbread
+Kulich|Kulich
+Israeli salad|Israeli salad
+Frucht Quark|Frucht Quark
+Phat khing|Phat khing
+Bindae-tteok|Bindae-tteok
+Bosintang|Bosintang
+Almond butter|Almond butter
+Piki|Piki
+Sorbet|Sorbet
+Mongolian beef|Mongolian beef
+Goat roti|Goat roti
+Potted shrimps|Potted shrimps
+Johnnycake|Johnnycake
+Panellets|Panellets
+Manjū|Manjū
+Mandi (food)|Mandi
+Sándwich de miga|Sandwiches de miga
+Lardy cake|Lardy cake
+Kransekage|Kransekage
+Noppe|Noppe
+Slavink|Slavink
+Chicken lollipop|Chicken lollipop
+Manchow soup|Manchow soup
+Multekrem|Multekrem
+Kulcha|Kulcha
+Cockle bread|Cockle bread
+Summer pudding|Summer pudding
+Pinakbet|Pinakbet
+Bagoong monamon|Bagoong monamon
+Sausage sandwich|
+Pistachio pudding|Pistachio pudding
+Chikki|Chikki
+Champorado|Champorado
+Bizcocho|Bizcocho
+Soups in East Asian culture|Asian soups
+Dinengdeng|Dinengdeng
+Kinilnat|
+York Fruits|York Fruits
+Sahawiq|Sahawiq
+Tiger bread|Tiger bread
+Gamja-tang|Gamja-tang
+Kogel mogel|Kogel mogel
+Apas (biscuit)|Apas
+Romesco|Romesco
+Cacciucco|Cacciucco
+Kabab koobideh|Kabab koobideh
+Kadhi|Kadhi
+Muthia|Mathia
+Spaghetti and meatballs|Spaghetti and meatballs
+Green bean casserole|Green bean casserole
+Apple dumpling|Apple dumpling
+Vánočka|Vánočka
+Cozonac|Cozonac
+Pissaladière|Pissalandrea or Pissaladière
+Kluski|Kluski
+Pad see ew|Pad see ew
+Drunken noodles|Drunkard noodles
+Bakmi|Bakmi
+Tarta de Santiago|Tarta de Santiago
+Spoon sweets|Spoon sweets
+Cheese roll|Cheese roll
+Chipa|Chipa
+Papa rellena|Papa rellena
+Sheftalia|Sheftalia
+Rookworst|Rookworst
+Italian hot dog|Italian hot dog
+Pamonha|Pamonha
+Matnakash|Matnakash
+Lattice (pastry)|Lattice
+Folar|Folar
+Skomakarlåda|Skomakarlåda
+Makchang|Makchang
+Fougasse (bread)|Fougasse
+Turon (food)|Turon
+Jachnun|Jahnun
+Fool's Gold Loaf|Fool's Gold Loaf
+Güirila|Güirila
+Avena (drink)|Avena
+Blueberry pie|Blueberry pie
+Woolton pie|Woolton pie
+Alexandertorte|Alexandertorte
+Ogbono soup|Ogbono soup
+Champ (food)|Champ
+Bistecca alla fiorentina|Bistecca alla fiorentina
+Hasma|Hasma
+Semifreddo|Semifreddo
+Strawberry pie|Strawberry pie
+Fishcake|Fishcake
+Kalathappam|Kalathappam
+Oysters en brochette|Oysters en brochette
+Shish taouk|
+Pfeffernüsse|Pfeffernüsse
+Streuselkuchen|Streuselkuchen
+Thai curry|null
+Hakuto jelly|Hakuto jelly
+Akara|Akara
+Vatapá|Vatapá
+Ras malai|
+San-nakji|San-nakji
+Chả lụa|Chả lụa, Giò lụa
+Genoa cake|Genoa cake
+Pan bagnat|Pan bagnat
+Beer bread|Beer bread
+Cheonggukjang|Cheonggukjang
+Dopiaza|Dopiaza
+Basler Läckerli|Basler Läckerli
+Bungeo-ppang|
+Nocilla|Nocilla
+Sole meunière|Sole meunière
+Meunière sauce|Meunière sauce
+Banana ketchup|Banana ketchup
+Sup kambing|Sup kambing
+Pimento cheese|Pimento cheese
+Roti tissue|Roti tissue
+Mie goreng|Mie goreng
+Pasembur|Pasembur
+Aush|Aush
+Gosh-e fil|Gosh-e fil
+Shir Berenj|Shir Berenj
+Tiết canh|Tiết canh
+Nasi dagang|Nasi dagang ,
+Duck soup noodles|Duck soup noodles
+Gheimeh|Gheimeh
+Fesenjān|Fesenjān
+Pie à la Mode|Pie à la Mode
+Fårikål|Fårikål
+Yellow curry|Yellow curry
+Patrode|Patrode
+Bedfordshire clanger|Bedfordshire clanger
+Pièce montée|Pièce montée
+Thai fried rice|Thai fried rice
+Dutch baby pancake|Dutch baby
+null|David Eyre's pancake
+Bandeja paisa|Bandeja paisa
+Quaker Instant Oatmeal|Quaker Instant Oatmeal
+Aamras|Aamras
+Manakish|Manakish
+Fizzies|Fizzies
+Roti john|Roti john ,
+Chorba|Chorba
+Oliebol|Oliebol
+Pancit estacion|Pancit estacion
+Curry chicken noodles|Curry chicken noodles
+Natchitoches meat pie|Natchitoches meat pie
+Kansas City–style barbecue|Kansas City–style barbecue
+Icebox cake|Icebox cake
+Polish Boy|Polish Boy
+Sorrel soup|Sorrel soup
+Lahoh|Lahoh/Canjeero
+Sopa paraguaya|Sopa paraguaya
+Balisto|Balisto
+Manchester tart|Manchester tart
+Tepache|Tepache
+Bolillo|Bolillo
+Mollete|Mollete
+Lolly Gobble Bliss Bombs|Lolly Gobble Bliss Bombs
+Breakfast roll|Breakfast roll
+Caldeirada|Caldeirada
+Ogi (food)|Ogi
+Watergate salad|Watergate salad
+Ajika|Ajika
+Yaksik|Yaksik
+Half-smoke|Half-smoke
+Cherry pie|Cherry pie
+Sweet potato pie|Sweet potato pie
+Soor ploom|Soor ploom
+Pie and peas|Pie and peas
+Ajoblanco|Ajoblanco
+Soy egg|Soy Egg
+Curtido|Curtido
+Jal-jeera|Jal Jeera
+Tapai|Tapai
+Cookie cake|Cookie Cake
+Beaten biscuit|Beaten biscuit
+Olive no Hana|オリーブの花 (Olive no Hana)
+Caramel shortbread|Caramel shortbread
+Moretum|Moretum
+Vlaai|Vlaai
+Cazuela|Cazuela
+Malvern pudding|Malvern pudding
+Carolina style|Carolina style
+Mishti doi|Mishti Doi
+Paya (food)|Paya
+SunButter|SunButter
+Uchpuchmak|Ocpocmaq
+Fla-Vor-Ice|Fla-Vor-Ice
+Açaí na tigela|Açaí na tigela
+Cheese dog|Cheese dog
+Mochi ice cream|Mochi ice cream
+Knoephla|Knoephla
+Wibele|Wibele
+Charquicán|Charquicán
+Country Captain|Country captain
+Clabber (food)|Clabber
+Luchi|Luchi
+Cowboy beans|Cowboy Beans
+Vorschmack|Vorschmack
+Peda|Peda
+Lor mee|Lor mee
+Polbo á feira|Polbo á feira
+Chilean salad|Chilean salad
+Sandesh (confectionery)|Sandesh
+Pancit Malabon|Pancit Malabon
+Steak Diane|Steak Diane
+Gummy worms|null
+Malassada|
+Pepernoot|Pepernoot
+Neer dosa|
+Colomba pasquale|Colomba pasquale
+Rubaboo|Rubaboo
+Tafelspitz|Tafelspitz
+Ploye|Ploye
+Bah-oân|Bah-oân
+Canjica (dish)|Canjica
+Madras curry|Madras curry sauce
+Brown bread|Brown bread
+Khubz mulawah|Khubz mulawah
+Beer cheese (spread)|Beer cheese
+Sayur asem|Sayur asem
+Beijinho|Beijinho
+Bush bread|Bush bread
+Persipan|Persipan
+Ftira|Maltese Ftira
+Yassa (food)|Yassa
+Pambazo|Pambazo
+Dinuguan|Dinuguan
+Black pepper crab|null
+Yatsuhashi|Yatsuhashi
+Mush (cornmeal)|Mush
+Black and white cookie|Black-and-white cookie
+Bean sprouts chicken|Bean sprouts chicken
+Fregula|Fregula
+Krofne|Krofne
+Uštipci|Uštipci
+Češnovka|Češnjovka
+Pinca|Pinca
+Pithivier|Pithiviers
+Fusi (pasta)|Fusi
+Dadiah|Dadiah
+Chhena poda|Chhena poda
+Çiğ köfte|Çiğ köfte
+Caprese salad|Caprese salad
+Bing (bread)|Bing
+Tattie scone|Tattie scone
+Cemita|Cemita
+Sugar pie|Sugar pie
+Fiori (pasta)|Fiori
+Tavukgöğsü|Tavukgöğsü
+Tatami iwashi|Tatami iwashi
+Maluj|Maluj
+Tiffin (confectionery)|Tiffin
+Revels (confectionery)|Revels
+Tripas|Tripa
+Butter pie|Butter pie
+Escamol|Escamol
+Suadero|Suadero
+Totopo|Totopo
+Manchamanteles|Manchamanteles
+Pasteles|Pasteles
+Coxinha|Coxinha
+Broa|Broa
+Rat na|Rat na
+Persian (roll)|Persian
+Bubur cha cha|Bubur cha cha
+Spam fritter|Dr. Chandler Holmes Smith House
+Deep fried pizza|Deep fried pizza
+Fleischkuekle|Fleischkuekle
+Panzerotti|Panzerotti
+Vienna bread|Vienna bread
+Ice pop|
+Pistou|Pistou
+Shin Ramyun|Shin Ramyun
+Botamochi|Botamochi
+Satsuma-age|Satsuma-age
+Ganmodoki|Ganmodoki
+Chili shrimp|Chili shrimp
+Detroit-style pizza|Detroit-style pizza
+Lakhamari|Lakhamaari
+Pinole|Pinole
+Peanut butter cookie|Peanut butter cookie
+Khorovats|Khorovats
+Pink peppercorn|Pink peppercorn
+Chataamari|Chatānmari
+Egg butter|Egg butter
+Persillade|Persillade
+Lemon drop (candy)|Lemon drop
+Alphabet pasta|Alphabet pasta
+Carne asada fries|Carne asada fries
+Takikomi gohan|Takikomi gohan
+Kamameshi|Kamameshi
+Pasta salad|Pasta salad
+Bethmännchen|Bethmännchen
+Heavy cake|Heavy cake
+Zosui|Zōsui
+Maypo|Maypo
+Bamia|Bamia
+Fasole cu cârnați|Fasole cu cârnați
+Zelnik|Zelnik
+Panzanella|Panzanella
+Paste (pasty)|Paste
+Boyoz|Boyoz
+Frankfurter Kranz|Frankfurter Kranz
+Caro (drink)|
+Salted Nut Roll|Salted Nut Roll
+Chocolate ice cream|Chocolate ice cream
+Khichdi (dish)|Khichdi
+Cornish fairing|Cornish fairing
+Seven-layer dip|Seven-layer or Tex-Mex dip
+Clootie dumpling|Clootie dumpling
+Sata andagi|Sata andagi
+Qottab|Qottab
+Mint chocolate|Mint chocolate
+Cauliflower cheese|Cauliflower cheese
+Barbajuan|Barbajuan
+Melona|Melona
+Patty|Patty
+Saltah|Saltah
+Figgy duff (pudding)|Figgy duff
+Pašticada|Pašticada
+Oncom|Oncom
+Kabuli pulao|Qabeli palaw
+Pirulín|Pirulín
+Shirataki noodles|Shirataki noodles
+Khinkali|Khinkali
+Badrijani|Nigvziani badrijani
+Shkedei marak|Shkedei marak
+Cheekies|Nutritional info
+Kanda Kachori|Pyaaz Kachori
+Pebete|Pebete
+Kaipen|Kaipen
+Rasol (Romanian dish)|Rasol
+Chiffon pie|Chiffon pie
+Hello Panda|Hello Panda
+Hobnob biscuit|Hobnobs
+Wagon Wheels|Wagon Wheels
+Double Dip (confectionery)|Double Dip
+Barbecue sauce|Barbecue sauce
+Chicken sandwich|Chicken Sandwich
+Draw soup|Draw soup
+Tokwa't baboy|Tokwa't baboy
+Goiabada|Goiabada
+Desem|Desem
+Pain brié|Pain brié
+Kompyang|Kompia
+Shahan ful|Ful
+Shiro (food)|Shiro
+Genfo|Genfo/Ga'at
+Cağ kebabı|Cağ kebabı
+Skordalia|Skordalia
+Hamburg steak|Hamburg steak
+Olive loaf|Olive loaf
+Budae-jjigae|Budae-jjigae
+Anju (food)|Anju
+Dubu-kimchi|Dubu-kimchi
+Chuak|Chuak
+Bigoli|Bigoli
+Fried Coke|Fried Coke
+Steak and kidney pudding|Steak and kidney pudding
+Basundi|Basundi
+Brown Betty (dessert)|Brown Betty
+Khabees|Khabees
+Lemang|Lemang
+Pork chop bun|Pork chop bun
+Kottu|Kottu roti
+Baleada|Baleada
+Akuri|Akuri
+Gansito|Gansito
+Spinach salad|Spinach salad
+Ciauscolo|Ciauscolo
+Keiller's marmalade|Keiller's marmalade
+Pan de muerto|Pan de Muerto
+Caponata|Caponata
+Sabaayad|Sabayad
+Soy nut|Soy nuts
+Beguni|Beguni
+Persimmon vinegar|Persimmon vinegar
+Miyeok-guk|Miyeok-guk
+Imoni|Imoni
+Suikerboon|Suikerboon
+Cordial (candy)|Cordial
+Panta bhat|Panta Bhat
+Pitha|Pitha
+Pakhala|Pakhala
+Bazlama|Bazlama
+Lokma|Lokma
+Yaki udon|Yaki udon
+Mayfair salad dressing|Mayfair salad dressing
+Raspberry ripple|Raspberry Ripple
+She-crab soup|She-crab soup
+Koozh|Koozh
+Longaniza|Longaniza
+Zapiekanka|Zapiekanka
+Yuvarlakia|Yuvarlakia
+Frozie cup|Frozie cup
+Gaisburger Marsch|Gaisburger Marsch
+Gerber sandwich|Gerber sandwich
+Salça|Salça
+Buuz|Buuz
+Zagorski štrukli|Zagorski štrukli
+Tarkari|Vegetable tarkari
+Ptasie mleczko|Bird's milk
+Himbasha|Himbasha
+Muskazine|Muskazine
+Brudet|Brudet
+Jota (food)|Jota
+Sataraš|null
+Paški baškotin|Paški baškotin
+Fritaja|Fritaja
+Kakuni|Kakuni
+Fukujinzuke|Fukujinzuke
+Kalio|Kalio
+Shaved ice|null
+Hawaiian shave ice|Shave ice
+Stoemp|Stoemp
+İmam bayıldı|İmam bayıldı
+Groaty pudding|Groaty pudding
+Functional chewing gum|Functional chewing gum
+Torte|Torte
+Pajeon|Pajeon
+Gopchang|Gopchang
+Pebre|Pebre
+Sagamite|Sagamite
+Potato skins|Potato skins
+Spekkoek|Spekkoek
+Humbug (sweet)|Humbug
+Wagafi bread|Wagafi bread
+Tteokbokki|
+Caldo de costilla|Caldo de costilla
+Rice and peas|Rice and peas
+Salt-rising bread|Salt-rising bread
+Kaya toast|Kaya toast
+Fiambre|Fiambre
+Matzoon|Matzoon
+Fit-fit|Fit-fit
+Kitcha|Kitcha
+Wheatena|Wheatena
+Cerealine|Cerealine
+Khoresh|Khoresh
+Strained yogurt|Strained yogurt
+Bridge mix|Bridge mix
+Flipper pie|Flipper pie
+Spanische Windtorte|Spanische Windtorte
+Cencioni|Cencioni
+Rotelle|Rotelle
+Gemelli (pasta)|Gemelli
+Lanterne (pasta)|Lanterne
+Custard tart|Custard tart
+Garudiya|Garudhiya
+Thalipeeth|Thalipeeth
+Ragout fin|Ragout fin
+Figgy pudding|Figgy pudding
+Watermelon steak|Watermelon steak
+Dhau|null
+Choripán|Choripán
+Cachupa|Cachupa
+Flumps (sweet)|Barratts Flumps
+Caffè americano|Caffè americano
+Killie pie|Killie pie
+Rinderbraten|Rinderbraten
+Vegetarian hot dog|Vegetarian hot dog
+Banbury cake|Banbury cake
+Anadama bread|Anadama bread
+Rumbledethumps|Rumbledethumps
+Kladdkaka|
+Barros Luco|Barros Luco
+Ghapama|Ghapama
+Faloodeh|Faloodeh
+Pocket sandwich|Pocket sandwich
+Gata (food)|Gata
+Cougnou|Cougnou
+Devils on horseback|Devils on horseback
+Angels on horseback|Angels on horseback
+Kue kochi|Kue kochi
+Pulot tartal|Pulut tai tai/Pulut tekan
+Shakshouka|Shakshouka
+Aachener Printen|Aachener Printen
+Jibarito|Jibarito
+Maple butter|Maple butter
+Partan bree|Partan bree
+Hazelnut butter|Hazelnut butter
+Mendiant|Mendiant
+Filhó|Filhós
+Motsunabe|Motsunabe
+Kaak (pastry)|Kaak
+Kichel|Kichel
+Flädle|Flädle, (Austria: Frittatensuppe; France: Consommé Célestine)
+Sonofabitch stew|Son-of-a-bitch stew
+Batchoy|La Paz batchoy
+Hefekranz|Hefekranz
+Mote con huesillo|Mote con huesillo
+Ceylon (curry)|Ceylon
+Ginataan|Ginataan
+Gianduja (chocolate)|Gianduja
+Corn pudding|Corn pudding
+Johnny Marzetti|Johnny Marzetti
+Maíz con hielo|Maíz con hielo
+Tagine malsouka|Malsouka
+Spaghettieis|Spaghettieis
+Nicuatole|Nicuatole
+Rag pudding|Rag pudding
+Peanut stew|Maafe
+Streusel|Streusel
+Churma|Churma
+Sate kambing|Sate kambing
+Affogato|Affogato
+Chole bhature|Chole bhature
+Ackee and saltfish|Ackee and saltfish
+Dobos torte|Dobos torte
+Angoori rasmalai|Angoori
+Lobscouse|Lobscouse
+Mirza ghassemi|Mirza ghassemi
+Vietnamese noodles|Vietnamese noodles
+Sara udon|Sara udon
+Tareco|Tareco
+Batata vada|Batata vada
+Cottage loaf|Cottage loaf
+Chinese chicken salad|Chinese chicken salad
+Lugaw|Lugaw
+Silver needle noodles|Silver needle noodles
+Radiatori|Radiatori
+Choco Taco|Choco Taco
+Fish pie|Fish pie
+Siomay|Siomay
+Cavallucci|Cavallucci
+Rollatini|Rollatini
+Capellini|Capellini
+Kori rotti|null
+Bean pie|Bean pie
+Spiced rice|Ghee rice
+Churchkhela|Churchkhela
+Yahni|Yakhni
+Gringas|Gringas
+Roujiamo|Roujiamo
+Tangpyeong-chae|Tangpyeong-chae
+Breakfast sandwich|Breakfast sandwich
+Tanghulu|Tanghulu
+Black sesame soup|Black sesame soup
+Sarawak layer cake|Sarawak Layer Cake
+Gougère|Gougère
+Golden Gaytime|Golden Gaytime
+Ashure|Ashure
+Kosambari|Kosambari
+Neyyappam|Neyyappam
+Myśliwska|Myśliwska
+Ma'amoul|Ma'amoul
+Caldo de pollo|Caldo de pollo
+Sno Balls|Sno Balls
+Loukaniko|Loukaniko
+Bobotie|Bobotie
+Croline|Croline
+Tamagoyaki|Tamagoyaki
+Theeyal|Theeyal
+Mafaldine|Mafaldine
+Mafaldine|Mafalde
+Zingers|Zingers
+Doberge cake|Doberge cake
+Caraway seed cake|Caraway seed cake
+Puffed rice cakes|Puffed rice cakes
+Chicken à la King|Chicken à la King
+Changua|Changua
+Snack cake|Snack cake
+Singori|Singori (sweet)
+Bal mithai|Bal mithai
+Carniolan sausage|Carniolan sausage
+Bourdeto|Bourdeto
+Pastitsada|
+Obara (stew)|Obara
+Ajdovi žganci|Ajdovi žganci
+Belokranjska povitica|Belokranjska povitica
+Karnıyarık|Karnıyarık
+Haejang-guk|Haejang-guk
+Completo|Chilean completo
+Tunnbröd|Tunnbröd
+Shumai|Shumai, !--Do not change this to another variation without establishing consensus first on the talk page--,
+Qingtuan|Qingtuan
+Suet pudding|Suet pudding
+Burmese tofu|Burmese tofu
+Flapper pie|Flapper pie
+Rosette (cookie)|Rosette
+Kabsa|Kabsa,
+Khapse|Khapse
+Pepper steak|Pepper steak
+Chicken curry|Chicken curry
+Paddu|Paddu
+Shrimp creole|Shrimp creole
+Pork tenderloin sandwich|Pork tenderloin sandwich
+Dampfnudel|Dampfnudel
+Cajuzinho|Cajuzinho
+Pé de moleque|null
+Kenkey|Kenkey
+Pincho|Pincho
+Gundruk|Gundruk
+Papa a la huancaína|Papa a la Huancaína
+Lomo saltado|Lomo saltado
+Salchipapa|Salchipapa
+Abgoosht|Abgoosht
+Meat pie|Meat pie
+Sevai|Sevai
+Jjamppong|Jjamppong
+Koulourakia|Koulourakia
+Seattle roll|Seattle roll
+Crustless bread|Crustless bread
+Chicken marsala|Chicken marsala
+Usban|Usban
+Krentjebrij|Krentjebrij
+Lady Grey (tea)|Lady Grey tea
+Bryndzové halušky|Bryndzové halušky
+Imagawayaki|
+Vasilopita|Vasilopita
+Cơm rượu|Cơm rượu
+Isaw|Isaw
+Kapustové halušky|Strapačky
+Irish potato candy|Irish tater
+Llapingacho|Llapingacho
+Capirotada|Capirotada
+Arroz a la valenciana|Arroz a la valenciana
+15 Bean Soup|15 Bean Soup
+Beef Manhattan|Beef Manhattan
+Sandwich loaf|Sandwich loaf
+Taboon bread|Taboon bread
+Paper wrapped cake|Paper wrapped cake
+Red bean ice|Red bean ice
+Cream bun|Cream bun
+Jian dui|Jian dui
+Krembo|Krembo
+Sour cereal soup|Żur
+Sour cereal soup|Barszcz biały
+null|Kyselo
+Fried plantain|Kelewele
+Plain loaf|Plain loaf
+Stuffed peppers|Stuffed peppers
+Pan loaf|Pan loaf
+Piperade|Piperade
+Fried pickle|Fried pickle
+Swikee|Swikee
+Ohaldre|Ohaldre
+Otap (food)|Otap
+Potato wedges|Potato wedges
+Calisson|Calisson
+Chaas|Chaach
+Bakso|Bakso
+Clam dip|Clam dip
+Encebollado|Encebollado
+Lo mai chi|Lo mai chi
+White sugar sponge cake|White sugar sponge cake
+Curry beef turnover|Curry beef turnover
+Malt loaf|Malt loaf
+Manchet|Manchet
+Griddle scone|Griddle scone
+Pesaha appam|Pesaha appam
+Lincoln biscuit|Lincoln biscuit
+Chal|Chal
+Leek soup|Leek soup
+Morteau sausage|Morteau sausage
+Klobásník|Klobasnek
+Samanu|Samanu (sumalak)
+Cheese slaw|Cheese slaw
+Kinako|Kinako
+Lahpet|Lahpet
+Helzel|Helzel
+Hangtown fry|Hangtown fry
+Brem|Brem
+Murta con membrillo|Murta con membrillo
+Barros Jarpa|Barros jarpa
+Kuivaliha|
+Chitranna|Chitranna
+Tutti frutti|Tutti frutti
+Rava idli|Rava idli
+Akki rotti|Akki rotti
+Ragi rotti|Ragi rotti
+Ragi mudde|Ragi mudde
+Karadantu|Karadantu
+Denver sandwich|Denver sandwich
+Chiboust cream|Chiboust cream
+Choco pie|Choco pie
+Matapa|Matapa
+Chairo (stew)|Chairo
+Shengjian mantou|Shengjian mantou
+Kūlolo|
+Natillas|Natillas
+Hoe-deopbap|Hoe-deopbap
+Pottage|Pottage
+Oxtail soup|Oxtail soup
+Pommes soufflées|Pommes soufflées
+Pinolate (cookie)|Pinolate
+Gaz (candy)|null
+Pantua|Pantua
+Clapshot|Clapshot
+Aam panna|Aam panna
+Polkagris|Polkagris
+Bun kebab|Bun Kabab
+Creole cream cheese|Creole cream cheese
+Lemon tart|Lemon tart
+Brési|Brési
+Ducana|Ducana
+Skirts and kidneys|Skirts and kidneys
+Heong Peng|Heong peng
+Kendal Mint Cake|Kendal Mint Cake
+Lincolnshire sausage|Lincolnshire sausage
+Everything bagel|Everything bagel
+Khubani-ka-Meetha|Khubani ka meetha
+Boondi|Boondi
+Turnip cake|Turnip cake
+Pomegranate soup|Pomegranate soup
+Arrosticini|Arrosticini
+Bakpia pathok|Bakpia pathok
+Instant soup|Instant soup
+Carimañola|Carimañola
+Santula|Santula
+Imarti|Amriti / Imarti / Jhangiri
+Chatang|Chatang
+Chocolate-covered coffee bean|Chocolate-covered coffee bean
+Spicy chicken sandwich|
+À la zingara|À la zingara
+Zuccotto|Zuccotto
+Oscypek|Oscypek
+Nasi goreng pattaya|Nasi goreng pattaya
+Shotis puri|Shotis puri
+Lobio|Lobio
+Suman (food)|Suman
+Hōtō|Hōtō
+Blood soup|Blood soup
+Nasi paprik|null
+Matbucha|Matbukha
+Viennoiserie|Viennoiserie
+Sfiha|Sfiha
+Güllaç|Güllaç
+Bánh bò|Bánh HEò
+Açorda|Açorda
+Cervelle de canut|Cervelle de canut
+Rượu nếp|Rượu nếp
+Muhammara|Muhammara
+Lyonnaise potatoes|Lyonnaise potatoes
+Makdous|Makdous
+Lupis (food)|Lupis
+Nudossi|Nudossi
+Frangollo|Frangollo
+Emping|Emping
+Blood as food|Blood
+Ching bo leung|Ching bo leung
+Bánh da lợn|Bánh da lợn
+Bánh khoai mì|Bánh khoai mì
+Bánh chuối|Bánh chuối
+Taro dumpling|Taro dumpling
+Asham (dessert)|Asham
+Hortobágyi palacsinta|Hortobágyi palacsinta
+Remonce|Remonce
+Khuushuur|Khuushuur
+Entomatada|Entomatada
+Bánh cuốn|Bánh cuốn
+Corunda|Corunda
+Pan pizza|Pan pizza
+Bánh rán|Bánh rán
+Bánh|Bánh
+Peanut butter bun|Peanut butter bun
+Zhaliang|Zhaliang
+Atchara|Atchara
+Squid cocktail|Squid cocktail
+Mrs. Dash|Mrs. Dash
+Drunken shrimp|Drunken shrimp
+Paris buns|Paris buns
+Put chai ko|Put chai ko
+Banana fritter|Banana Fritter
+Deuk Deuk Tong|Deuk Deuk Tong
+Taro cake|Taro cake
+Dacquoise|Dacquoise
+Kiritanpo|Kiritanpo
+Staffordshire oatcake|Oatcake
+Tofu skin roll|Tofu skin roll
+Water chestnut cake|Water chestnut cake
+Scaloppine|Scaloppine
+Steamed meatball|Steamed meatball
+Pempek|Pempek
+Mitmita|Mitmita
+Buko pie|Buko Pie
+Tkemali|Red and brown Tkemali
+Frankfurter Rindswurst|Frankfurter Rindswurst
+Neapolitans (chocolate)|Neapolitans
+Supplì|Supplì
+Seafood birdsnest|Seafood birdsnest
+Palaver sauce|Palaver sauce
+White cut chicken|White cut chicken
+Daing|Daing
+Bicol express|Bicol express
+Espasol|Espasol
+Salteña|Salteña
+Egg tong sui|Egg tong sui
+Fruit preserves|Fruit preserves
+Murabba|Murabba
+Pudachi Vadi|Pudachi Vadi
+Butter pecan|Butter pecan
+Wafu dressing|Wafu dressing
+Pinchitos|Pinchitos
+Padaek|Padaek
+Balyk|null
+Rasabali|Rasabali (ରସାବଳୀ)
+Canh chua|Canh chua
+Chè trôi nước|Chè trôi nước/bánh chay
+Malpua|Malpua
+Chocolate biscuit|Chocolate biscuit
+Chhena gaja|Chhena gaja
+Crème Ninon|Crème Ninon
+Flying Jacob|Flying Jacob
+Soup Number Five|Soup Number Five
+Steak de Burgo|Steak de Burgo
+Giri choco|Giri choco
+null|Honmei choco
+Quzi|Quzi
+Torta ahogada|Torta ahogada
+Shirred eggs|baked egg
+Sachima|Sachima
+Pommes dauphine|Pommes dauphine
+Crab Louie|Crab Louie
+Nataing|Nataing
+Treacle sponge pudding|Treacle sponge pudding
+Hard dough bread|Hard dough bread
+Fish amok|Fish amok
+Menemen (food)|Menemen
+Putu piring|Putu piring ,
+Groom's cake|Groom's cake
+Orange cuttlefish|Orange cuttlefish
+Salpicon|Salpicon
+Croustade|Croustade
+Flaky pastry|Flaky pastry
+Ricciarelli|Ricciarelli
+Raspeball|Komle
+Cottage pudding|null
+Funkaso|Funkaso
+S.O.S. (appetizer)|S.O.S.
+Yau gok|Yau gok
+Vinaigrette|Vinaigrette
+Confit byaldi|Confit byaldi
+Corzetti|Corzetti
+Chikkolee|Chikkolee
+Piadina romagnola|Piadina
+Grattachecca|Grattachecca
+Lou mei|Lou mei
+Thandai|Thandai
+Struffoli|Struffoli
+Prinzregententorte|Prinzregententorte
+Buttermilk pie|Buttermilk pie
+Belekoy|Belekoy
+Bukayo|Bukayo
+Kalamay|Kalamay
+Puto (food)|Puto
+Kho (cooking technique)|Kho
+Frozen noodles|Frozen noodles
+Midget Gems|Midget Gems,
+Keşkül|Keşkül
+Dal makhani|Dal makhani
+Sugolo|Sugolo
+Rappie pie|Rappie pie
+Souvla|Souvla
+Toum|Salsat toum
+Hanukkah gelt|Hanukkah gelt
+Soup joumou|Soup Joumou
+Pici|Pici
+Bagel dog|Bagel dog
+Bún riêu|Bun rieu
+Boliche|Boliche
+Chili pepper water|Chili pepper water
+Tương|Tương
+Tapalapa (bread)|Tapalapa
+Iced bun|Iced finger
+Liver and onions|Liver and onions
+Sheer khurma|Sheer khurma
+Yi mein|Yi mein
+Shrimp roe noodles|Shrimp roe noodles
+Lai fun|Lai fun
+Oil noodles|Oil noodles
+Bandrek|Bandrek
+Kal-guksu|Kal-guksu
+Korean noodles|Korean noodles
+Mung bean sheets|Mung bean sheets
+Cumian|Cumian
+Bokkoms|Bokkoms
+Monkey bread|Monkey bread
+Soy yogurt|Soy yogurt
+Hodge-Podge (soup)|Hodge-Podge
+Chireta|Chireta
+Hotteok|Hotteok
+Ekmek kadayıfı|Ekmek kadayıfı
+Knedle|Knedle
+Aplets &amp; Cotlets|Aplets & Cotlets
+Bublik|Bublik
+Masgouf|Masgouf
+Sope (food)|Sopes
+Coconut rice|Coconut rice or Roso-kokodia
+Bakarkhani|Bakarkhani
+Checca sauce|Checca sauce
+Pimento loaf|Pimento loaf
+Asida|null
+Aam papad|Aam papad
+Dirt cake|Dirt cake
+Sel roti|Sel roti
+Kalakand|Kalakand
+Hallulla|Hallulla
+Saang mein|Saang mein
+Jeotgal|Jeotgal
+Besan chakki|Besan chakki
+Mirchi Bada|Mirchi Bada
+Sabudana vada|Sabudana vada
+Gulkand|Gulkand
+Chancaca|Chancaca
+Ghevar|Ghevar
+Sussex pond pudding|Sussex pond pudding
+Sakuramochi|null
+Shankarpali|Shankarpali
+Lontong|Lontong
+Ripper (food)|Ripper
+Tortilla de rescoldo|Tortilla de rescoldo
+Bánh bèo|Bánh bèo
+Hyderabadi haleem|Hyderabadi haleem
+Fazuelos|Fazuelos
+Fazuelos|Fazuelos
+Wacky cake|Wacky cake
+Stuffed ham|Stuffed ham
+Lablabi|
+Pissalat|Pissalat
+Carciofi alla giudia|Carciofi alla giudìa
+Fried bake|Fried bake
+Bánh đúc|Bánh đúc
+Chicken and dumplings|Chicken and dumplings
+Shambar|Shambar
+Bourbon chicken|Bourbon chicken
+Nai lao|Beijing yogurt
+Chicken parmesan|Chicken parmesan
+Saffron rice|Saffron Rice
+Churri|Churri
+Babi panggang|Babi panggang
+Chao hong guo|Chao hong guo
+Kai kou xiao|Kai kou xiao
+Misandao|Misandao
+Fun guo|Fun guo
+Maejap-gwa|Maejap-gwa
+Hangwa|Hangwa
+Krotekake|Krotekake
+Khira sagara|Khira sagara
+Hwajeon|Hwajeon
+Cezerye|Cezerye
+Sheet cake|Sheet cake
+Sowans|Sowans
+Yeot|Yeot
+Pastina|Pastina
+Lukhmi|Lukhmi
+Namak para|Namak Paray
+Sundae (sausage)|Sundae
+Tuna fish sandwich|Tuna fish sandwich
+Bánh tẻ|Bánh tẻ
+Satay bee hoon|Satay bee hoon
+Bauru (sandwich)|Bauru
+Acıbadem kurabiyesi|Acıbadem kurabiyesi
+Hopje|Hopje
+Lotus seed bun|Lotus seed bun
+Sago pudding|Sago pudding
+Dominostein|Dominostein
+Mein gon|Mein gon
+Dowry cake|Marry girl cake
+Toruń gingerbread|Toruń gingerbread
+Ham and egg bun|Ham and egg bun
+Black sesame roll|Black sesame roll
+Picarones|Picarones
+Flourless chocolate cake|Flourless chocolate cake
+Cocol|Cocol
+Crisp (dessert)|Crisp
+Happy Faces|Happy Faces
+Pan de Pascua|Pan de Pascua
+Porotos con riendas|Porotos con riendas
+Pastel de choclo|Pastel de choclo
+Sopa teologa|Sopa teologa
+Sujebi|Sujebi / ttŭdŏguk
+Sundubu-jjigae|Sundubu-jjigae
+Sinseollo|Sinseollo
+Eo-mandu|Eo-mandu
+Dongchimi|Dongchimi
+Dhansak|Dhansak
+Baghaar-e-baingan|Baghaare baingan
+Dahi chutney|Dahi chutney
+Nabak-kimchi|Nabak-kimchi
+Mirchi ka salan|Mirchi ka salan
+Hamin|Hamin
+Pineapple lumps|Pineapple lumps
+Dhondas|Dhonas
+Baek-kimchi|Baek-kimchi
+Chicken riggies|Chicken riggies
+Kongbap|Kongbap
+Guernsey bean jar|Guernsey bean jar
+Guernsey Gâche|Guernsey Gâche
+Bagara khana|Bagara annam
+Marie biscuit|Marie biscuit
+Café liégeois|Café liégeois
+Panackelty|Panackelty
+Mont Blanc (dessert)|Mont Blanc
+Poutine râpée|Poutine râpée
+Bánh cáy|Bánh cáy
+Chè|Chè
+Rainbow cookie|Rainbow Cookie
+Pootharekulu|Pootharekulu / పూతరేకులు
+Ham and eggs|null
+Dal Badam Chakki|Dal Badam Chakki
+King Kong milk candy|King Kong
+Escalope|
+Rajma|null
+Dough conditioner|Sandwich bread
+Corn fritter|Corn fritter
+Candied fruit|Candied fruit
+Cooked rice|Cooked rice
+Ariselu|Ariselu
+Finnish bread|Finnish bread
+Torta Tre Monti|Torta Tre Monti
+Sushki|Sushki
+Ham sandwich|Ham sandwich
+Ham sandwich|Ham sandwich
+Peach Blossoms|Peach Blossoms
+Pecan log roll|Pecan log roll
+Viscount (biscuit)|Viscount
+Beurre monté|Beurre monté
+Puftaloon|Puftaloon
+Marble cake|Marble cake
+Ayva tatlısı|Quince dessert
+Empalme (food)|Empalme
+Fromager d'Affinois|Fromager d'Affinois
+Caramel tart|Caramel tart
+Sprouted bread|Sprouted bread
+Clams oreganata|null
+Kakinada Kaja|Kakinada Kaja, కాకినాడ  కాజా
+Lomi|Lomi
+Rose hip soup|Rose hip soup
+Crudo alemán|Crudos
+Cardamom bread|Cardamom bread
+Cardamom bread|
+Canadian white bread|Canadian white bread
+Laufabrauð|Laufabrauð
+Ghari (sweet)|Ghari
+Michigan salad|Michigan salad
+Cabinet pudding|Cabinet pudding
+Rēwena bread|Rēwena bread
+Kleicha|Kleicha (ܟܠܝܟ̰ܐ، كليجة، کلوچه، کادە)
+Korovai|Korovai
+Mageu|null
+Saeu-jeot|Saeu-jeot
+Clarified butter|Clarified butter
+Pasulj|Pasulj
+Salată de boeuf|Salată boeuf
+Mitraillette|Mitraillette
+Battered sausage|Battered sausage
+Shahi paneer|Shahi paneer
+Huli-huli chicken|Huli-huli chicken
+Pytia|Pytia
+Bremer Klaben|Bremer Klaben
+Shlishkes|Shlishkes
+Naryn (dish)|Naryn
+Fatost|Fatost
+Shikashika|Shikashika
+Sauce vierge|Sauce vierge
+Paprenjak|Paprenjak
+Ratatouille|null
+Boule (bread)|Boule
+Kinilaw|Kinilaw
+Kaldereta|Kaldereta
+Ischoklad|Ischoklad
+Chocolate salami|Chocolate salami
+Lacón|Lacón
+Makroudh|Makroudh مقروض
+Kachumbari|Kachumbari
+Pot de crème|Pot de crème
+Slatko|Slatko
+Chạo tôm|Chạo tôm
+Miel luxembourgeois de marque nationale|Miel luxembourgeois de marque nationale
+Sumaghiyyeh|Sumaghiyyeh
+Knafeh|Knafeh
+Qatayef|Qatayef
+Houska|Houska
+Gim (food)|Gim
+Sugar cake|Sugar cake
+Scotch woodcock|Scotch woodcock
+Poriyal|Poṟiyal
+Pashti|Pashti
+Passatelli|Passatelli
+Mandarin roll|Mandarin roll
+Sweet potato soup|Sweet potato soup
+Molagoottal|Molagoottal
+Orange jelly candy|Orange jelly candy
+Gul-gukbap|Gul-gukbap
+Homity pie|Homity pie
+Khrushchev dough|Khrushchev dough
+Berry chantilly cake|Berry chantilly cake
+Krówki|Krówki
+Succade|Succade
+Black bun|Black bun
+Vori vori|Vori vori
+Kosereva|Kosereva
+Mbeju|Mbeju
+Quibebé|Quibebe
+Chipa guasu|Chipa guasu
+Kamby arro|Kamby arro
+Russian tea cake|Russian tea cakes
+Jumble (cookie)|Jumble
+Ox-tongue pastry|Ox-tongue pastry
+Shuangbaotai|Shuangbaotai
+Palitaw|Palitaw
+Aiyu jelly|Aiyu jelly
+Coppia ferrarese|Coppia ferrarese
+Steak sandwich|Steak sandwich
+Talo (food)|Talo
+Erkuai|Erkuai
+Boston bun|Boston bun
+Mixian (noodle)|Mixian
+Reshteh khoshkar|Reshteh khoshkar
+Panjiri|Panjiri
+Cup cheese|Cup cheese
+Mud cookie|Mud cookie
+Shanghai fried noodles|Shanghai fried noodles
+Ssamjang|Ssamjang
+Dongpo pork|Dongpo pork
+Quarkkäulchen|Quarkkäulchen
+Jeon (food)|Jeon
+Buchimgae|Buchimgae
+Jijimi|Jijimi
+Eurocrem|Eurocrem
+Paila marina|Paila marina
+Marraqueta|Marraqueta
+Minties|Minties
+Portuguese sauce|Portuguese sauce
+Jorim|Jorim
+Hishi mochi|Hishi mochi
+Basbousa|Basbousa
+Cream of mushroom soup|Cream of mushroom soup
+Foglie d'ulivo|Foglie d'ulivo
+Paomo|Paomo
+Palathalikalu|Palathalikalu
+Naporitan|
+Watalappam|Watalappam
+Tepsi baytinijan|Tepsi baytinijan
+Kuli-kuli|Kuli-kuli
+null|
+Msabbaha|Masabaḥa
+Ribollita|Ribollita
+Chomchom|Chomchom
+Rassolnik|Rassolnik
+Jeongol|
+Pineapple tart|Pineapple tart
+Cantonese seafood soup|Cantonese seafood soup
+Ka'ak|Ka'ak
+Bibim-guksu|Bibim-guksu
+Eggplant salads and appetizers|Eggplant salads and appetizers
+Kürtőskalács|Kürtőskalács
+Sfenj|Sfenj
+Rigójancsi|Rigó Jancsi
+Nutraloaf|Nutraloaf
+Gujhia|Gujhia
+Ham salad|Ham salad
+Liver soup|Liver soup
+Ketwurst|Ketwurst
+Panocha|
+Chakapuli|Chakapuli
+Kubdari|Kubdari
+Sklandrausis|Sklandrausis
+Hot wiener|Hot wiener
+Silesian dumplings|Silesian dumplings
+Black dumplings|Kluski czarne
+Szałot|Sałatka jarzynowa
+Wodzianka|Wodzianka
+Siemieniotka|Siemieniotka
+Makówki|Makówki
+Kong-guksu|Kong-guksu
+Russian Mennonite zwieback|Russian Mennonite zwieback
+Phanaeng|Phanaeng
+Coca (pastry)|Coca
+Maconochie|Maconochie
+Boortsog|Baursak
+Norman tart|Normandy Tart
+Brandade|Brandade
+Blåbärssoppa|Blueberry soup
+Salsa golf|Salsa golf
+Hoppang|Hoppang
+Florentine biscuit|Florentine biscuit
+Marinara sauce|Marinara sauce
+Tartufo|Tartufo
+Gozinaki|Gozinaki
+Bath Oliver|Bath Oliver
+Sauce gribiche|Sauce gribiche
+Coco bread|Coco bread
+Lazarakia|Lazarakia
+Cheese on toast|
+Sou (pastry)|Sou
+Puff-puff|Puff-puff
+Fatteh|فتّة / Fatteh / Fetté
+Kısır|Kısır
+Trdelník|Trdelník
+Brandy snaps|Brandy snaps
+Cocido madrileño|Cocido madrileño
+Gachas|Gachas
+Wet walnuts|Wet walnuts
+Mahyawa|Mahyawa
+Pionono|Pionono
+Kiribath|Kiribath
+Acorn noodle soup|Acorn noodle soup
+Thekua|Thekua
+Ghugni|Ghugni
+Date square|Date squares
+Half-moon cookie (Philippines)|Half-moon cookie
+Bichon au citron|Bichon au citron
+Garae-tteok|Garae-tteok
+Foam cake|Foam cake
+Janchi-guksu|Janchi-guksu
+Ajethna|Ajethna
+Currant bun|Currant bun
+Myeolchi-jeot|Myeolchi-jeot
+Jogi-jeot|Jogi-jeot
+Blondie (confection)|Blondies
+Tea loaf|Tea loaf
+Wolgwa-chae|Wolgwa-chae
+Yukgaejang|Yukgaejang
+Kūčiukai|Kūčiukai
+Jokpyeon|Jokpyeon
+Styrian sour soup|Styrian sour soup
+Hwachae|Hwachae
+Jatjuk|Jatjuk
+Subak-hwachae|Subak-hwachae
+Jindallae-hwachae|Jindallae-hwachae
+Mother-in-law (sandwich)|Mother-in-law
+Suksil-gwa|Suksil-gwa
+Frozen dessert|Frozen dessert
+Lekach|Lekach
+Sweet shells|Gavvalu
+Hiyashi chūka|Hiyashi chūka
+Gwapyeon|Gwapyeon
+Jaecheop-guk|Jaecheop-guk
+Kalles Kaviar|Kalles Kaviar | image = Egg sandwich.jpg | imagesize = | caption = Kalles kaviar on an [[egg sandwich]]. | alternate_name = | country = [[Finland]] [[Sweden]] | region = | creator = [[Abba Seafood]] | course = | type = [[Smörgåskaviar]] | served = | main_ingredient = [[Gadus morhua|Salted cod roe]] | variations = | calories = | other = }}
+Choc-top|Choc-top
+Guk|Guk
+Taralli|Taralli
+Agwi-jjim|Agwi-jjim
+Freekeh|Freekah
+Cơm nắm|Cơm nắm
+Bánh lá|Bánh lá
+Jeonbok-juk|Jeonbok-juk
+null|null
+null|null
+Template:Infobox food/doc|or   |year |time1 |time2 |type |course |served |main_ingredient |minor_ingredient |variations |serving_size=100 g |calories |protein |fat |carbohydrate |glycemic_index |similar_dish |cookbook |commons| other
+Template:Infobox food/doc|
+null|| name             || This comes to the top of the box. If omitted, it will be inferred from the page title.
+null|, !--####DON'T ADD ANY OTHER NAME HERE####--,  Panipuri
+null|, !--####DON'T ADD ANY OTHER NAME HERE####--,  Panipuri
+Onion cake|Onion cake
+Patjuk|Patjuk
+Berger Cookies|Berger Cookies
+Cincalok|Cincalok
+Galbi-jjim|Galbi-jjim
+Dasik|
+Sol over Gudhjem|Sol over Gudhjem
+Coconut candy|Coconut candy
+Singapore-style noodles|Singapore-style noodles
+Poire belle Hélène|Poire belle Hélène
+Penia (bread)|Penia
+Fritessaus|Fritessaus
+Potbrood|Potbrood
+Suspiro de limeña|Suspiro de limeña
+Bollo|Bollo
+Spring soup|Spring soup
+List of sour soups|Sour soup
+Handia (drink)|Handia
+Hauskyjza|Hauskyjza
+Pyeonyuk|Pyeonyuk
+Ulmyeon|Ulmyeon
+Piragua (food)|Piragua
+Steak frites|Steak frites
+Baeksuk|Baeksuk
+Bugak|Bugak
+Jook-sing noodles|Jook-sing noodles
+Chhoah-peng|Tshuah-ping
+Flemish stew|Flemish beef stew
+Mieum (food)|Mieum
+Pira caldo|Pira caldo
+Laing (food)|Laing
+Pinangat na isda|Pinangat na isda
+Gamja-jeon|Gamja-jeon
+Mortadella sandwich|Mortadella sandwich
+Oyaki|Oyaki
+Marie Rose sauce|Marie Rose sauce
+Bossam|Bossam
+Hogao|Hogao
+Chunchullo|Chunchulines
+Cucurucho|Cucurucho
+Gulaman|Gulaman
+Pizza al taglio|Pizza al taglio
+Doenjang-jjigae|Doenjang-jjigae
+Kozhukkatta|Kozhukatta
+Lomo a lo pobre|Lomo a lo pobre
+Balep korkun|Balep korkun
+Tharid|Tharid
+Ka'í Ladrillo|Ka'í Ladrillo
+Soyo (Paraguay)|Soyo
+Almojábana|Almojábana
+Pan de yuca|Pandeyuca
+Flan (pie)|Flan
+Kiszczonka|Kiszczonka
+High energy biscuit|High Energy Biscuits
+Economy rice|Economy rice
+Bammy|Bammy
+Boston baked beans|null
+Bánh hỏi|Bánh hỏi
+Fried chicken|null
+Jeonggwa|Jeonggwa
+Pumpkin soup|Pumpkin soup
+Mamón|Mamón
+Velhote|Velhote
+Polvorón|Polvorón
+Baklava|Baklava
+Bai pong moan|Bai pong moan
+Rolled oyster|Rolled oyster
+Medianoche|Medianoche
+Mami soup|Mami
+Curau|Curau
+Morogo|English = Pigweed Afrikaans = Hanekam Scientifically = Amaranthus sp.
+Macaroni soup|Macaroni soup
+Rúgbrauð|
+Flatkaka|Flatkaka
+Duchess potatoes|Pommes duchesse
+Bombe glacée|Bombe glacée
+Lechazo|Lechazo asado
+Navarin (food)|Navarin
+Jambonette|Jambonnette
+Jambonneau|Jambonneau
+Nantua sauce|
+Kyopolou|Kyopolou
+Siru-tteok|Sirutteok
+Garlic butter|Garlic butter
+Oille|Oille
+Potée|Potée
+Garbure|Garbure
+Hobak-juk|Hobak-juk
+Poppy seed roll|Poppy seed roll
+Sabudana khichri|Sabudana khichdi
+Joffre cake|Joffre cake
+Ollada|Ollada
+Garnacha (food)|Garnaches
+Chatti pathiri|Chatti Pathiri
+Pickled cucumber|Pickled cucumber
+Southern Illinois chowder|Southern Illinois chowder
+Haminados|Haminados
+Toast (food)|Toast
+Warabimochi|Warabimochi
+Klepon|Klepon
+Punschkrapfen|Punschkrapfen
+Fish soup|Fish soup
+Chak-Chak|Chak-chak
+Jangajji|Jangajji
+Jeungpyeon|Jeungpyeon
+Cheese pudding|Cheese pudding
+Misal|Misal
+Dak-galbi|Dak-galbi
+Andong jjimdak|Andong-jjimdak
+Bokkeum|Bokkeum
+Memil-buchimgae|Memil-buchimgae
+Baingan bharta|Baigan bharta
+Dimlama|Dimlama
+Yeonpo-tang|Yeonpo-tang
+Sally Lunn bun|Sally Lunn
+Corned beef sandwich|Corned beef sandwich
+Slugburger|Slugburger
+Lunumiris|null
+Noghl|Noghl
+Oatcake|Oatcake
+Sooth (chutney)|Saunth
+Potatoes O'Brien|Potatoes O'Brien
+Angel cake|Angel cake
+Khow suey|Khow suey
+Screwball (ice cream)|Screwball
+Sanna (dish)|Sanna
+Doce (sweet)|Goan Doce
+Horsebread|Horsebread
+Satsivi|Satsivi
+Tangbao|Tang Bao
+Kadayif (pastry)|Kadayif ,
+Patatnik|Patatnik
+Mekitsa|Mekitsa/ Mekike
+Better than sex cake|Better than sex cake
+Frozen banana|Frozen banana
+Po (food)|Po
+Sorbetes|Sorbetes
+Anise of Flavigny|Anise of Flavigny
+Sea-pie|Sea-pie
+Soup|Soup
+Makhan Bada|Makhan Bada
+Manda roti|Manda roti
+Chocolate bullets|Chocolate bullets
+Quince cheese|Quince paste
+Almogrote|Almogrote
+Prawn roll|Prawn roll
+Farsan (food)|Farsan
+Crown Pilot Crackers|Crown Pilot Crackers
+Svíčková|Svíčková na smetaně
+Chashni|Chashni
+Túrós csusza|Túrós csusza
+Jelly doughnut|Jelly doughnut
+Choila|Chhoyela
+Candy pumpkin|Candy Pumpkin
+Sohan halwa|Sohan halwa
+Piti (food)|Piti
+Pheasant paste|Pheasant paste
+Pumpkin pie|Pumpkin pie
+Pollo a la brasa|Pollo a la Brasa
+Rock cake|Rock cake
+Egg waffle|Egg waffle
+Cốm|Cốm
+Sherbet (powder)|Sherbet
+Moustalevria|Moustalevria
+Glorified rice|Glorified rice
+Poulet au fromage|Poulet au fromage
+Franzbrötchen|Franzbrötchen
+Mujigae-tteok|Mujigae-tteok
+Curry pie|Curry pie
+Cuban pastry|Cuban pastry
+Pig candy|Pig candy
+Chicken mull|Chicken mull
+Gatsby (sandwich)|Gatsby
+Israeli couscous|Israeli couscous
+Banana split|Banana split
+Chicken Francese|Chicken Francese
+Wurstsalat|Wurstsalat
+Bacon and cabbage|Bacon and cabbage
+Parfait|Parfait
+Dundee cake|Dundee cake
+Ndolé|Ndolé
+Tirggel|Tirggel
+Gummy candy|Gummy candy
+Stick candy|Sticks
+Peppermint bark|Peppermint bark
+Tunis cake|Tunis cake
+Berner Haselnusslebkuchen|Berner Haselnusslebkuchen
+Lacabòn|Lacabòn
+Carne de vinha d'alhos|Carne de vinha d'alhos
+Berner Honiglebkuchen|Berner Honiglebkuchen
+Cocido|Cocido
+Mitsumame|Mitsumame
+Seven-layer salad|Seven-layer salad
+Faggot (food)|Faggot
+Basler Brot|Basler Brot
+Burebrot|Burebrot
+Zürcher Murren|Zürcher Murren
+Almond Roca|Almond Roca
+Bundevara|Bundevara
+Stuffed squash|Stuffed squash
+Bichak|Bichak
+White Christmas (food)|White Christmas
+Frico|Frico
+Arizona cheese crisp|Arizona cheese crisp
+Celery Victor|Celery Victor
+Diples|Diples
+Cuccidati|Cuccidati
+Chinese desserts|Chinese desserts
+Pane ticinese|Pane ticinese
+Huarache (food)|Huarache
+Oladyi|Oladyi
+Potato babka|Potato babka
+Spiced beef|Spiced beef
+Solkadhi|Solkadhi
+Schupfnudel|Schupfnudel
+Waldorf pudding|Waldorf pudding
+Aloo tikki|Aloo tikki
+Tollatsch|Tollatsch
+Jellied eels|Jellied eels
+Aush reshteh|Ash reshteh
+Prežganka|Prežganka
+Močnik|Močnik
+Funšterc|Funšterc
+Sunflower butter|Sunflower butter
+Krumiri|Krumiri
+Peanut butter and jelly sandwich|Peanut butter and jelly
+Tombet|Tombet
+Compote (game dish)|Compote
+Chili cheese fries|Chili cheese fries
+Bologna sandwich|Bologna sandwich
+Ada (food)|Ada
+Pâté aux pommes de terre|Pâté aux pommes de terre
+Sohan (confectionery)|Sohan
+Lâpa|Lâpa
+Flour tortilla|null
+Bündner Nusstorte|Bündner Nusstorte
+Kerststol|Kerststol
+Masala omelette|Masala omelette
+Tomato omelette|Tomato Omelette
+Burrito|Burrito
+Golbaengi-muchim|Golbaengi-muchim
+Crisp sandwich|Crisp sandwich
+Gobi paratha|Gobi paratha
+Hachée|Hachée
+Roti (wrap)|Roti
+Peabutter|Peabutter
+Lettuce sandwich|Lettuce sandwich
+Sugar cream pie|Sugar cream pie
+Porilainen|Porilainen
+Spaghetti aglio e olio|Spaghetti aglio e olio
+Onion roll|Onion rolls
+Pletzel|Pletzel
+Sapin-sapin|Sapin-sapin
+Snickers salad|Snickers salad
+Stringozzi|Stringozzi - Strangozzi
+Thieboudienne|Tiep
+Bacon Explosion|Bacon Explosion
+Dessert bar|Dessert bar
+Zakuski|Zakuski
+Fa gao|Fa gao
+Smorgasbord|Smörgåsbord
+Bread and butter pudding|Bread and butter pudding
+Giouvetsi|Giouvetsi
+Tumpeng|Tumpeng
+Rabri|null
+Misal pav|Misal pav
+Kharcho|Kharcho
+Chicken fried bacon|Chicken fried bacon
+Chocolate-covered bacon|Chocolate-covered bacon
+Afghan (biscuit)|Afghan (biscuit)
+Tarak-juk|Tarak-juk
+Jam sandwich (food)|Jam sandwich
+Scuffler|Scuffler
+Binignit|Binignit
+Hulatang|Hulatang
+Spring pancake|Spring pancake
+Dyrlægens natmad|Dyrlægens natmad
+Øllebrød|Øllebrød
+Wazwan|wazwan
+Philippine adobo|Filipino adobo
+Gukbap|Gukbap
+Flaki|Flaki
+Arab salad|Arab salad
+Couque suisse|Couque suisse
+Patatas bravas|Patatas bravas
+Neapolitan pizza|Neapolitan pizza
+Ry-Krisp|Ry-Krisp
+Usal|Usal
+Fatayer|Fatayer
+Clams casino|Clams casino
+Mandu-guk|Mandu-guk
+Dripping cake|Dripping cake
+Hemp milk|
+Kubbeh|Kubbeh
+Galbi-tang|Galbi-tang
+Gopchang-jeongol|Gopchang-jeongol
+Dak-bokkeum-tang|Dak-bokkeum-tang
+Cookie salad|Cookie salad
+Miang kham|Miang kham
+Jat-guksu|Jat-guksu
+Meju|Meju
+Bupyeon|Bupyeon
+Chebureki|Chebureki
+Fánk|Fánk
+Speķrauši|Speķrauši
+Wasanbon|Wasanbon
+Mantecada|Mantecadas
+Nimono|Nimono
+Dastarkhān|Dastarkhān
+Fricot|Fricot
+Ori-tang|Oritang
+Yubeshi|Yubeshi
+Kokis|Kokis (කොකිස්)
+Puchero|Puchero
+Chhena jalebi|Chhena jalebi
+Chhena kheeri|Chhena kheeri
+Lakror|Lakror
+Prawn soup|Prawn soup
+Préfou|Préfou
+Filone|Filone
+Mofletta|Mofletta
+Black sesame rice cake|Black sesame rice cake
+Tejuino|Tejuino
+Mekupelet|Mekupelet
+Tofu|Tofu
+Jjolmyeon|Jjolmyeon
+Roze koek|Roze koek
+Pålægschokolade|Pålægschokolade
+Dezhou braised chicken|Dezhou braised chicken
+Quadratini|Quadratini
+Sarson ka saag|Sarson da saag
+Sheermal|Sheermal
+Dalcha|Dalcha
+Bülbül yuvası|Bülbül yuvası
+Mathri|Mathri
+Tournedos Rossini|Tournedos Rossini
+Cassoeula|Cassoeula
+Alinazik kebab|Alinazik kebab
+Pistolette|Pistolette
+Conkie|Conkie
+Nasi pecel|Nasi pecel
+Nasi kuning|Nasi kuning
+Serabi|Serabi
+Ulam (salad)|null
+Silpancho|
+Frappé coffee|Frappé
+Laffa|Laffa
+Jeera bhaat|Jeera bhaat
+Caldo de siete mares|Caldo de siete mares
+Peanut butter, banana and bacon sandwich|Peanut butter, banana, and bacon sandwich
+Stegt flæsk|Stegt flæsk
+Maple bacon donut|Maple bacon donut
+Malawah|Malawax
+Fruit pudding|Fruit pudding
+Salvitxada|Salsa de calçots
+Isi ewu|Isi ewu
+Sfouf|Sfouf
+Ojingeo-chae-bokkeum|Ojingeo-chae-bokkeum
+Buckeye (candy)|Buckeyes
+Shrewsbury cake|Shrewsbury cake
+Lard na|Lard na
+Machh bhaja|
+Nam tok (food)|Nam tok
+Superman (ice cream flavor)|Superman
+Litti (dish)|Litti
+Bacon, egg and cheese sandwich|Bacon, egg and cheese sandwich
+Wikipedia:WikiProject Spam/LinkReports/mmacube.com|Lao Sausage
+Sai ua|Sai ua sausage
+Sai gork|Sai gork
+Nam khao|Naem khao
+Jerusalem mixed grill|Jerusalem mixed grill or meorav Yerushalmi (in Hebrew)
+Mursik|Mursik
+Chicken karahi|Chicken Karahi
+Gomguk|Gomtang
+Hongeo-hoe|Hongeo-hoe
+Kerisik|Kerisik
+Guyuria|Guyuria
+Bêtise de Cambrai|Bêtise de Cambrai
+Roskette|Rosketti
+Vichy Pastilles|Vichy Pastilles
+Dessert salad|Dessert salad
+Fahsa|Fahsa
+Tavë kosi|Tavë kosi or Tave Elbasani
+Gibraltar rock (candy)|Gibraltar rock
+Naan qalia|Naan Qalia
+Jiuniang|Jiuniang
+Machher Jhol|Macher Jhol
+Dahi machha|Dahi machha
+Kalamai (dessert)|Kalamai
+Bienenstich|Bienenstich
+Booyah (stew)|
+Khao tom|Khao tom
+Kefir|Kefir
+Kushiyaki|Kushiyaki
+Pumpkin-coconut custard|Pumpkin-coconut custard
+Licitar|Licitar
+Dressed herring|Dressed herring
+Jigarthanda (drink)|Jigarthanda
+Chapssal-tteok|Chapssal-tteok
+Jésuite|Jésuite
+Zerde|Zerde زرده
+Placenta cake|Placenta
+Rødgrød|Rødgrød
+Fios de ovos|Fios de ovos
+Grit (grain)|Grit
+Slow Bread|Slow Bread
+Welf pudding|Welf pudding
+Graham cracker crust|Graham cracker crust
+Maltese bread|Maltese bread
+Tangy Fruits|Tangy Fruits
+Funeral potatoes|Funeral potatoes
+Penny bun|Penny bun
+Bobó de camarão|null
+Cabell d'àngel|Cabell d'àngel
+Pastisset|Pastisset
+Catànies|Catànies
+Mató de Pedralbes|Mató de Pedralbes
+Neula|Neula
+Risalamande|Risalamande
+Date shake|Date shake
+Youtazi|Youtazi
+Kesme|Kesme
+Modak|Modak
+Timballo|Timballo
+Şehriye|Şehriye
+Chocolate-covered potato chips|Chocolate-covered potato chips
+Olan (dish)|Olan
+Opera cake|Opera cake (Gâteau opéra)
+Zarda (food)|Zarda
+Tirokafteri|Ktipiti
+Ruske kape|Ruske kape
+Bagnun|Bagnun
+White boiled shrimp|White boiled shrimp
+Bulla cake|Bulla cake
+Gizzada|Gizzada
+Toto (dessert)|Toto
+Cow cod soup|Cow cod soup
+Mannish water|Mannish water
+Duckanoo|Duckanoo
+Game pie|Game pie
+Fish tea|Fish tea
+Blue cake|Blue cake
+Solomon Gundy|Solomon Gundy
+Cocktion|Cocktion
+Grater cake|Grater cake
+Chocolate chip cookie dough ice cream|Chocolate chip cookie dough ice cream
+'Ota 'ika|
+Maple liqueur|Maple liqueur
+Pork shogayaki|Pork shogayaki
+Habichuelas con dulce|Habichuelas con dulce
+Rum cake|null
+Dulce de batata|Dulce de batata
+Chacarero|Chacarero
+Buntil|Buntil
+Kammerjunker (biscuit)|Kammerjunker
+Buttermilk koldskål|Buttermilk koldskål
+Twist bread|Twist bread
+Huff paste|Huff paste
+Reibekuchen|Reibekuchen
+Snack and a half|Snack and a half
+Makka Poha|Makka Poha
+Hallongrotta|Hallongrotta
+Casunziei|Casunziei
+Chalbori-ppang|Chalbori-ppang
+Tatws Pum Munud|Tatws Pum Munud
+Kue semprit|Kue semprit
+Chocolate tart|Chocolate tart
+Bhurta|Bharta
+Pepes|Pepes
+Botok|Botok
+Or lam|Or lam
+Paris–Brest|Paris–Brest
+Tenshindon|
+Bir pletok|Bir pletok
+Es teler|Es teler
+Gethuk|Gethuk
+Bocadillo|
+Squab pie|Squab pie
+Hellimli|Halloumoti/Hellimli
+Chhena Jhili|Chhena Jhili
+Mazamorra|Mazamorra
+Ficelle|Ficelle
+Panada|Panada
+Harihari-nabe|Harihari-nabe
+Morcón|Morcón
+Andrajos|Andrajos
+Ábrystir|Ábrystir
+Grape pie|Grape pie
+Snow White salad|Snow White salad
+Pastry heart|Pastry heart
+Gaepi-tteok|Gaepi-tteok
+Gamja-ongsimi|Gamja-ongsimi
+Kadboli|Kadboli
+Hot chicken|Hot chicken
+Proben|Proben
+Chapea|Chapea
+Mangú|Mangú
+Princess cake|Princess cake
+Naengguk|Naengguk
+Steamed curry|Steamed curry
+Fried mushrooms|Fried mushrooms
+Tramezzino|Tramezzino
+Peg bread|Peg bread
+Fruit bun|Fruit bun
+Ajilimójili|Ajilimójili
+Borodinsky bread|Borodinsky bread
+Inihaw|Inihaw
+Palmier|Palmier
+Nasi liwet|Nasi liwet
+Long John (doughnut)|Long John (pastry)
+Coconut doughnut|Coconut doughnuts
+Sour cream doughnut|Sour cream doughnut
+Potato doughnut|Potato doughnut
+Yakgwa|Yakgwa
+Klenät|Klenät
+Fritelli|Fritelli
+Nun's puffs|Nun's puffs
+Mandazi|Mandazi
+Tortita negra|Tortita negra
+Rosca|Rosca
+Cider doughnut|Cider doughnut
+Péla (dish)|Péla
+Amaretti di Saronno|Amaretti di Saronno
+Mocotó|Mocotó
+Fabes con almejas|Fabes con almejas
+Smultring|Smultring
+Quesito|Quesito
+Peanut flour|Peanut flour
+Bouneschlupp|Bouneschlupp
+Prusurate|Prusurate
+Doodh pati chai|Doodh pati chai
+Ribbon candy|Ribbon candy
+Dutchie (doughnut)|Dutchie
+Queso flameado|Queso flameado
+Mee goreng|Mee goreng
+Tula pryanik|Tula pryanik
+Ahriche|Ahriche
+Adhirasam|Athrasa
+Turkish delight|Lokum
+Mala Mogodu|Mogodu
+Pyeonsu|Pyeonsu
+Dabby-Doughs|Dabby-Doughs
+Zippula|Zippula
+Ngapi|Ngapi
+Anelli|Anelli
+Casoncelli|Casoncelli
+Pillus|Pillus
+Sagnarelli|Sagnarelli
+Scialatielli|Scialatielli
+Tagliolini|Tagliolini
+Ciambotta|Ciambotta
+Dendeng|Dendeng
+Ketoprak (dish)|Ketoprak
+Rawon|Rawon
+Flamiche|Flamiche
+Dried persimmon|Dried persimmon
+Danja (food)|Danja
+Yukpo|Yukpo
+Omija-hwachae|Omija-hwachae
+Yeot-gangjeong|Yeot-gangjeong
+Mandu-gwa|Mandu-gwa
+Hodu-gwaja|Hodu-gwaja
+Tteok-galbi|Tteok-galbi
+Chinese fried rice|Chinese fried rice
+Bacon Deluxe|Bacon Deluxe
+An-doughnut|An-doughnut
+Kruidnoten|Kruidnoten
+Gogoși|Gogoși
+Brændende kærlighed|Brændende kærlighed
+Qatir (syrup)|Attar
+Mustacciuoli|Mustacciuoli
+Frittella (doughnut)|Frittelle
+Sungeo-guk|Sungeo-guk
+Tembleque|Tembleque
+Tushonka|Tushonka
+Zeeuws spek|Zeeuws spek
+Orama (dish)|Oromo
+Catfish stew|Catfish stew
+Alaea salt|Alaea salt
+Princessa (chocolate bar)|Princessa
+Smulpaj|Smulpaj
+Hawaij|Hawaij
+Touton|Touton
+Creole mustard|null
+Arroz caldo|Arroz caldo
+Podpłomyk|Podpłomyk
+Boerenjongens|Boerenjongens
+Zeeuwse bolus|Zeeuwse bolus
+Baye baye|Baye baye
+Suaasat|Suaasat
+Wurstbrot|Wurstbrot
+Kulajda|Kulajda
+Olho de sogra|Olho de sogra
+Sablé (biscuit)|Sablé
+Easter biscuit|Easter biscuit
+Biscuit rose de Reims|Biscuit rose de Reims
+Sakinalu|Sakinalu
+Kappa Ebisen|Kappa Ebisen
+Biscuit (bread)|Biscuit
+Abernethy biscuit|Abernethy biscuit
+Hovis biscuit|Hovis biscuit
+Neapolitan wafer|Neapolitan wafer
+Biscotti regina|Biscotti regina
+Baicoli|Baicoli
+Bika ambon|Bika ambon
+Opor ayam|Opor ayam
+Torta de gazpacho|Torta de gazpacho
+Miguelitos|Miguelitos
+Coussin de Lyon|Coussin de Lyon
+Guatita|Guatita
+Apple soup|Apple soup
+Mumbo sauce|Mumbo sauce
+Strawberry delight|Strawberry delight
+Nero (confectionery)|Nero
+Gyeran-jjim|Gyeran-jjim
+Sinangag|Sinangag
+Nasi bogana|Nasi bogana
+Tikka (food)|Tikka
+Lihapiirakka|Lihapiirakka
+Garganelli|Garganelli
+Tilslørte bondepiker|Tilslørte bondepiker / bondepige med slør
+Vastedda|Vastedda
+Kenpi|Kenpi
+Mango pomelo sago|Mango pomelo sago
+Booza|Booza
+Lohikeitto|Salmon soup (Lohikeitto)
+Tongue toast|Tongue toast
+Sponge cake|Sponge cake
+Kig ha farz|Kig ha farz
+Seri muka|Kuih seri muka,
+Bolinhos de mandioca com mel|Bolinhos de mandioca com mel
+Moules-frites|Moules-frites
+Dum aloo|Dum aloo
+Flaugnarde|Flaugnarde
+Calf's liver and bacon|Veal liver and bacon
+Anarsa|Anarsa
+Layered rye bread|Layered rye bread
+Cordon bleu (dish)|Cordon bleu
+Qutab|Qutab
+Mole (sauce)|Mole
+Cocada|Cocada
+Menudo (stew)|Menudo
+Menudo (stew)|Waknatoy
+Qamar al-Din|Qamar al-Din
+Far Breton|Far Breton
+Fusen gum|Fusen gum
+Butterkuchen|Butterkuchen
+Hochzeitssuppe|Hochzeitssuppe
+Birnen, Bohnen und Speck|Birnen, Bohnen und Speck
+Steckrübeneintopf|Steckrübeneintopf
+Hojuela|Hojaldre (Hojuela)
+Arroz con gandules|Arroz con gandules
+Unnakai|Unnakai
+Sushi pizza|Sushi pizza
+Cake balls|Cake balls
+Wenchang chicken|Wenchang chicken
+Landang|landang
+Carrot pudding|Carrot pudding
+Ganache|Ganache
+Memela|Memela
+Galinhada|Galinhada
+Thennai Kozhakkattai|Thennai Kozhukkattai
+Gâteau Basque|Gâteau Basque
+Lamprais|null
+Torta monferrina|Torta monferrina
+Wanko soba|Wanko soba
+Tinutuan|Tinutuan
+Kuzhambu|Kuzhambu
+Punsch-roll|Punsch-roll
+Coffee jelly|Coffee jelly
+T'anta wawa|T'anta wawa
+Rupjmaize|Rupjmaize
+Kansar|Kansar
+Suama|Suama
+Picatostes|Picatostes
+Smyrna meatballs|Smyrna meatballs
+Lalab|Lalab
+Chakhchoukha|Chakhchoukha
+Lemper|Lemper
+Khao poon|Khao poon
+Pain aux raisins|Pain aux raisins
+Daktyla|Daktyla
+Sudan (food)|Sudan
+Creamed eggs on toast|
+Kuromitsu|
+Kuzumochi|
+Kudzu powder|Kudzu powder
+Kerak telor|Kerak Telor
+Meghli|Meghli
+Beika|Beika
+Slider (sandwich)|Slider
+Fromage fort|Fromage fort
+Metworst|Metworst
+Kotlet schabowy|Kotlet schabowy
+Baekseolgi|Baekseolgi
+Jeok|Jeok
+Ogok-bap|Ogok-bap
+Corn burrito|Corn burrito
+Tipsy cake|Tipsy cake
+Gangjeong|Gangjeong
+Jeolpyeon|Jeolpyeon
+Bap (rice dish)|Bap
+Cow Chocolate|Cow Chocolate
+Garak-guksu|Garak-guksu
+Salmoriglio|Salmoriglio
+Kréma|Kréma
+Malabar (chewing gum)|Malabar
+Canja de galinha|Canja de galinha
+Selsko meso|Selsko Meso
+Baxin|Baxin
+Rab cake|Rab cake
+Queijadinha|Queijadinha
+Crostini|Crostini
+Fruit hat (pudding)|Fruit hat
+Mohnnudel|Mohnnudel
+Salzburger Nockerl|Salzburger Nockerl
+Pantruca|Pantruca
+Hyōroku mochi|Hyōrokumochi
+Kagoshima ramen|Kagoshima ramen
+Munthiri kothu|Munthiri kothu
+Pastrmalija|Pastrmalija
+Malidzano|Malidzano
+Buccellato di Lucca|Buccellato di Lucca
+Sgabeo|Sgabeo
+Spaghetti alle vongole|Spaghetti alle vongole
+Bruttiboni|Bruttiboni
+Mandelkubb|Mandelkubb
+Karukan|Karukan
+Berlingozzo|Berlingozzo
+Birnenhonig|Birnenhonig
+Sinki (food)|Sinki
+Kinema|Kinema
+Seco (food)|null
+Harissa|Harissa
+Pane di Altamura|Pane di Altamura
+Rönttönen|Rönttönen
+Balchão|Balchão
+Crispy pata|Crispy pata
+Camaron rebosado|Camaron rebosado
+Kouign patatez|Kouign patatez
+Francesinha poveira|Francesinha poveira
+Tecula mecula|Tecula mecula
+Corn cookie|Corn cookie
+Queijada|Queijada
+Nonnevot|Nonnevot
+Opor|Opor
+Hamdog|Hamdog
+Manjar branco|Manjar branco
+Nettle soup|Nettle soup
+Stip (dish)|Stip
+Imelletty perunalaatikko|Sweetened potato casserole
+Macaroni casserole|Macaroni casserole
+Hapanvelli|Hapanvelli
+Fenia (food)|Fenia
+Ohn no khao swè|Ohn no khao swè
+Pom (dish)|Pom
+Chapalele|Chapalele
+Mjukkaka|Mjukkaka
+Tekwan|Tekwan
+Mie celor|Mie Celor
+Narutomaki|Narutomaki
+Kabuni|Kabuni
+Rempeyek|Rempeyek
+Capuns|Capuns
+Coconut cake|Coconut cake
+Coconut chutney|Coconut chutney
+Steamed plate cake|Kinnathappam
+Khauk swè thoke|Khauk swè thoke
+Khichra|Khichra
+Mässmogge|Mässmogge
+Camel rider|null
+Sate padang|Sate padang
+Alu Potala Rasa|Alu Potala Rasa
+Enduri pitha|Enduri pitha
+Bela Pana|Bela Pana
+Dahi baigana|Dahi baigana
+Chakuli pitha|Chakuli Pitha
+Kakara pitha|Kakara pitha
+Chandrakanti|Chandrakanti
+Arsik|Arsik
+Pickled mustard|Pickled mustard greens
+Kue cubit|Kue cubit
+Dabeli|Dabeli
+Bavette (pasta)|Bavette
+Ou khatta|Ou khatta
+Vispipuuro|Vispipuuro
+Carac (pastry)|Carac
+Geng (dish)|Geng
+Speck Alto Adige|Speck Alto Adige
+Mazurek (cake)|Mazurek
+Fatoot|Fatoot
+Bagnet|Bagnet
+Ajapsandali|Ajapsandali
+Nan gyi thoke|Nangyi thoke
+Meeshay|Meeshay
+Mont di|Mont di
+Shikanji|Shikanji
+Mohnyin tjin|Mohnyin tjin
+Mee bandung|Mee Bandung Muar
+Htamanè|Htamanè
+Diyabath|Diyabath
+Htamin jin|Htamin Chin
+Banana cue|Bananacue
+Grant loaf|Grant loaf
+Flaó|Flaó
+Daun ubi tumbuk|Daun ubi tumbuk
+Rhubarb tart|Rhubarb tart
+Batagor|Batagor
+Camote cue|Camote cue
+Moorkop|Moorkop
+Chingudi jhola|Chingudi jhola
+Manda pitha|Kancha Manda pitha
+Maachha bihana|Maachha Bihana
+Sayur lodeh|Sayur lodeh
+Barley bread|Barley bread
+Arany galuska|Arany Galushka
+Talbina|Talbina
+Candle salad|Candle salad
+Pastel de Camiguín|Pastel de Camiguín
+Dakos|Dakos
+Cappon magro|Cappon magro
+Rijstevlaai|Rijstevlaai
+Lumpia semarang|Lumpia Semarang
+Serundeng|Serundeng
+Kalvdans|Kalvdans
+Yaka mein|Yaka mein
+Mie kering|Mie kering
+Coto makassar|Coto Makassar
+Xiaochi|Xiaochi
+Tuile|Tuiles
+Arroz chaufa|Arroz chaufa
+Jewish apple cake|Jewish apple cake
+Tonis puri|Tonis puri
+Potatoes of Chiloé|Potatoes of Chiloé
+Gamet|Gamet
+Munchy box|Munchy box
+Ginanggang|Ginanggang
+Pinaypay|Pinaypay
+Potatonik|Potatonik
+Lobster stew|Menorcan lobster stew
+Sandbakelse|Sandbakelse
+Mutschel|Mutschel
+Talkhan|Talkhan
+Boûkète|Boûkète
+Rivels|Rivels
+Bacon soup|Bacon soup
+Donkey burger|Donkey burger
+Tandoor bread|Tandoor bread
+Kkul-tarae|Kkul-tarae
+Latik|Latík
+Fischbrötchen|Fischbrötchen
+Bacon ice cream|Bacon ice cream
+Githeri|Githeri
+Mas huni|Mas huni
+Mas riha|Mas riha
+Miruhulee boava|Miruhulee boava
+Boquerones en vinagre|Boquerones en vinagre
+Chungmu-gimbap|Chungmu-gimbap
+Bun cha|Bún Chả
+Pigeon pie|Pigeon pie
+Trinxat|Trinxat
+Sesame seed candy|Sesame seed candy
+Kaeng pa|Kaeng pa
+Szczecin paprikash|null
+Scovardă|Scovardă
+Kiviak|Kiviak
+Tonkotsu ramen|Tonkotsu ramen
+Chapli kebab|Chapli kabab
+Montreal-style smoked meat|Montreal-style smoked meat
+Michetta|Michetta
+Bacon jam|Bacon jam
+Guajolota|Guajolota
+Coulibiac|Coulibiac
+Petit four|Petit four
+Mustard (condiment)|Mustard
+Nopalito|
+Rum baba|Rum baba
+Jucy Lucy|Jucy Lucy
+Tostones|Tostones
+Pommes Anna|Pommes Anna
+Cured pork tenderloin|Cured pork tenderloin
+School bread|Skolebrød, Skolebolle
+Croquette|Croquette
+Century egg|Century egg
+Instant noodles|Instant noodles
+Surströmming|Surströmming
+Bolognese sauce|Bolognese sauce
+Mitarashi dango|Mitarashi dango
+Zoervleis|Zoervleis
+Linsen mit Spätzle|Linsen mit Spätzle
+Bocconotto|Bocconotto
+Bikaneri bhujia|Bikaneri bhujia
+Red braised pork belly|Red braised pork belly
+Luosifen|Luosifen
+Bolo de rolo|Bolo de rolo
+Devizes pie|Devizes pie
+Hard candy|Hard candy
+Pachi pulusu|Pachi pulusu
+Koloocheh|Koloocheh
+Protein bar|Protein bars
+Ponganalu|Ponganalu
+Poornalu|Boorelu
+Semur (Indonesian stew)|Semur
+Bagel toast|Bagel toast
+Viennese whirls|Viennese whirls
+Saucisson|Saucisson
+Aloo paratha|Aloo paratha
+Lofenalac|Lofenalac
+Chakodi|Chakodi
+Ginger dressing|Ginger dressing
+Caldillo de congrio|
+Hedgehog slice|Hedgehog slice
+Jelly slice|Jelly slice
+Curry ketchup|Curry ketchup
+Saksang|Saksang or Sa-sang
+Brazo de Mercedes|Brazo de Mercedes
+Flaouna|Flaouna
+Pasta alla Norma|Pasta alla Norma
+Ohaw|Ohaw
+Asinan|Asinan
+Papeda (food)|null
+Bajigur|Bajigur
+Konro|Konro
+Rhubarb pie|Rhubarb pie
+Serranito|Serranito
+Sel gris|Sel gris
+Potjevleesch|Potjevleesch
+Borlengo|Borlengo
+Rice bread|Rice bread
+Tokoroten|Tokoroten
+Gürzə|Gürzə
+Gazpachuelo|Gazpachuelo
+Kapsalon|Kapsalon
+Stuffed chine|Stuffed chine
+Milmyeon|Milmyeon
+Doria (food)|Doria
+Pan brioche|Pan brioche
+Milk-cream strudel|Milk-cream strudel
+Magenbrot|
+Esterházy torte|Esterházy torta
+Borani|Borani
+Ang ku kueh|Ângkukóe, Ang Ku Kueh or Kue Ku
+Sukhdi|Sukhdi
+Laal maas|Laal maas
+Laapsi|Laapsi
+Napoleonka|Napoleonka
+Silvana (food)|Silvana
+Pan bati|Pan bati
+Kilishi|Kilishi
+Crème brûlée|Crème brûlée
+No-knead bread|No-knead bread
+Noon chai|null
+Tokneneng|Tokneneng
+Rabbit pie|Rabbit pie
+Covrigi|Covrigi
+Paling in 't groen|
+Sorullos|Sorullos
+Maja blanca|Maja blanca
+Arisa pitha|Arisa pitha
+Empal gentong|Empal gentong
+Nasi ulam|Nasi ulam
+Nasi kucing|Nasi kucing
+Roti buaya|Roti Buaya
+Cap cai|Cap cai
+Mazagran (drink)|Mazagran
+Nasi tim|Nasi tim
+Tauco|Tauco
+Soto mie|Soto mie
+Perkedel|Perkedel
+Leipziger Lerche|Leipziger Lerche
+Sarburma|Sarburma
+Tongseng|Tongseng
+Bacone|Bacone
+Nasi kebuli|Nasi kebuli
+Cocoloși|Cocoloși
+Plăcintă|Plăcintă
+Marillenknödel|Marillenknödel
+Kakiage|Kakiage
+Leben (milk product)|null
+Masan (pastry)|Masen
+Xogoi Momo|Xogoi Momo
+Papza Mogu|papza mogu
+Gyabrag|Gyabrag
+Yurla (dish)|Yurla
+Zhoixo|Zhoixo
+Gyatog|Gyatog
+Gyaho|Gyaho
+Gundain|Gundain
+Qoiri|Qoiri
+Malabar matthi curry|Malabar Fish Curry/Fish Curry
+Chili burger|Chili burger
+Dressed crab|Dressed crab
+Benne dose|Davanagere benne dosa
+Briouat|Briouat / Briwat
+Nam phrik|Nam phrik
+Suutei tsai|Suutei tsai
+Paruppusilli|Paruppusilli
+Zuger Kirschtorte|Zuger Kirschtorte
+Kirschenmichel|Kirschenmichel
+Donauwelle|Donauwelle
+Birnbrot|Birnbrot
+Pestiños|Pestiños
+Esgarrat|Esgarraet
+Yemas de Santa Teresa|Yemas de Santa Teresa
+Xuixo|Xuixo
+Sanuki udon|Sanuki udon
+Fartons|Fartons
+Bolo de mel|Bolo de mel
+Leche frita|Leches fritas
+Sobao|Sobao
+Akanés|Akanés
+Ayam Taliwang|Ayam Taliwang
+Goro (sweet bread)|Goro
+Bolinho de chuva|
+Kommissbrot|Kommissbrot
+Tahu sumedang|Tahu sumedang
+Scotcheroos|Scotcheroos
+Bread soup|Bread soup
+Pichelsteiner|Pichelsteiner
+Kartoffelkäse|Kartoffelkäse
+Zwetschgenkuchen|Zwetschgenkuchen
+Qurabiya|Qurabiya
+Schuxen|Schuxen
+Allerheiligenstriezel|Allerheiligenstriezel
+Balila (dish)|null
+Knieküchle|Knieküchle
+Sugar mice|Sugar mice
+Strapatsada|Strapatsada
+Flying saucer (confectionery)|Flying saucers
+Sekuwa|Sekuwa
+Hagebuttenmark|Hagebuttenmark
+Cat tongue|Cat tongue
+Huangqiao sesame cake|Huangqiao Sesame Cake
+Phat phrik khing|Phat phrik khing
+Tasaka Guri-Guri|Guri-guri
+Tomato and egg soup|Tomato and egg soup
+Chasan (pastry)|Chasan
+Barley gruel|Barley gruel
+Peameal bacon|Peameal bacon
+Spanakorizo|Spanakorizo
+Tandyr nan|Tandyr nan
+Ostropel|Ostropel
+Khandvi (food)|Khandvi
+Qatlama|Qatlama
+Holsum Bread|Holsum Bread
+Laba congee|Laba
+Cream horn|Cream horn
+Schneeball (pastry)|Schneeball
+Adobe bread|Adobe bread
+Amish preaching soup|Amish preaching soup
+Ammonia cookie|Ammonia cookie
+Chongyang cake|Chongyang cake
+Seattle-style hot dog|Seattle-style hot dog
+Singing hinny|Singing hinny
+Salmon tartare|Salmon tartare
+Kairi ka do pyaza|Kairi ka do pyaza
+Tamate ka kut|Tamate ka kut
+Tala huwa gosht|Talawa Gosht
+Kulfa gosht|Kulfa gosht
+Chinkiang pot cover noodles|Chinkiang pot cover noodles
+Nantong Xiting Cracker|Nantong Xiting Cracker
+Suikerbrood|Suikerbrood
+Chaogan|Chaogan
+Shaker lemon pie|Shaker lemon pie
+Sanjeok|Sanjeok
+Bukkumi|Bukkumi
+Dragon beard noodles|Dragon beard noodles
+Funing big cake|Funing big cake
+Nakji-bokkeum|Nakji-bokkeum
+Dakjuk|Dakjuk
+Helmipuuro|Helmipuuro
+Pâté chaud|Pâté chaud
+Manchurian (dish)|Manchurian
+Duck blood and vermicelli soup|Duck blood and vermicelli soup
+Kuku (food)|Kuku
+Ló͘-bah-pn̄g|Lo bah png, , small, (Minced pork rice), /small,
+Winter melon punch|null
+Heugimja-juk|Heugimja-juk
+Lighvan cheese|Lighvan cheese
+Oblaat|Oblaat
+Fish head casserole|Fish head casserole
+Kat kyi kaik|Kat kyi kaik
+Toast sandwich|Toast sandwich
+Jangguk-juk|Jangguk-juk
+Hobak-tteok|Hobak-tteok
+Bakwan|Bakwan
+Papanași|Papanași
+Scali bread|Scali bread
+Euneo-juk|Euneo-juk
+Chanochi|Chanochi
+Daechu-gom|Daechu-gom
+Cherpumple|Cherpumple
+Bajadera|Bajadera
+Quetschentaart|Quetschentaart
+Šampita|Šampita
+Kemplang|Kemplang
+Pevarini|Pevarini
+Sticky rice in bamboo|Sticky rice in bamboo
+Orzotto|Orzotto
+Castagnaccio|Castagnaccio
+Stir-fried tomato and scrambled eggs|Stir-fried tomato and scrambled eggs
+Götterspeise|Götterspeise
+Manteca colorá|Manteca colorá
+Koi (dish)|Koi
+Stutenkerl|Stutenkerl
+Cocido lebaniego|Cocido lebaniego
+Hawawshi|Hawawshi
+Flæskesteg|Flæskesteg
+Chhundo|Chhundo
+Aushak|
+Melomakarono|Melomakarona
+Beggar's chicken|Beggar's chicken
+Olivier salad|Olivier salad
+Bica (coffee)|Bica
+Khoya paneer|Khoya paneer
+Phu Quoc fish sauce|
+Herman cake|Herman cake
+Oyster stew|Oyster stew
+Amandine (dessert)|Amandine
+Noodles with tomato egg sauce|Noodles with tomato egg sauce
+Poolaki|Poolaki
+Chikuzenni|Chikuzen-ni
+Far far|Far far
+Soubise sauce|Soubise sauce
+Cake pop|Cake pop
+Chè bà ba|Chè bà ba
+Lanzhou beef noodles|Lanzhou beef noodles
+Bocadillo (dessert)|Bocadillo
+Hyderabadi marag|Hyderabadi marag
+Kaeng som|Kaeng som
+Happy cake|Happy cake
+Bumbleberry pie|Bumbleberry pie
+Cheese and onion pie|Cheese and onion pie
+Lipie (bread)|Lipie
+Borș (bran)|Borș
+Tochitură|Tochitură
+Tobă|Tobă
+Fish finger sandwich|Fish finger sandwich
+Buckwheat gateau|Buckwheat gateau
+Khaman|Khaman
+Ozark pudding|Ozark pudding
+Cașcaval pane|Cașcaval pane
+Gundel pancake|Gundel Crêpe
+Creier pane|Creier pane
+Kentucky jam cake|Kentucky jam cake
+Urap|Urap
+Kamasutra (chocolate)|Kamasutra
+Cornulețe|Cornulețe
+Lakerda|Lakerda
+Bermuda fish chowder|Bermuda fish chowder
+Sicilian orange salad|Sicilian orange salad
+Pită de Pecica|Pită de Pecica
+Tunde ke kabab|Tunde Ke Kabab
+Alivenci|Alivenci
+Borș de burechiușe|Borș de burechiușe
+Ciorbă de perișoare|Ciorbă de perișoare
+Magiun of Topoloveni|Magiun of Topoloveni
+National Loaf|National loaf
+Taro ball|Taro ball
+Sev puri|Sev puri
+Paneer tikka|Paneer tikka
+Quad City–style pizza|Quad-City–style Pizza
+Lia (food)|Lia, ଲିଆ
+Pallubasa|Pallubasa
+Cacio e pepe|Cacio e pepe
+Chocolate marquise|Chocolate marquise
+Pathia|Pathia
+Ginger pickle|Ginger pickle
+Carapulcra|Carapulcra
+Budino|Budino
+Paneer tikka masala|Paneer ṭikka masālā
+Aloo mutter|null
+Redonkadonk|Redonkadonk
+Doodhpak|Doodhpak
+Puri bhaji|Puri bhaji
+Sev (food)|Sev
+Haddekuche|Haddekuche
+Ploatz|Ploatz
+Speckkuchen|Speckkuchen
+Kutluma|Qatlama, }}
+Bollito misto|Bollito misto
+Chilli chicken|Chilli chicken
+Chotpoti|Chotpoti
+Tahinopita|Tahinopita
+Red slaw|Red slaw
+Međimurska gibanica|Međimurska gibanica
+Cholermus|Cholermus
+Spunk (candy)|Spunk
+Chhena|Chhena
+Murukku|Murukku
+Tàⁿ-á-mī|Tàⁿ-á-mī
+Khanom chin|Khanom chin
+Nam chim|Nam chim
+Lady's navel|Lady's navel
+Flanby|Flanby
+Alu chat|Alu chat
+Barbajada|Barbajada
+Kwetiau goreng|Kwetiau goreng
+Bauernfrühstück|Bauernfrühstück
+Gajak|Gajak
+Maghaz|Maghaz
+Haneeth|Haneeth
+Khanom chan|Khanom chan
+Sweet roll|Sweet roll
+Crackling bread|Crackling bread
+Dhindo|Dhindo
+Handvo|Handvo
+Onsen tamago|Onsen Tamago
+Pilgrim (sandwich)|Pilgrim
+Hummingbird cake|Hummingbird cake
+Baghrir|Baghrir
+Msemmen|Msemmen
+Mie ayam|Bakmi ayam
+Munini-imo|Munini-imo
+Nasi bakar|Nasi Bakar
+Nasi timbel|Nasi Timbel
+Bánh pía|Bánh pía
+Es campur|Es campur
+Cakalang fufu|Cakalang fufu
+Bubur ayam|Bubur ayam
+Namkhaeng sai|Namkhaeng sai
+Pol Pani|Pol Pani
+Oil down|Oildown
+Es doger|Es Doger
+Rengginang|Rengginang
+Ngohiong|Ngohiong
+Puto seco|Puto seco
+Bacon sundae|Bacon sundae
+Lagane e ceci|Lagane e ceci
+Pepper jelly|Pepper jelly
+Colaz|Colaz
+Faluche (bread)|Faluche
+Tostada (toast)|Tostada
+Sinabawang gulay|Sinabawang gulay
+Varenets|null
+Crawfish pie|Crawfish pie
+Juane|Juane
+Bøfsandwich|Bøfsandwich
+Talunan|Talunan
+Kadhi chawal|Kadhi Chawal
+Kue putu|Kue putu
+Echicha|Ẹchịcha
+Bún mắm|Bún mắm
+Bún ốc|Bún ốc
+Pritong saging|Pritong saging
+Steak and oyster pie|Steak and oyster pie
+Crayfish as food|null
+Wasakaka|
+Chammanthi podi|Chammanthi podi
+Ruisreikäleipä|Ruisreikäleipä
+Sosis Bandari|Sosis Bandari
+Senate bean soup|Senate bean soup
+Frogeye salad|Frog-eye salad
+Hamonado|Hamonado
+Chicken inasal|Chicken Inasal
+Callos|Callos
+Guasanas|Guasanas
+Ajdov Kruh|Ajdov Kruh
+Leberknödel|Leberknödel
+Nasi jamblang|Nasi jamblang
+Tahu gejrot|Tahu gejrot
+Nasi lengko|Nasi Lengko
+Nasi kerabu|Nasi kerabu ,
+Gnudi|Gnudi
+Aloo gosht|Aloo gosht
+Se'i|Seʼi
+Religieuse|Religieuse
+Mahua (snack)|Mahua
+Chiffon margarine|null
+Waakye|Waakye
+Burmese pork offal skewers|Pork offal skewers
+Chocolate-covered almonds|Chocolate almonds
+Chikhirtma|Chikhirtma
+Cocido montañés|Cocido montañés
+Panpepato|Panpepato
+Porra antequerana|Porra antequerana
+Papas chorreadas|Papas chorreadas
+Aborrajados de plátano maduro|Aborrajados de plátano maduro
+Roscón|Roscón
+Pashofa|Pashofa
+Ikameshi|Ikameshi
+Wine cake|Wine cake
+Gajar ka halwa|Gajar ka halwa
+Tacacho|Tacacho
+Snow skin mooncake|Snow skin mooncake
+Lontong cap go meh|Lontong cap go meh
+Cironka|Cironka
+Fruit Tingles|Fruit Tingles
+Brown sauce|Brown sauce
+Gomme (food)|Gomme
+Juka (soup)|Juka
+Kedjenou|Kedjenou
+Acheke|
+Masala chai|Masala chai
+Bulalo|Bulalô
+Chipsi mayai|Chipsi mayai
+Veka (pastry)|Veka
+Žemlovka|Žemlovka
+Bánh cốm|Bánh cốm
+Bánh rế|Bánh rế
+Bánh phu thê|Bánh phu thê
+Bánh in|Bánh in
+Dovga|Dovga
+Pickled beet egg|Pickled beet egg
+Rice and gravy|Rice and gravy
+Nam ngiao|Nam ngiao
+Kaeng khae|Kaeng khae
+Kaeng tai pla|Kaeng tai pla
+Spanisch Brötli|Spanisch Brötli
+Craster kipper|Craster kipper
+Bhoonja|Bhoonja
+Cheese and pickle sandwich|Cheese and pickle sandwich
+Mimosa Sugar Balls|Mimosa Sugar Balls
+Shark fin dumpling|Shark fin dumpling
+Semolina pudding|Semolina pudding
+Chef Brown Sauce|Chef Brown Sauce
+Bún thịt nướng|Bún thịt nướng
+Frank 'n Stuff|Frank 'n Stuff
+Makhan malai|Makhan malai
+Kesari bat|Kesari bat
+Kaak (bread)|Kaak
+Chocolate biscuit pudding|Chocolate biscuit pudding
+Ayam penyet|Ayam penyet
+Klappertaart|Klappertaart
+Tehri (dish)|
+Bolo do caco|Bolo do caco
+Kneippbrød|Kneippbrød
+Mbesses|Mbesses -
+Crow stew|Crow stew
+Broa de Avintes|Broa de Avintes
+Tabrizi Lovuez|Qurabiya
+Milcao|Milcao
+Sausage sizzle|Sausage in bread
+Pieds paquets|Pieds paquets
+Pan de queso|Pan de queso
+Salmon pie|Salmon pie
+Bark bread|Bark bread
+Tinginys|Tinginys
+Kabkabou|Kabkabou
+Flia|
+Chả trứng|Chả trứng
+Caldo tlalpeño|Caldo tlalpeño
+Rice burger|Rice burger
+Gulha|Gulha
+Milho frito|Milho frito
+Kkulppang|Kkulppang
+Crab puff|Crab puff
+Maltose crackers|Maltose cracker
+Puits d'amour|Puits d'amour
+Taiwanese fried chicken|Taiwanese fried chicken
+Wikipedia:WikiProject Food and drink/Breakfast task force/Templates|
+Pork knuckles and ginger stew|Pork knuckles and ginger stew
+Honey Puffs|Honey Puffs
+Pol sambol|Pol sambol
+Kalu dodol|Kalu dodol
+Savoury pattie|Savoury pattie
+Run down|Run down
+Pie tee|Kueh Pie Tee
+Aila (liquor)|Aila
+Gur cake|Gur cake
+Mute (soup)|Mute
+Trofie|Trofie
+Mắm nêm|Mắm nêm
+Cochinito de piloncillo|Cochinito de piloncillo
+Peanut soup|Peanut soup
+Eghajira|Eghajira
+Yeolmu-kimchi|Yeolmu-kimchi
+Ampaw|Ampaw
+Trenza|Trenza
+Caldo galego|Caldo galego
+Sate bandeng|Sate bandeng
+Huachinango a la Veracruzana|Huachinango a la Veracruzana
+Aluwa|Aluwa
+Sambal stingray|null
+Fish soup bee hoon|Fish soup bee hoon
+Kuluban|Kuluban
+Kelan antep|Kelan Antep
+Modjeska (confection)|Modjeska
+Štruklji|Štruklji
+Infobox|
+null|Crostata
+Pan dulce|Pan dulce
+Brown stew chicken|Brown stew chicken
+Pesek Zman|Pesek Zman
+Crab ice cream|Crab ice cream
+Oyster ice cream|Oyster ice cream
+Idrijski žlikrofi|Idrijski žlikrofi
+Pig fallopian tubes|Pig fallopian tubes
+Cashew butter|Cashew butter
+Duck rice|Duck rice
+Torpedo dessert|Torpedo dessert
+Şekerpare|Şekerpare
+Saray helva|Saray helva
+Sate lilit|Sate lilit
+Kabak tatlısı|Pumpkin Dessert
+Ramazan pidesi|Ramadan pita
+Thalassery cuisine|Thalassery cuisine
+Chả giò|Nem
+Spreewaldsauce|Spreewaldsauce
+Khatti Dal|Khatti Dal
+Kalitsounia|Kalitsounia
+Tostilocos|Tostilocos
+Sopa de guandú con carne salada|Sopa de guandú con carne salada
+Moro de guandules|Moro de guandules
+Cayeye|Cayeye
+Haliva|Haleva
+Mataz|Mataz
+Circassian chicken|Circassian chicken
+Kol böreği|Kol böreği
+Kavurma|Kavurma
+Yantiq|Cantiq
+Cholera (food)|Cholera
+Pestil|Pestil
+Kandil simidi|Kandil simidi
+Colocasia with lamb|Colocasia with lamb
+Cheddar sauce|Cheddar sauce
+Redcurrant sauce|Redcurrant sauce
+Whisky sauce|Whisky sauce
+Lörtsy|Lörtsy
+Shelpek|Shelpek
+Tahchin|Tahchin
+Zefir (food)|Zefír
+Şöbiyet|Şöbiyet
+Genovese sauce|Genovese sauce
+Hoşmerim|Höşmerim
+Analı kızlı soup|Analı kızlı soup
+Toyga soup|Toyga
+Yayla çorbası|Yayla çorbası
+Sulu köfte|Sulu köfte
+Tabriz meatballs|Tabriz meatballs
+Harput meatballs|Harput  meatballs
+İnegöl meatballs|İnegöl meatballs
+Chickpea bread|Chickpea bread
+Halghuane|Halghuane
+Valdiviano|Valdiviano
+Tire meatballs|Tire meatballs
+Machas a la parmesana|Machas a la parmesana
+Nasi ambeng|Nasi ambeng
+Parrozzo|Parrozzo
+Farali potatoes|Farali potatoes
+Kuru köfte|Kuru köfte
+Meatball soup|Meatball soup
+Ciulama|Ciulama
+Cincin|Kuih cincin
+Pinjaram|Pinjaram
+Amplang|Amplang
+Kelupis|Kelupis
+Clorot|Clorot
+Jala (kuih)|Jala
+Apam balik|Apam balik ,
+Kue semprong|Kue semprong
+Hinava|Hinava
+Wajik|Wajik
+Bahulu|Bahulu ,
+Tortello amaro di Castel Goffredo|Tortello amaro di Castel Goffredo
+Nasi kapau|Nasi kapau
+Nasi padang|Nasi padang
+Sloppy joe (New Jersey)|Sloppy Joe
+Bubur pedas|Bubur pedas ,
+Umai (food)|Umai
+Carciofi alla romana|Carciofi alla romana
+Shirdan|
+Lamban|Lamban
+Punjung|Punjung
+Lidah|Lidah
+Paccheri|Paccheri
+Chicken tabaka|null
+Thooththukkudi macaroon|Thoothukudi macaroon
+Lobiani|Lobiani
+Kuchmachi|Kuchmachi
+Pkhali|null
+Chanakhi|Chanakhi
+Nargesi (food)|null
+Baghali ghatogh|Baghali ghatogh
+Salchichón|Salchichón
+Alambre|Alambre
+Bionico|Bionico
+Meat jun|Meat jun
+Islama köfte|Islama Köfte
+Bamischijf|Bamischijf
+Nasischijf|Nasischijf
+Strawberry ice cream|Strawberry ice cream
+Kuurdak|Kuyrdak
+Carrot chip|Carrot Chips
+Kyay oh|Kyay oh
+Burmese salads|Burmese salads
+Kya zan hinga|Kyazan hinga
+Dark soy sauce|Dark soy sauce
+Sigyet khauk swè|Sigyet khauk swe
+Naiyou subing|Nǎiyóu sū bǐng
+Sauce poivrade|Sauce poivrade
+Alcohol-infused whipped cream|Alcohol-infused whipped cream
+Cabbage soup|Cabbage soup
+Milhojas|Milhoja
+Bubur ketan hitam|Bubur ketan hitam
+null|null
+null|null
+Template:Infobox food/testcases|Borsch
+null|Cream tea
+null|Curry
+null|
+null|
+Tiyula itum|Tiyula itum
+Kachumber|Kachumber
+Sno-ball|Sno-ball
+Boluo fan|Boluo Fan
+Migan|Migan
+Calentao|Calentado
+Cuchuco|Cuchuco
+Butifarra Soledeñas|Butifarra Soledeñas
+Instant breakfast|Instant breakfast
+Vakfıkebir bread|Vakfıkebir bread
+Mu kratha|Mu kratha
+Grandma pizza|Grandma pizza
+50/50 burger|50/50 burger
+Pastelón|Pastelón
+Fennel with lamb|Fennel with lamb
+Zuppa toscana|Zuppa toscana
+Nièr beurre|Nièr beurre
+Pidiyum kozhiyum|Pidiyum Kozhiyum
+Smoked egg|Smoked egg
+Sans rival|Sans rival
+Mallow with lamb|Mallow with lamb
+Stuffed mallow|Stuffed mallow
+Stuffed sorrel|Stuffed sorrel
+Stuffed mussels|Stuffed mussels
+Stuffed squid|Stuffed squid
+Chkmeruli|Chkmeruli
+Canestrelli|Canestrelli
+Laplap|Laplap
+Krupnik (soup)|Krupnik
+Allahabadi cake|Allahabadi cake
+Cold pack cheese|Cold pack cheese
+Lechon kawali|Lechon kawali
+Vinegret|Vinegret
+Krispie|Krispie
+Toobs|Toobs
+Haydari|Haydari
+Es buah|Sop Buah
+JingBaJian|JingBaJian
+Mie koclok|Mie koclok
+Caramelized pork and eggs|Caramelized pork and eggs
+Kaledo (soup)|Kaledo
+Assidat Zgougou|Assidat Zgougou
+Kubaneh|Kubaneh
+Sha phaley|Shabhalep
+Tingmo|Tingmo
+Guthuk|Guthuk
+Dak-ttongjip|Dak-ttongjip
+Fugu chiri|Fugu chiri
+Honey dill|Honey dill sauce
+Corn poppy with lamb|Corn poppy with lamb
+Van köfte|Etli köfte
+Ground biscuit|Ground biscuit
+Mirik meatball|Mirik meatballs
+Kalehjoosh|Kalehjoosh
+Tuna bun|Tuna bun
+Maids of honour tart|Maids of honour tart
+Pepeçura|Pepeçura
+Glasswort salad|Glasswort salad
+Chickpea noghl|Chickpea noghl
+Phoenicia dessert|Phoenicia dessert
+Lepsi (dish)|Lepsi
+Dilber dudağı|Dilber dudağı
+Tatarsko kyufte|Tatarsko kyufte
+Arabu|null
+Libje lebje basta|Libje lebje basta
+Sheep's sorrel soup|Sheep sorrel soup
+Flour kurabiye|Un kurabiyesi
+Poutchine au sac|Poutchine au sac
+Mouna|Mouna
+Rafute|Rafute
+Mücver|Mücver
+Tortillitas de camarones|Tortillitas de camarones
+Knieperkohl|Knieperkohl
+Stuffed melon|Stuffed melon
+Stuffed ribs|Kaburga Dolması
+Stuffed intestines|Stuffed intestines
+Vizier's fingers|Vizier's fingers
+Varenye|Varenye
+Texas caviar|Texas caviar
+Shekarbura|Shekarbureh
+Chigirtma|Chigirtma, Çığırtma
+Stuffed quinces|Stuffed quinces
+Black pudding|Black pudding
+Stuffed tomatoes|Stuffed tomatoes
+Stuffed apples|Stuffed apples
+Stuffed eggplant|Stuffed eggplants
+Gaston Gérard chicken|Gaston Gérard chicken
+Kömbe|Kömbe
+Bigoli in salsa|Bigoli in salsa
+Haitian patty|Haitian patty
+Thukpa bhatuk|Thukpa bhatuk
+Pan de Cádiz|Pan de Cádiz
+Pappa al pomodoro|Pappa al pomodoro
+Broyé poitevin|Broyé Poitevin
+Locrio|Locrio
+Bint al-sahn|null
+Selat solo|Selat Solo
+Ražnjići|Ražnjići
+Pig blood curd|Pig blood curd
+Walnut stuffed figs|Walnut stuffed figs
+Sago soup|Sago soup
+Kutsinta|Cuchinta
+Muhallebi|Muhallebi
+Bastani|Bastani
+Woku|Woku
+Macroom Oatmeal|Macroom Oatmeal
+Rica-rica|Rica-rica
+Pastila|Pastila
+Katogo (food)|Katogo
+Dabu-dabu|Dabu-dabu
+Tiger tail donut|Tiger tail donut
+Colo-colo (condiment)|Colo-colo
+Burasa|Burasa
+Shrimp and grits|Shrimp and grits
+Kẹo dừa|Coconut candy
+Plecing kangkung|Plecing kangkung
+Gepuk|Empal gepuk
+Eggplant papoutsaki|Eggplant papoutsaki
+Kuru fasulye|
+Keripik sanjai|Keripik sanjai
+Šoldra|null
+Sohan asali|Sohan Asali
+Triple-cooked chips|Triple-cooked chips
+Kevum|Kevum
+Koba (sweet)|Koba
+Shaking beef|Shaking beef
+Mực rang muối|Mực rang muối
+Galette-saucisse|Galette saucisse
+Lūʻau (food)|Lūau
+Shrimp Louie|Shrimp Louie
+Coffee and walnut cake|Coffee and walnut cake
+Chebakia|Chebakia
+Khanom krok|Khanom krok
+Pineapple cake|Pineapple cake
+Troccoli|Troccoli
+Kue putri salju|Kue putri salju
+Schaumrolle|
+Kue kembang goyang|Kue kembang goyang
+Ika sōmen|Ika sōmen
+Telur pindang|Telur pindang
+Pichi-pichi|Pichi-pichi
+Krechek|Krechek
+Krupuk kulit|Krupuk kulit
+Mie kocok|Mie kocok
+Maraca pie|Maraca pie
+Schmoo torte|Schmoo torte
+Crab in oyster sauce|Crab in oyster sauce
+Chicken Chettinad|Chicken Chettinad
+Nadur Monji|Nadur Monji
+Crab in Padang sauce|Crab in Padang sauce
+Piaya (food)|Piaya
+Iga penyet|Iga penyet
+Gogi-guksu|Gogi-guksu
+Spatlo|Sphatlho/Kota
+Kue bagea|Kue bagea
+Baccalà alla lucana|Baccalà alla lucana
+Almond chicken|null
+Sapu Mhicha|Sapu Mhichā
+Sarsiado|Sarsiado
+Nasi tumpang|Nasi tumpang ,
+Zuppa pavese|Zuppa pavese
+Quesada pasiega|Quesada pasiega
+Candied almonds|Candied almonds
+Mugoyo|Mugoyo
+Pinza (dessert)|Pinza
+Lepet|Lepet
+Kushikatsu|Kushikatsu
+Beirute|Beirute sandwich
+Lao Gan Ma|Lao Gan Ma
+Kwati (soup)|Kwati
+Eggplant jam|Eggplant jam
+Samlar kako|Samlor kako
+Ros omelette|Ros omelette
+Pecel lele|Pecel lele
+Paksiw|Paksiw
+Ube halaya|Ube halaya
+Ginisang munggo|Ginisang munggo
+Rosquillo|Rosquillo
+Plombir|Plombir
+Doujiang|Doujiang
+Pleah sach ko|Pleah sach ko
+Dal dhokli|Dal Dhokli
+Eshabwe|Eshabwe
+Spinach dip|Spinach dip
+French onion dip|French onion dip
+Butter cookie|Butter cookie/ sugar cookie
+Straight dough|Dough
+Bambalouni|Bambalouni
+Sarva Pindi|Sarva Pindi
+Crab dip|Crab dip
+Pathar-ka-Gosht|Pathar-ka-Gosht
+Seafood pizza|Seafood pizza
+Peppercorn sauce|Peppercorn Sauce
+Onion gravy|Onion gravy
+Onion sauce|Onion sauce
+Steak and eggs|Steak and eggs
+Pizza capricciosa|Pizza capricciosa
+Pizza pugliese|Pizza pugliese
+Cream of broccoli soup|Cream of broccoli soup
+Cream of asparagus soup|Cream of asparagus soup
+Rfissa|Rfissa
+Soyutma|Soyutma
+Acquacotta|Acquacotta
+Puffcorn|Puffcorn
+Cebolada|Cebolada
+Kemal Pasha dessert|Kemal Pasha dessert
+Buridda|Buridda
+Nevzine tatlısı|Nevzine dessert
+Ciceri e tria|Ciceri e tria
+Crocetta di Caltanissetta|Crocetta di Caltanissetta
+Confederate cush|Cush
+Spaghetti alla chitarra|Spaghetti alla chitarra
+Maccheroni alla molinara|Maccheroni alla molinara
+Omo tuo|Omo Tuo
+Thapthim krop|null
+Cameo Creme|Cameo Creme
+Sutarfeni|Sutarfeni (સુતરફેણી)
+Khanom phing|Khanom phing
+Wotou|Wotou
+Concha|Concha
+Alaskan ice cream|Eskimo Ice Cream
+Chimaek|치맥, Chimaek
+Stir-fried ice cream|Stir-fried ice cream
+Macapuno|Macapuno
+Pearà|Pearà
+Koah-pau|Koah-pau
+Krop khem|Krop khem
+Khubeza patties|Khubeza patties
+Macaroni Hamin|Macaroni Hamin
+Punukulu|Punukulu, పునుకులు
+Chueo-tang|Chueo-tang
+Kluai buat chi|Kluai buat chi
+Arroz junto|Arroz junto
+Kue cucur|Kue cucur
+Ryazhenka|Ryazhenka
+Chim chum|Chim chum
+Yam khai dao|Yam khai dao
+Punjabi tandoori cooking|null
+Halvah ice cream|Halvah ice cream
+Wachipa|Wachipa
+Pidan doufu|Pidan doufu
+Egg coffee|Egg coffee
+Boat noodles|Boat noodles
+Ziva (dish)|Ziva
+Red red|Red red
+Talakaya Kura|Talakaya Kura
+Golichina Mamsam|Golichina Mamsam
+Kodi gudla pulusu|Kodi gudla pulusu
+Barny Cakes|Barny
+Osmania biscuit|Osmania biscuit
+Nem chua rán|Nem chua rán
+Cacavellu|Cacavellu
+Poffert|Poffert
+Tsukemen|Tsukemen
+Tahini cookie|Tahini cookie
+Nem nướng|Nem nướng
+Chargha|Chargha
+Rafanata|Rafanata
+Shakoy|Shakoy
+Karpatka|Karpatka
+Wuzetka|Wuzetka
+Pihlaja|Pihlaja
+Hao kuih|Hao Kuih (鲎粿)/Hou Guo
+Chinese bhel|Chinese bhel
+Moambe chicken|
+Bori (food)|Bori
+Lagana (bread)|Lagana
+Japanese cheesecake|Japanese cheesecake,
+Mie kangkung|Mie kangkung
+Tuwon masara|null
+Rustico (pastry)|Rustico
+Axoa|Axoa
+Judías de El Barco de Ávila|Judías de El Barco de Ávila
+Bazhe|Bazhe
+Mizeria|Mizeria
+Biko (food)|Biko
+Banku (dish)|Banku
+Kpekpele|Kpekpele
+Kokonte|Kokonte
+Kokonte|Konkonte
+Banana custard|Banana custard
+Nobó|nobó
+Plakali|Plakali
+Tomato jam|null
+Yanduxian|Yāndǔxiān
+Malewa|Malewa
+Roselle juice|Roselle juice
+Aish as-Saraya|Aish as-Saraya
+Pasta con le sarde|Pasta con le sarde
+Kora Khai|Korakhai
+Artichoke dip|Artichoke dip
+Concave cake|Concave cake
+Vitréais|Vitréais, Gwitregad
+Utica greens|Utica greens
+Torta Bertolina|Torta Bertolina
+Spongarda|Spongarda
+Tortelli cremaschi|Tortelli cremaschi
+Shirazi salad|Shirazi salad
+Brühwurst|Brühwurst
+Bombolone|Bombolone
+Chabrot|Chabrot
+Dikgobe|Dikgobe
+Nam phrik long ruea|Nam phrik long ruea
+Khanom Tokyo|Khanom Tokyo (lit: Tokyo Snack)
+Stuffed dates|Stuffed dates
+Locho|Locho
+Naem (food)|Naem
+Tipat cantok|Tipat cantok
+Khichu|Khichu (Gujarati dish)
+Kibbeling|Kibbeling
+Plum cake|Plum cake
+Nankhatai|Nankhatai
+Kelp noodles|Kelp noodles
+Shorshe ilish|Shorshe ilish
+Pholourie|Pholourie
+Masala dosa|Masala dosa
+Bolo de arroz|Bolo de arroz
+Pesarattu|Pesarattu
+Chips and dip|Chips and dip
+Whistle Pops|Whistle Pops/Melody Pops
+Fricasse|Fricasse
+Gujarati kadhi|null
+Murgh musallam|Murgh musallam
+Chingri malai curry|null
+Orez Shu'it|Orez Shu'it
+Green mango chutney|Green mango chutney
+Ocopa|Ocopa
+Gukhwa-ppang|Gukhwa-ppang
+Sikhae|Sikhae
+Rabokki|Rabokki
+Mutton curry|Mutton curry
+Crescentina modenese|Crescentina modenese
+Treccia d'oro|Treccia d'oro
+Mughlai paratha|Mughlai paratha
+Ispanakhi matsvnit|null
+Boba ice cream bar|Boba ice cream bar
+Khao piak sen|Khao piak sen
+Mango sticky rice|Mango sticky rice
+Bánh bột lọc|Bánh bột lọc
+Bhindi fry|Bhindi Fry
+Cucumber raita|Cucumber Raita
+Chiroti|Chirote/Peni
+Arem-arem|Arem-arem
+Suji ka halwa|Suji Ka Halwa
+Kue lapis|Kue lapis
+Tomato sandwich|
+Kue bugis|Kue bugis
+Kaasstengels|Kaasstengels
+Ayam masak merah|Ayam masak merah ,
+Roti jala|Roti kirai
+Tomato chutney|Tomato chutney
+Stir-fried water spinach|Stir-fried water spinach
+Kue gapit|Kue gapit
+Kue ape|Kue ape
+Sagol|Sagol
+Kue mangkok|Kue mangkok
+Bolu kukus|Bolu kukus
+Msoki|Msoki
+Kue satu|Kue satu
+Dadar gulung|Dadar gulung
+Palóc soup|Palóc soup
+Sailor sandwich|Sailor sandwich
+Pinipig|Pinipig
+Tuwon shinkafa|Tuwon shinkafa
+Miyar kuka|Miyar kuka
+Ash-e doogh|Ash-e doogh
+Efo riro|Efo riro
+Pate acha|Pate acha
+Kolompeh|Kolompeh
+Komaj sehen|Komaj sehen
+Sholezard|Sholezard
+Gheysi|null
+Thousand Island dressing|Thousand Island dressing
+Vegan cheese|Vegan cheese
+Stracciatella (soup)|Stracciatella
+Stracciatella (ice cream)|Stracciatella
+Shahi haleeb|Shahi haleeb
+Nocciolini di Canzo|Nocciolini di Canzo
+Salsa verde|null
+Dutch letter|Banket
+Mole de olla|null
+Double skin milk|
+Aguachile|null
+Boeber|Boeber
+Khiramohana|Khira mohan
+Confiture|Confiture
+Haggis pakora|Haggis pakora
+Fujian red wine chicken|Fujian red wine chicken
+Pan de cazón|Pan de cazón
+Balbacua|Balbacua
+Malu Mirisata|Malu mirisata
+Thong yip|Thong yip
+Thong yot|Thong yot
+Red curry|Red curry
+Odiyal|Odiyal
+Chili mac|Chili mac
+Char kway teow|Char kway teow
+Dumpling|null
+Tom yum|Tom yum
+Thai salads|Thai salads
+Katsu curry|Katsu curry
+Dodol|Dodol
+Congee|Congee
+American fried rice|American fried rice
+Bánh tét|Bánh Tét
+Cifantuan|Cifantuan
+Lo mai gai|Lo mai gai
+Crab Rangoon|Crab rangoons
+Cookie butter|
+Red bean paste|Red bean paste
+Egg drop soup|Egg drop soup
+Dandan noodles|Dandan noodles
+Corn crab soup|Corn crab soup
+Crab stick|Crab stick
+Surimi|Surimi
+Hot and sour soup|Hot and sour soup
+Spring roll|Spring roll
+Coconut bar|Coconut bar
+Subgum|Subgum
+Crispy fried chicken|Crispy fried chicken
+XO sauce|XO sauce
+Bakkwa|Bakkwa
+null|Guaiwei
+Laziji|Laziji
+Kung Pao chicken|Kung Pao chicken
+Chili oil|Chili oil
+Almond tofu|Almond Tofu
+Banana roll|Banana roll
+Torshi|Torshi
+Salep|
+Pork rind|Pork rind
+Chaoshou|Suanla chaoshou
+Mapo tofu|Mapo tofu
+Jinhua ham|
+Barquillo|Barquillo
+Beef chow fun|Beef chow fun
+Beef bun|Beef bun
+Hot pot|Hotpot
+Jiaozi|Jiaozi
+Wonton noodles|Wonton noodles
+The U.S. Post Office, Courthouse and Federal Building (Sacramento, California)|Vatrushka
+Pogača|null
+Injera|Injera
+Ambuyat|Ambuyat
+Asam pedas|Asam pedas ,
+Ayam goreng|Ayam goreng
+Ayam bakar|Ayam bakar
+Acar|Acar
+Hainanese chicken rice|Hainanese chicken rice
+Khao soi|Khao soi
+Kuaitiao khua kai|Kuaitiao khua kai
+Mi krop|Mi krop
+Khanom thuai|Khanom thuai, Khanom thuai talai
+Masala puri|Masala puri
+Mie aceh|Mie Aceh
+Ikan goreng|Ikan goreng
+Sambal|Sambal
+Ikan bakar|Ikan bakar
+Kripik|Kripik
+Shopska salad|Shopska salad
+Paprika|Paprika
+Nasi gurih|Nasi Gurih
+Betutu|Betutu
+Lawar (food)|Lawar
+Nasi campur|Nasi campur
+Kabanos|Kabanos
+Kielbasa|Kielbasa
+Gulai|Gulai
+Fish cracker|Fish cracker
+Prawn cracker|Prawn cracker
+Rømmegrøt|Rømmegrøt
+Stew|Stew
+Sour cherry soup|Sour cherry soup
+Palatschinke|Palatschinken
+Fisherman's soup|Fisherman's soup
+Dal|Dal
+Parotta|null
+Pea soup|Pea soup
+Lentil soup|Lentil soup
+Ezogelin soup|Ezogelin soup
+Dal biji|Dal biji
+Vínarterta|Vínarterta
+Colin the Caterpillar|Colin the Caterpillar
+Buldak Ramen|Buldak Ramen
+Sabzi khordan|Sabzi khordan
+Lady Baltimore cake|Lady Baltimore cake
+List of almond dishes|List of almond dishes
+Jeera aloo|Jeera aloo
+Sofrito (stew)|Sofrito
+Pa-kimchi|Pa-kimchi
+Pastillas|Pastillas
+Samoon|Samoon
+Pasticciotto|Pasticciotto
+Mie caluk|Mi Caluk
+Timphan|Timphan
+Melon soup|Melon soup
+Khobz tounes|Khobz tounes
+Old-fashioned doughnut|Old-fashioned doughnuts
+Chorrillana|Chorrillana
+Crespéou|Crespéou
+Tklapi|Tklapi
+Chamoyada|null
+Porotos granados|Porotos granados
+Carne seca|Carne seca
+Saltsa kima|Saltsa kima
+Barbine|Barbine
+Calamarata|Calamarata
+Casarecce|Casarecce
+Capunti|Capunti
+Goat water|Goat water
+Potato waffle|Potato waffle
+Khanom mo kaeng|Khanom mo kaeng
+Beurre Maître d'Hôtel|Beurre maître d'hôtel
+Apohtin|null
+Fura (food)|null
+Cotoletta alla bolognese|Cotoletta alla bolognese
+Juanfen|Juanfen
+Strawberry cake|Strawberry cake
+Ttongppang|Ttongppang
+Clementine cake|
+Kolokythopita|Kolokythopita
+Karydopita|Karydopita
+À la Maréchale|À la Maréchale
+Cornell bread|Cornell Bread
+Rinflajš|Rinflajš
+Nonnette (dessert)|Nonnette
+Hilopites|Hilopites
+Joe's Special|Joe's Special
+Türlü|Türlü
+Fig cake|Fig cake
+Afghani burger|Afghani burger
+Khanom tan|Khanom tan
+Lontong sayur|Lontong sayur
+Speculoos|Speculoos
+Katong laksa|Katong Laksa
+Vegetarian bee hoon|Vegetarian bee hoon
+Teochew porridge|Teochew porridge
+Chupe andino|Chupe andino
+Mathura peda|Mathura Peda
+Crab bee hoon|Crab bee hoon
+Beef kway teow|Beef kway teow
+Puneri misal|Puneri Misal
+Hainanese curry rice|Hainanese curry rice
+Pancit Molo|Pancit Molo
+Papad ki Saag-Bhaaji|Papad Ka Saag
+Har cheong gai|Har cheong gai
+Daab chingri|null
+Spice bag|Spice bag
+Conversation tart|Conversation tart
+Sweet soy sauce|Sweet soy sauce
+AussieMite|AussieMite
+Osam-bulgogi|Osam-bulgogi
+Kaeng hang le|Kaeng hang le
+Saleeg|Saleeg - سليق
+Akhuni|Axone
+Sohbat|Sohbat
+Testaroli|Testaroli
+Thong ek|Thong ek
+Chartreuse (dish)|Chartreuse
+Khao kan chin|Khao kan chin
+Mie jawa|Mie jawa
+Achappam|
+Pollo al disco|Pollo al disco
+Dalgona|Dalgona
+Deep-fried Oreo|Deep-fried Oreo
+Pastrami on rye|Pastrami on rye
+Bazin (bread)|Bazin
+Serradura|Serradura
+Jianbing|
+Cashew pie|Cashew nut pie
+Shrimp curry|Shrimp curry
+Kinalas|Kinalas
+Medu vada|Medu vada
+Obwarzanek krakowski|null
+Halal snack pack|Halal snack pack
+Bløtkake|Bløtkake
+Chahan (dish)|Chahan
+Pozharsky cutlet|
+Apfelküchle|Apfelküchle
+Krupenik|
+Jhalmuri|Jhalmuri
+Padak|Padak
+Brenebon|Brenebon
+Sop saudara|Sop Saudara
+Indori poha|Poha Jalebi
+Batik cake|Batik cake
+Poire à la Beaujolaise|Poire à la Beaujolaise
+Tom khlong|Tom khlong
+Nam phrik ong|Nam phrik ong
+Mamuang kuan|Mamuang kuan
+Dijon mustard|Dijon mustard
+Seblak|Seblak
+Jiucai hezi|Jiucai hezi
+Pizza quattro stagioni|Pizza quattro stagioni
+Chicken Picasso|Chicken Picasso
+Tauge goreng|Tauge goreng
+Spaghetti sandwich|
+Wähe|Wähe
+Podo pitha|Poda pitha
+Kamayan|Kamayan
+Chicken ghee roast|null
+Ayam pansuh|Ayam pansuh
+Daheen|Daheen
+Peanut chutney|Peanut chutney
+Fondant potatoes|Fondant Potatoes
+Lumpiang ubod|Lumpiang ubod
+Puls (food)|Puls
+Janhagel|Janhagel
+Butterfly pea flower tea|null
+Tarte tropézienne|Tarte tropézienne
+Peremech|Peremech
+Bilo-bilo|Pinaltok or Bilo-bilo
+Cup noodle|Cup noodle
+Sesame Ramen|Sesame Ramen
+Kuymak|Kuymak
+Hertzoggie|Hertzoggie
+Bar One|Nutritional info
+Paneer makhani|
+Chamba Chukh|Chamba Chukh
+Sai bhaji|Sai bhaji
+Musciame|Musciame
+Kōrēgusu|Kōrēgusu
+Freginat|Freginat
+Sausage and peppers|Sausage and peppers
+Dak-kkochi|Dak-kkochi
+Khoresh bademjan|Khoresh bademjan
+Soboro-ppang|Soboro-ppang
+Iranian pizza|Iranian pizza
+Mimosa salad|Mimosa salad
+New England–style hot dog bun|New England–style hot dog bun
+Nazook|Nazook
+Hot and sour noodles|Hot and sour noodles
+Tortilla|null
+Mahmous|Mahmous
+Cachopo (dish)|Cachopo
+Heugyeomso-tang|Heugyeomso-tang
+Bissara|null
+Binaki|Binaki
+Nutribun|Nutribun
+Leche asada|Leche asada
+Spatini sauce mix|Spatini sauce
+Seada|Seada
+Kamounia|
+Ayam kecap|Ayam kecap
+Babi kecap|Babi kecap
+Sekba|Sekba
+Awara broth|Awara broth
+Mangalorean Chicken Sukka|null
+Kappa pappadam|null
+Bakarwadi|Bhakarwadi
+Malakoff (food)|Malakoff
+Fah-fah|Fah-fah
+Ear-hole fried cake|Ear-hole fried cake
+Da jiu-jia|null
+Sopa de lima|Lime soup
+Dizé milé|Dizé milé
+Winter ice cream|Winter ice cream
+Peruvian ceviche|Peruvian Ceviche
+Peruvian pollada|Peruvian pollada
+Pain de Gênes|Pain de Gênes
+Peruvian huacatay|Peruvian huacatay
+Avoador|null
+Nam phrik num|Nam phrik num
+Roti sai mai|null
+Halawet el Jibn|Halawet el Jibn
+Mangalore buns|null
+Pundi|Kimiko Sato
+Bombay potato|null
+Kung chae nampla|Kung chae nampla
+Albaloo polo|Albaloo polo
+Mamuang nampla wan|Mamuang nampla wan
+Khanom babin|Khanom babin
+Lyangcha|Lyangcha
+Fazer Blue|Karl Fazer Milk Chocolate
+Sago with coconut milk|Sago with coconut milk
+Soy curls|Soy curls
+Bread pakora|Bread Pakoda
+Binangkal|Binangkal
+Seafood basket|Seafood Basket
+Kurnik (pirog)|Kurnik
+Rosticciana|Rosticciana
+Candy Raisins|null
+Raisin cake|Raisin cake
+Cremino|Cremino
+Sukiyan|Sukiyan
+Siraegi|Siraegi
+Keema matar|Keema Matar
+Kilawin|
+Neobiani|Neobiani
+Buljol|Buljol
+Sukhoe|Sukhoe
+Ganghoe|Ganghoe
+Lahang|Lahang
+Nilaga|Nilagà
+Okchun-dang|Okchun-dang
+History of medicine in France|null
+Cheong (food)|Cheong
+Noumboulo|Noumboulo
+Tornado potato|Tornado potatoes
+Roasted sweet potato|Roasted sweet potato
+Roasted chestnut|Roasted chestnut
+Tongdak|Tongdak
+Roscas (Filipino cuisine)|Roscas
+Pickled radish|Pickled radish
+Atama soup|Atama soup
+Riz à l'impératrice|Riz à l'impératrice
+Gyeran-mari|Gyeran-mari
+Editan (soup)|Editan
+Lychee pork|Lychee pork
+Lemon duck|Lemon duck
+Dazhu gansi|Dazhu gansi
+Lokot-lokot|Lokot-lokot
+Tablier de sapeur|Tablier de sapeur
+Khai khrop|Khai khrop
+Salade cauchoise|
+Moon shrimp cake|Moon shrimp cake
+Bokkeum-bap|Bokkeum-bap
+Jjinppang|Jjinppang
+Lemon delicious pudding|Lemon delicious pudding
+Stuffed mushrooms|null
+Sautéed mushrooms|Sautéed mushrooms
+Confetti cake|Confetti Cake
+Linagpang|Linagpang
+Thong muan|null
+Şambali|Şambali
+Chicken chasseur|Chicken chasseur
+Phá lấu|Phá lấu
+Pear-syrup candy|null
+Spinach soup|Spinach soup
+Ifumi|Ifumi
+Banket (pastry)|null
+Jumeok-bap|Jumeok-bap
+Kansat|Kansat
+Medovik|Medovik
+Aloo tama|null
+Gâteau nantais|Gâteau nantais
+Cozido à portuguesa|Cozido à portuguesa
+Pikliz|Pikliz
+Baechu-kimchi|Baechu-kimchi
+Crozets de Savoie|Crozets de Savoie
+Veal Milanese|Veal Milanese
+Shooter's sandwich|Shooter's sandwich
+Countess (cake)|Countess
+Kenchin-jiru|Kenchin jiru
+Pon ye gyi|Pon ye gyi
+Chopped cheese|Chopped cheese
+Masmouta salad|Masmouta salad
+Ummak huriyya|Ummak huriyya salad
+Blunkett salad|Blunkett salad
+Mechouia salad|Mechouia salad
+Avocado soup|Avocado soup
+Malfouf salad|Malfouf salad
+Chickpea salad|Hummus salad
+Wheat salad|Wheat salad
+Tangsuyuk|Tangsuyuk
+Rubiyan salad|Rubiyan salad
+Sweet potato salad|Sweet potato salad
+Egg garnish|Egg garnish
+Khao khluk kapi|Khao khluk kapi
+Ojingeo-jeot|Ojingeo-jeot
+Guljeot|Guljeot
+Acaçá|Acaçá
+Sherbet (frozen dessert)|Sherbet
+Omegi-tteok|Omegi Tteok
+Eris (confection)|null
+Chili thread|Chili threads
+Sellou|Sellou
+Tortit|Tortit
+Cornetto (pastry)|Cornetto
+Gomul|kokot
+Albap|Albap
+Cheese sauce|null
+Pasta mollicata|Pasta mollicata
+Humba|Humbà
+Pusô|Pusô
+Chaudfroid sauce|Chaudfroid sauce
+Acquasale|Acquasale
+Ugeoji|Ugeoji
+Doenjang-guk|Doenjang-guk
+Candel Astra|Candel Astra
+Zabala (candy)|Zabala
+Pizza marinara|Pizza marinara
+Stemmelkort|Stemmelkort
+Kue makmur|Kue makmur
+Kuchela (relish)|Kuchela
+Cheese and crackers|Cheese and crackers
+Pinatisan|Pinatisan
+Pindang|Pindang
+Patriotic soup|Patriotic soup
+Levengi|Levengi, Ləvəngi
+Beer ice cream|Beer ice cream
+Cherry ice cream|Cherry ice cream
+Red bean rice|Red bean rice
+Balado (food)|Balado
+Kaletez|Kaletez
+Cola chicken|
+Roust|Roust
+Pelau|Pelau
+Meatball sandwich|Meatball sandwich
+Momiji manjū|Momiji manjū
+Twisted doughnut|Twisted doughnut
+Brenntar|Brenntar
+Knysza|Knysza
+Prądnik bread|Prądnik bread
+Proziaki|Proziaki
+Ruchanki|Ruchanki
+Kalisz andruts|Kalisz andruts
+Warm ice cream|Warm ice cream
+Kopalnioki|Kopalnioki
+Miodek turecki|Miodek turecki
+Miodownik (cake)|Miodownik
+Pampuchy|Pampuchy
+Biłgoraj pierogi|Biłgoraj pieróg
+Karminadle|Karminadle
+Pierogi leniwe|Pierogi leniwe
+Cebularz|Cebularz
+Pyzy (dish)|Pyzy
+Prażonki|Pieczonki
+Bryja|Bryja
+Banosh|Banush
+Kluchy połom bite|Kluchy połom bite
+Bajjaria|Al-Bajjaria
+Sepik (bread)|Sepik
+Harcha|Harcha
+Koe'sister|Koesister
+Ruby chocolate|Ruby chocolate
+Mee kolo|Mee kolo
+Burro percherón|Burro percherón
+Laghman (food)|Laghman
+Fanta cake|Fanta cake
+Sate klatak|Sate klatak
+Arnavut ciğeri|Arnavut ciğeri
+Cheese cracker|Cheese cracker
+Kaomianjin|null
+Taro purée|null
+Soto padang|Soto padang
+Aguadito de pollo|Aguadito de pollo
+Bustrengo|Bustrengo
+Whitefish salad|Whitefish salad
+Moravian chicken pie|Moravian chicken pie
+Cho muang|Cho muang
+Moravian sugar cake|Moravian sugar cake
+Jarma (drink)|Jarma
+Mfarakeh|Mfarakeh
+Seven-color tea|Seven Colour Tea,  Seven Layer Tea
+Totché|null
+La tiang|La tiang
+Mombar|null
+Kasundi|Kasundi
+Ashke Pithe|Ashke Pithe
+Moron (food)|Moron
+Trenton tomato pie|Trenton tomato pie
+Samyang Ramen|Samyang Ramen
+Lanttusupikas|Lanttusupikas
+Läskisoosi|Läskisoosi
+Juhannusjuusto|Juhannusjuusto
+Mustikkapöperö|Mustikkapöperö
+Hapanlohko|Hapanlohko
+Nabadwip-er lal doi|Red curd of Nabadwip
+Dahi (curd)|Dahi
+Apam johol|Apam Johol
+Janda pulang (drink)|
+Akok (food)|Akok,
+Ooty varkey|Ooty Varkey
+Mie cakalang|Mie cakalang
+Babarsa|Babarsa
+Sarpuria|Sarpuria
+Kheer (Bengali sweets)|Kheer
+Gokabou|Gokabou
+Ewa aganyin|Ewa aganyin
+Pek nga|Pek nga
+Karas (food)|Karas
+Ringgi (food)|Ringgi ,
+Sandige|Sandige (or alternatively Shandige)
+Alegría (Mexican candy)|Alegría
+Guokui|'Guokui'
+Sườn nướng|Sườn nướng
+Chapssal doughnut|null
+Dabo kolo|Dabo kolo
+Parmitieddi|Parmitieddi
+Samsa (food)|Samsa
+Thakkadi|Thakkadi
+Mosbolletjies|Mosbolletjies
+Busiate|Busiate
+Sedani|Sedani
+Tortiglioni|Tortiglioni
+Joshpara|Joshpara
+Fileja|null
+Jaffna crab curry|Jaffna crab curry
+Ballokume|Ballokume
+Qovurma|Qovurma
+Pyanse|Pyanse
+Lula kebab|Lula kebab
+Shemai|Shemai
+Makarony po-flotski|Makarony po-flotski
+Conejo en salmorejo|Conejo en salmorejo
+Amlu|Amlou
+Alkaline noodles|null
+Kunga cake|Nkhungu cake
+Aggala|Aggala
+Chả rươi|Chả rươi
+Kkochi|Kkochi
+Çöp şiş|Çöp şiş
+Ciğer kebabı|null
+Sopa de lacassá|
+Arroz gordo|Arroz gordo
+Chikanda|null
+Çökertme kebabı|null
+Spaghetti alla Nerano|Spaghetti alla Nerano
+Crema de fruta|Crema de fruta
+Mango float|Mango float
+Thingyan rice|Thingan rice
+Virado|Virado
+Yema (candy)|Yema
+Thepla|
+Template:Article templates/Cuisine|{{, includeonly, safesubst:, /includeonly, SUBPAGENAME}}
+Prinjolata|Prinjolata
+Fanouropita|null
+Tinorangsak|Tinorangsak
+Ankapur chicken|Ankapur Chicken
+Kleeb lamduan|Kleeb lamduan
+Puding Diraja|Puding Diraja ,
+Keria gula melaka|Keria Gula Melaka
+Kebebe|Kebebe
+French tacos|French Tacos
+Phat kaphrao|Phat kaphrao
+Boulets à la Liégeoise|Boulet à la liégeoise
+Luzhu huoshao|Luzhu huoshao
+Kağıt kebabı|Kağıt kebabı
+Spas (soup)|
+Kerutuk daging|Kerutuk daging
+Red peach cake|null
+Pasta alla gricia|Pasta alla gricia
+Pigs in blankets|Pigs in blankets
+Udang balado|Udang balado
+Qalayet bandora|Qalayet bandora
+Rosolli|Rosolli
+Philly taco|Philly taco
+Tatar böreği|Tatar böreği
+Balaleet|Balaleet
+Soğan kebabı|Soğan kebabı
+Eish shamsi|Eish shamsi
+Cotton Candy grapes|Cotton Candy grapes
+Bataw (bread)|Bataw
+Eish fino|Eish fino
+Feteer meshaltet|Feteer meshaltet
+Kuzi ayam|Kuzi ayam
+Milk roll|Milk Roll
+Oatmeal raisin cookie|
+Nasi minyak|Nasi Minyak
+Pudim Abade de Priscos|Pudim Abade de Priscos
+Sapo tahu|Sapo tahu
+Mun tahu|Mun tahu
+Pane di Laterza|Pane di Laterza
+Lorighittas|null
+Ogura toast|Ogura toast
+Raindrop cake|Raindrop cake
+Tihlo|Tihlo
+Pan de campo|Pan de campo
+Koththamalli|Koththamalli
+Vincisgrassi|Vincisgrassi
+Maraq (dish)|Maraq
+Eiernockerl|Eiernockerl
+Pyshka|Pyshka
+Aprapransa|Aprapransa
+Phapar ko Roti|Phapar Ko Roti
+Tomatokeftedes|Tomatokeftedes
+Gising-gising|Gising-gising
+Vyazma pryanik|Vyazma pryanik
+Nyanya (dish)|Nyanya
+Rasstegai|Rasstegai
+Jungguk-naengmyeon|Jungguk-naengmyeon
+Salukara|Salukara
+Pão francês|null
+Turtle pie|Turtle pie
+Tapado|Tapado
+Tahu campur|Tahu campur
+Kvæfjord cake|Kvæfjord cake
+Pasta al forno|Pasta al forno
+Saskatoon berry pie|null
+Hulbah|null
+Pudpod|Pudpod
+Mee siput|Mee siput muar ,  }}
+Okowa|Okowa おこわ (御強)
+Ounhmangu|Ounhmangu
+Bhapa pitha|Bhapa Pitha
+Raspberry pie|null
+Joe Frogger|Joe Frogger
+Jianbing guozi|'Jianbing guozi'
+Ají de gallina|
+Moche (food)|Moche
+Mache (food)|Mache
+Masi (food)|Masi
+Puto bumbong|Puto bumbong
+Binatog|Binatog
+Ginataang mais|Ginataang mais
+Tortang talong|Tortang talong
+Goto (food)|Goto
+Taba ng talangka|Tabâ ng talangkâ
+Burgo (food)|Burgo
+Panyalam|Panyalam
+Lakso|Lakso
+Embutido (Filipino cuisine)|Embutido
+Morcón (Filipino cuisine)|Morcón
+Afritada|Afritada
+Pininyahang manok|Pininyahang manok
+Pastil|Pastil
+Okoy|Okoy
+Paelya|Paelya
+Ginataang kalabasa|Ginataang kalabasa
+Pancit choca|Pancit choca
+Filipino spaghetti|Filipino spaghetti
+Sopas|Sopas
+Monay (bread)|Pan de monja
+Tibok-tibok|Tibok-tibok
+Cassava cake|Cassava cake
+Asín tibuok|Asín tibuók
+Khanom farang kudi chin|Khanom farang kudi chin
+Khanom bodin|Khanom bodin
+Jang-jorim|Jang-jorim
+Dinamita|Dinamita
+Nipa palm vinegar|Nipa palm vinegar
+Kaong palm vinegar|Kaong palm vinegar
+Lumpiang Shanghai|Lumpiang Shanghai
+Lumpiang keso|Lumpiang keso
+Begodya|Begodya
+Pata tim|Pata tim
+Shafoot|null
+Crispy kangkóng|Crispy kangkong
+Sayongsong|Sayongsong
+Lumpiang gulay|Lumpiang gulay
+Lechon manok|Lechon manok
+Pantesca salad|Insalata pantesca
+Ul boov|Heviin boov
+Oodkac|Muqmad/oodkac
+Borhani|Borhani
+Semmelknödel|Semmelknödel
+Sorol (food)|Sorol
+Palapa (condiment)|Palapa
+Piyanggang manok|Piyanggang manok
+Piaparan|Piaparan
+Kuning|Kuning
+Gohona Bori|Gohona Bori
+Abar Khabo|null
+Gazelle ankles|Gazelle ankles
+Tocino de cielo|Tocino de cielo
+Hardinera|Hardinera
+Cider syrup|Cider syrup
+Binagoongan|Binagoongan
+Burong isda|Burong isda
+Balao-balao|Balao-balao
+Minatamis na saging|Minatamis na saging
+Ube crinkles|Ube crinkles
+Squid sandwich|Squid sandwich (bocadillo de calamares)
+Alaminos longganisa|Alaminos longganisa
+Vigan longganisa|Vigan longganisa
+Chorizo de Bilbao|Chorizo de Bilbao
+Chorizo de Macao|Chorizo de Macao
+Chorizo de Cebu|Chorizo de Cebu
+Chorizo Negrense|Chorizo negrense
+Longganisa de Guinobatan|Longganisa de Guinobatan
+Cabanatuan longganisa|Cabanatuan longganisa
+Calumpit longganisa|Calumpit longganisa
+Pampanga longganisa|Pampanga longganisa
+Lucban longganisa|Lucban longganisa
+Pinuneg|Pinuneg
+Tuguegarao longganisa|Tuguegarao longganisa
+Chori burger|Chori burger
+Chicken longganisa|Chicken longganisa
+Guagua longganisa|Guagua longganisa
+Fish longganisa|Fish longganisa
+Baguio longganisa|Baguio longganisa
+Kiping|Kiping
+Kabkab|Kabkab
+Tang bu shuai|Tong but lut
+Dinakdakan|
+Galletas de patatas|Galletas de patatas
+Ginataang langka|Ginataang langka
+Galletas pesquera|Galletas pesquera
+Uraro|Uraró
+Pilipit|Pilipit
+Kumukunsi|Kumukunsi
+Bariis iskukaris|Bariis iskukaris
+Jacobina (food)|Jacobina
+Aparon|Aparon
+Paborita|Paborita
+Paciencia (cookie)|Paciencia
+Ugoy-ugoy|Ugoy-ugoy
+Ube cake|Ube cake
+Yema cake|Yema cake
+Camachile cookie|Camachile cookies
+Lengua de gato|Lengua de gato
+Broa de mel|null
+Philippine asado|Philippine asado
+Kelaneh (bread)|Kelane
+Pinagong|Pinagong
+Cornick (food)|Cornick
+Vanilla hearts|Vanilla Heart
+Kuuma koira|null
+Akhni|Akhni
+Masa podrida|Masa podrida
+Korean baked goods|Korean Bread
+Halabos|Halabós
+Nilasing na hipon|Nilasing na hipon
+Ginataang hipon|Ginataang hipon
+Pininyahang hipon|Pininyahang hipon
+Caycay|Caycay
+Masareal|Masareal
+Putok|Putok
+Binagol|Binagol
+Capra e fagioli|Capra e fagioli
+Linarang|Linarang
+Curacha Alavar|Curacha Alavar
+Sinampalukan|Sinampalukan
+Soul food health trends|null
+Shing-a-ling (food)|Shing-a-ling
+Sinantolan|Sinantolan
+Jewish rye bread|Jewish rye bread
+Ginataang ampalaya|Ginataang ampalaya
+Ginataang munggo|Ginataang munggo
+Ginataang isda|Ginataang isda
+Ginataang manok|Ginataang manok
+Binakol|Binakol
+Liver spread|Liver spread
+Mashed carrot|Mashed carrots
+Ginataang kuhol|Ginataang kuhol
+Latiao|Latiao
+Ice buko|Ice buko
+Buko salad|Buko salad
+Lamaw|Lamaw
+Iskrambol|Iskrambol
+Nilupak|Nilupak
+Buko pandan cake|Buko Pandan cake
+Ginataang labong|Ginataang labong
+Abunuabunu|null
+Kusksu|Kusksu
+Kiampong|Kiampong
+Everlasting (food)|Everlasting
+Etor|null
+Pizza di Pasqua|Pizza di Pasqua
+Khanom khai pla|Khanom khai pla
+Tyurya|Tyurya
+Khanom khai hong|Khanom khai hong
+Malay sponge cake|Malay sponge cake
+Mango cake|Mango cake
+Khao kha mu|Khao kha mu
+Khao mu daeng|Khao mu daeng
+Ayam geprek|Ayam geprek
+Silog|Silog
+Ube ice cream|Ube ice cream
+Kānga pirau|Kānga pirau
+Aloo chap|Aloor Chop
+Hee pan|null
+Argentine pizza|Argentine pizza
+Fugazza|Fugazzeta
+Sinigapuna|Sinigapuna
+Tinapayan|Tinapayan
+Guazi|Guazi
+Pancit buko|Pancit buko
+Toroī|Toroī
+Inubaran|Inubaran
+Kikomando|Kikomando
+Takihi|Takihi
+Linga (cookie)|Linga
+Mala xiang guo|Mala xiang guo
+Barraquito|Barraquito
+Poi (dessert)|Poi
+Braised rice|null
+Binakle|Binakle
+Piutu|Piutu
+Khanom sai bua|Khanom sai bua
+Flan cake|Flan cake
+Finger bun|Finger bun
+Sagu (dessert)|Sagu
+Khanom khuai ling|Khanom khuai ling
+Bela biscuit|Bela biscuit
+Pomegranate molasses|Pomegranate molasses
+Khao jee|Khao Jee
+Ube cheesecake|Ube cheesecake
+Pinasugbo|Pinasugbo
+Khanom keson lamchiak|Khanom keson lamchiak
+Tupig|Tupig
+Tortang kalabasa|Tortang kalabasa
+Aburasoba|Aburasoba
+Khao jee pâté|Khao jee pâté
+Paçanga böreği|Paçanga böreği
+Mazalika|Mazalika
+Mtori|Mtori
+Mpoto Mpoto|Mpoto Mpoto
+Chajá|chajá cake
+Chorba frik|Chorba frik
+Soupe au fromage|Soupe au fromage
+Needham (food)|Needham
+Kue leker|null
+Cacasse à cul nu|Cacasse à cul nu
+Love cake|Love cake
+Tjälknöl|null
+Sandwich roll|Sandwich roll
+Hönökaka|null
+Äggakaka|null
+Aïoli garni|Aïoli garni
+Saffranspannkaka|null
+Keng No Mai|Keng No Mai (Sai Yanang)
+Pumpkin Spice Spam|Pumpkin Spice Spam
+Sinanglay|Sinanglay
+Hủ tiếu|Hủ tiếu
+Barbecue spaghetti|Barbecue spaghetti
+Panskurar Chop|Panskurar Chop
+Torta setteveli|Torta setteveli
+Sweet potato haupia pie|Sweet potato haupia pie
+Asfanakhyh|Asfanakhia
+Babka|Babka
+Mie gomak|Mie Gomak
+Kanji (food)|Kanji
+Tanka torani|Tanka torani
+Hard-shell taco|null
+Brisket (Jewish dish)|Brisket
+Paklay|Paklay
+Fried cauliflower|Fried cauliflower
+Fritas de prasa|Fritas de prasa
+Maki mi|Maki mi
+Bullens pilsnerkorv|Bullens pilsnerkorv
+Sartù di riso|Sartù di riso
+Kugel Yerushalmi|Kugel Yerushalmi
+Cansi|Cansí
+Nata de piña|Nata de piña
+Apples and honey|Apples and honey
+Pe htaw bhut htamin|Pe htaw bhut htamin
+Hirtenmakkaroni|Hirtenmakkaroni
+Loobia polo|Loobia polo
+Baghali polo|Baghalaa polo
+Cassatella di sant'Agata|Cassatella di sant'Agata
+Mohanthal|Mohanthal
+null|Solein
+Shwe yin aye|Shwe yin aye
+Mont lone yay baw|Mont lone yay baw
+Cassia flower bud salad|Mezali phu thoke
+Burmese fritters|Burmese fritters
+Mont lin maya|Mont lin maya
+Mont (food)|Mont
+Mont phet htok|Mont phet htok
+Bein mont|Bein mont
+Khauk mont|Bein mont
+Mont baung|Mont baung
+Breudher|Breudher
+Honey toast|Honey toast
+Sanwin makin|Sanwin makin
+Htoe mont|Htoe mont
+Pathein halawa|Pathein halawa
+Hsi htamin|Hsi htamin
+Shwe htamin|Shwe htamin
+Khanon htok|Khanon htok
+No htamin|Milk rice
+Khanon i|Khanon i
+Masakat|Masakat
+Thagu byin|
+Burmese fried rice|Burmese fried rice
+Griot (food)|Griot
+Nestlé Munch|Munch
+Reestit mutton|null
+Kerala beef fry|Kerala beef fry
+Achu (soup)|Achûë soup
+St. Martin's croissant|St. Martin's croissant
+Romazava|Romazava
+Ayam bumbu rujak|Ayam bumbu rujak
+Poqui poqui|Poqui poqui
+Millionaire pie|Millionaire pie
+Gambas con gabardina|Gambas con gabardina
+Ayam kodok|Ayam kodok
+Pain petri|Pain Petri
+Boodog|Boodog
+Resek agvaniyot|Resek agvaniyot
+Fatoot samneh|Fatoot samneh
+Malawach|Malawach
+Masoob|Masoob
+Pastelitos de hoja|Pastelitos de hoja
+Apio (appetizer)|Apio
+Shirin polo|Shirin polo (Persian wedding rice)
+Gondi (food)|Gondi
+Champaran meat|Champaran Meat
+Daral (food)|Daral
+Chinese almond biscuit|null
+Hatted kit|Hatted kit
+Ginataang saba|Ginataang saba
+Cilok|Cilok
+Sneem Black Pudding|Sneem Black Pudding
+Corn cheese|Corn Cheese
+Getuk goreng|Getuk goreng
+Mendoan|null
+Impade|Impade
+Sate taichan|Sate taichan
+Dahibara aludam|Dahibara Aloodum
+Tusha Shinni|Tusha Shinni
+Soft Khichuri|Soft Khichuri
+Tuslob buwa|Tuslob buwa
+Poppy seed paste|Poppy seed paste
+Mohn kichel|Mohn kichel
+Zom (food)|Zom
+Mohn bar|Mohn bar
+Hashachar Ha'ole|Hashachar Ha'ole
+Boulou|Boulou
+Pkaila|Pkaila
+Ros bratel|Ros Bratel
+Tirolerkuchen|Tirolerkuchen
+Polonaise (sauce)|Polonaise sauce
+Chunga Pitha|Chunga pitha
+Shahi jilapi|Shahi Jilapi
+Salsa americana|Salsa americana
+Kala bhuna|Kala bhuna
+Sárgatúró|sárgatúró
+Tteok-kkochi|Tteok-kkochi
+So-tteok-so-tteok|So-tteok so-tteok
+Nasi tutug oncom|Nasi tutug oncom
+Ayam goreng kalasan|Ayam Goreng Kalasan
+Khondoler misti|Khondoler misti
+Gogges|Gogges
+Beach pizza|Beach pizza
+Akpan (dessert)|Akpan
+Aligue fried rice|Aligue fried rice
+Bagoong fried rice|Bagoong fried rice
+Makanek|Makanek
+Bánh gối|Bánh gối
+Kokotxas|Kokotxas
+Bawang goreng|Bawang goreng
+Bay sach chruk|Bay sach chruk
+Chha kh'nhei|Cha kh'nhei
+Knife-cut noodles|null
+Peanut butter blossom cookie|Peanut butter blossom cookie
+Sushi burrito|Sushi burrito
+Duck Bamboo Curry|Ash Bash
+Khanom kho|Khanom tom
+Pisang cokelat|Pisang cokelat
+Satkara Beef|Beef Satkara
+Chhanamukhi|Chhanamukhi
+Shutki shira|Shutki shira
+Zalabiyeh|Zalabiyeh
+Chả cá Lã Vọng|Chả cá Lã Vọng
+Nunor Bora|Nungora
+Pizza quattro formaggi|Pizza quattro formaggi
+Kiwi onion dip|Kiwi Onion Dip
+Seffa|Seffa
+Saj bread|Saaj bread
+Capuliato|Capuliato
+Thoikor Tenga|Thoikor Tenga
+Igado|Igado
+Handesh|Handesh
+Kwetiau ayam|Kwetiau ayam
+Pepper and egg sandwich|Pepper and egg sandwich
+Dhoper chop|null
+Tempeh burger|Tempeh burger
+Tubaani|null
+Kadhi bari|Kadhi bari
+Tarua|Tarua
+Lüdagun|Lüdagun
+Patranque|Patranque
+Nan-e Nokhodchi|Shirini Nokhodchi
+Nan-e berenji|null
+Madumongso|Madumongso
+Roti gambang|Roti gambang
+Laklak (food)|Laklak
+Dangke|Dangke
+Untir-untir|Untir-untir
+Jalangkote|Jalangkote
+Laksamana mengamuk|Laksamana mengamuk
+Javanese doughnut|Javanese doughnut
+Kue lidah kucing|Kue lidah kucing
+Roti bolen|Roti bolen
+Sayadieh|Sayadieh
+Kue rangi|Kue rangi
+Kue pukis|Kue pukis
+Kue pancong|Kue pancong
+Gâteau magique|Gâteau magique
+Kue talam|Kue talam
+Kue bangkit|Kue bangkit
+Brongkos|Brongkos
+Kamir|Kamir
+Zowey|null
+Ayigbe biscuit|null
+Kube Cake|null
+Indonesian noodles|Indonesian noodles
+Poloo|null
+Nkatie Cake|null
+Agbeli Kaklo|null
+Chukuchuk|null
+Ash cake|Ash cake
+Milk pie|Pie susu
+Light Soup|null
+Sumpia|Sumpia
+Soda gembira|Soda gembira
+Lumpia goreng|Lumpia goreng
+Nasi kari|Nasi kari
+Nasi goreng jawa|Nasi goreng jawa
+Kue pinyaram|Kue pinyaram
+Ayam pop|Ayam pop
+Pekasam|Pekasam ,
+Lontong balap|Lontong balap
+Nasi tempong|Nasi tempong
+Kue putu mayang|Kue putu mayang
+Bolus (Belgium)|Bolus/Baulus
+Kue asida|Kue asida
+Mie bakso|Mie bakso
+Bhutan (dish)|Bhutan (भुटन)
+Patatas a lo pobre|Patatas a lo pobre
+Soldaditos de Pavía|Soldaditos de Pavía
+Kue bingka|Kue bingka
+Bihun goreng|Bihun goreng
+Sayur sop|Sayur sop
+Sayur bayam|Sayur bayam
+Manitoba flour|Manitoba Flour
+Yi bua|Yi bua
+Vrtanek|Vrtanek
+Kippan|Kippan, 桔餅
+U' pastizz 'rtunnar|U' pastizz 'rtunnar
+Ayam rica-rica|Ayam rica-rica
+Draft:Terang bulan|Terang bulan
+Kok (pastry)|Kok
+Tumact me tulez|Tumact me tulez
+Dátiles rellenos|Dátiles rellenos
+Shukto|Shukto
+Kola kanda|Kola kanda
+Gova Kaldu|Gova Kaldu
+Mallung|Mallung
+Morioka jajamen|Morioka jajamen
+Spicy tuna roll|null
+Washington pie|Washington pie
+Causa limeña|null
+Aasmi|Aasmi
+Lavariya|Lavariya
+Tahinli pide|Tahinli pide
+Forash|Forash
+Pasta con i peperoni cruschi|Pasta con i peperoni cruschi
+Kue bolu|Kue bolu
+Bibikkan|Bibikkan
+Limpa|Limpa bread
+White cake|null
+Flomaria|flomaria
+Rujak soto|Rujak soto
+Ayam buah keluak|Ayam Buah Keluak
+Nasi jinggo|Nasi jinggo
+Megono|Megono
+Marghi special|Margi special
+Grasshopper pie|Grasshopper pie
+Mont kywe the|Mont kywe the
+Htanthi mont|Htanthi mont
+Banga rice|Banga rice or Roso-Amme-edi
+Bakakak hayam|Bakakak
+Num banhchok|Num banhchok
+Maize flour|null
+Sabudana papar|Sabudana Papar
+Chaoqi|null
+Oreilles d'âne|Oreilles d'âne
+Saeukkang|Saeukkang
+Sichuan pepper chicken|null
+Isfahan beryani|Beryan
+Aush jushpare|null
+Pittsburgh salad|Pittsburgh salad
+Panone|Panone
+Sugee cake|null
+Putugal|null
+Soon kueh|Soon kueh
+Kway chap|Kway jap
+Ham chim peng|Ham chim peng
+Taiwan mazesoba|Taiwan mazesoba
+Burmese curry|null
+Kuih kosui|null
+Gefillde|Gefillde
+Soetpatats|null
+Eight treasure duck|null
+Putli mandi|Putli mandi
+Khoresht mast|Khoresht mast
+Baci di dama|Baci di dama
+Katiya|Katiya
+Chili crisp|
+Kadyos, baboy, kag langka|Kadyos, baboy, kag langka
+Kadyos, manok, kag ubad|Kadyos, manok, kag ubad
+Fruit pizza|Fruit Pizza
+Mosaic gelatin|Mosaic gelatin
+Pastel de feijão|Pastel de feijão
+Pataniscas|Pataniscas
+Chukauni|null
+Pilpelchuma|Pilpelchuma
+Matzoquiles|Matzoquiles
+Matzo lasagna|Matzo lasagna
+Tom som|Tom som
+Apple cheese|Apple cheese ,
+Kap klaem|Kap klaem
+Oignon de Roscoff|Oignon de Roscoff
+Maluns|Maluns
+Bourride|Bourride
+Babi hong|Babi Hong
+Bursa Cantik Pide|Bursa Cantik Pide
+Şevketibostan yemeği|Şevketibostan yemeği
+İçli pide|İçli pide
+Junay (food)|Junay
+İzmir Bomb Kurabiye|İzmir Bomb Kurabiye
+Cascatelli|Cascatelli
+Soufflé Rothschild|Soufflé Rothschild
+Kete (food)|Kete
+Suam na mais|Suam na mais
+Ice kenkey|Ice kenkey
+Gari Soaking|Gari Soakings
+Mera Pitha|Mera Pitha
+Jambon|Jambon
+Pachade|Pachade
+Epis|Epis
+Dibile|Dibile
+Nardenk|Nardenk
+Kavala Almond Cookies|Kavala Almond Cookies
+Tchaka|null
+Murabbalı mecidiye|Murabbalı mecidiye
+Shacha noodles|null
+Motsetta|Motsetta
+'O pere e 'o musso|,  , 'O pere e 'o musso,  ,
+Agnolini|Agnolini
+Cevizli Irmik Tatlısı|Cevizli irmik tatlısı
+Köylü pastası|Köylü pastası
+Bra sausage|Bra sausage
+Marquesita|null
+Spinach cake|Spinach cake
+Spinach cake|Ispanaklı kek
+Piyaziye|Piyaziye
+Baião de dois|Baião de dois
+Kabaklı peynirli börek|Kabaklı peynirli börek
+Su böreği|Su böreği
+Lemon bar|null
+Dambou|Dambou
+Çorbalık kesme|Çorbalık kesme
+Uzun erişte|Uzun erişte
+Kiri hodi|Kiri hodi
+Domates mücveri|Domates mücveri
+Cimcik erişte|Cimcik erişte
+Thala Guli|Thala Guli
+Pideli köfte|Pideli köfte
+Baccalà mantecato|Baccalà mantecato
+Olive all'ascolana|Olive all'ascolana
+Chelfray|null
+Fat Boy (hamburger)|Fat Boy
+Quesabirria|Quesabirria
+Altoona-style pizza|Altoona-style pizza
+Picada (Argentine cuisine)|Picada
+Balparmak tatlısı|Balparmak tatlısı
+Yaroa|null
+Muğla halkası|Muğla halkası
+Xnipek|null
+Wandouhuang|Wandouhuang
+Picnic biscuit|Picnic biscuit
+Taiwanese beef noodle soup|Taiwanese beef noodle soup (臺灣牛肉麵)
+Zatiruha|Zatiruha
+Mee ka tee|null
+Qurutob|Қурутоб
+Etli makarna|Etli makarna
+Queso ice cream|Queso ice cream
+Bhakkha|null
+Qarymutah|Qarymutah
+Cumberland rum nicky|Cumberland rum nicky
+Bouyiourdi|
+Shʿifurah|null
+Barazek|null
+Aloo chokha|
+Galho|Galho
+Nauryz kozhe|Nauryz kozhe
+Reshmi kabab|Reshmi kabab
+Sopa correntina|Sopa correntina
+Zigni|null
+Portokalopita|null
+Passion fruit mousse|Passion fruit mousse
+Mostaccino|Mostaccino
+Pavê|Pavê
+Sheikh al-mahshi|null
+Yapchik|Yapchik
+Butter burger|Butter burger
+Lokshen|Lokshen
+Lokshen mit kaese|Lokshen mit kaese
+Noodle kugel|Noodle Kugel
+Mondeghili|Mondeghili
+Corn schnitzel|Corn schnitzel
+Lalanga|
+Créponné|Creponne
+Mahdjouba|Mhadjeb
+Kalb el louz|Kalb el louz
+Mchawcha|Mchawcha
+Kroki|Kroki
+Culatello di Zibello|Culatello di Zibello
+Kari kapitan|null
+Oatmeal Creme Pie|Oatmeal creme pie
+Quesadilla Salvadoreña|Quesadilla salvadoreña
+Bardiccio|Bardiccio
+Malloreddus|Malloreddus
+Culurgiones|Culurgiones
+Batter bread|Batter bread
+Feetloaf|null
+Fava (Turkish dish)|Fava (Turkish dish)
+Pasta e ceci|Pasta e ceci
+Sarde in saor|Sarde in saor
+Fried milk|Fried Milk
+Honey walnut shrimp|null
+Kiamoy|Kiamoy
+Wikipedia:WikiProject Spam/LinkReports/nexon.link|Anelletti al forno
+Gnocchi alla romana|Gnocchi alla romana
+Spezzatino|Spezzatino
+Pancotto|Pancotto
+Pisarei e faśö|Pisarei e faśö
+Salama da sugo|Salama da sugo
+Dosi (food)|Dosi
+Kiri aluwa|Kiri Aluwa
+Veneziana|Veneziana
+Coniglio alla sanremese|
+Casatiello|Casatiello
+Ginger crunch|Ginger crunch
+Peperone di Senise|Peperone di Senise
+Puf Böreği|Puf Böreği
+Moon mist|Moon mist
+Tfaya|Tfaya
+Balık çorbası|Balık çorbası
+Beji (cookie)|null
+Arroz de fríjol cabecita negra|null
+Nasi Lemuni|Nasi lemuni,
+Crescia|Crescia
+Cappelletti (pasta)|Cappelletti
+Nasi Beringin|Nasi Beringin
+Salame Felino|Salame Felino
+Cappello del prete|Cappello del prete
+Sorrentinos|Sorrentinos
+Bulan dan mek|null
+Jipang (food)|Jipang
+Spiced vinegar|Spiced vinegar
+Torta paesana|Torta paesana
+Es goyang|Es Goyang
+Miang noodles|Miang Noodles
+Luganega|Luganega
+Nan-e Shekari|null
+Sampan congee|Sampan congee
+Potato candy|Potato candy pinwheel
+Finlandia (candy)|Finlandia
+Tortang sardinas|Tortang sardinas
+Pfefferpotthast|null
+Bisciola|Bisciola
+Oha soup|Ọha soup , small, Ofe Ọha, /small,
+Turkish cold bulgur soup|Bat
+Mercimek köftesi|Mercimek köftesi
+Saheena|Saheena
+Egg pie|Egg pie
+Pan de coco (Honduran cuisine)|
+Asado roll|Asado roll
+Pan de siosa|Pan de siosa
+Linat-an|Linat-an
+Ngachin|null
+Siron (food)|Siron
+Chinese flaky pastry|Chinese flaky pastry
+Tortang carne norte|Tortang carne norte
+Carne norte guisado|Carne norte guisado
+Platinum Pudding|Platinum Pudding
+Panutsang mani|Panocha mani
+Tajine Zitoun|Tajine Zitoun
+Cazuela de mariscos|Cazuela de mariscos
+Chuzo desgranado|null
+Mojojoy|null
+Charcuterie board|Charcuterie board
+Zunda-mochi|Zunda-mochi, ずんだ餅
+Pepián|null
+Abacha (food)|Abacha
+Beetroot cake|Beetroot cake
+Palianytsia|Palianytsia
+Hoshi-imo|Hoshi-imo
+Tiler Khaja|Tiler Khaja
+Dagobert (sandwich)|Dagobert
+Curd of Bogra|Curd of Bogra
+Cupeta|Cupeta
+Drabbelkoek|Drabbelkoek
+Arabic rice|null
+Ispanaklı yumurta|Ispanaklı yumurta
+Num ansom|Num ansom
+River reed salt|River reed salt
+Kak'ik|null
+Taco pizza|Taco pizza
+Liver cake|Liver cake
+Fish tofu|Fish tofu
+Chicken fillet roll|Chicken fillet roll
+Marañuela|Marañuela
+Menzi (food)|null
+Pandanus paste|null
+Chinese walnut cookie|Tao Su (桃酥)
+Torta delle rose|Torta delle rose
+Mimosa cake|Mimosa cake
+Embroidered peppers|Embroidered peppers
+Faraoa 'ipo|Faraoa ipo
+Makalo|Makalo
+Smoked sable|Smoked sable
+Tel kadayıf|Tel kadayıf
+Lumlom|Lumlom
+Ada pradhaman|Ada Pradhaman
+Mochi donut|Mochi donut
+Pan de regla|Pan de regla
+Tjvjik (food)|Tjvjik
+Burmese milk tea|Burmese milk tea
+Spaghetti all'assassina|Spaghetti all'assassina
+Pinza bolognese|Pinza bolognese
+Kānga waru|Kānga waru
+Rakvička|Rakvička
+Ukazi soup|Ukazi soup
+Savoury toast|Savoury toast
+Mie kopyok|Mie kopyok
+Chocolate praline|Praline
+Kanuchi|Kanuchi
+Pane coi santi|Pane coi santi
+Qrashel|Qrashel
+Thuna paha|Thuna paha
+Mexican Pizza|Mexican Pizza
+Avocado and milk in ice|Avocado lamaw
+Negitoro|Negitoro
+Seeni sambol|Seeni sambol
+Morioka reimen|Morioka reimen
+Peperonata|Peperonata
+null|null
+Kulawo|Kulawo
+Frankenburger Bratknödel|Frankenburger Bratknödel
+Señorita bread|Señorita bread
+Monggo bread|Monggo bread
+Hmiss|Algerian Hmiss
+Garlic chive flower sauce|null
+Zucchini slice|Zucchini slice
+Chiayi turkey rice|Chiayi turkey rice
+Yueguangbing|null
+Roat|Roat
+Regañao|null
+Lab-e-Shireen|null
+Louise cake|Louise cake
+Durus kura|Durus kura
+Nakshi Pitha|Nakshi Pitha
+Chhilka Roti|Chhilka roti
+Lotus leaf bread|Lotus leaf bread
+Marsipankake|Marsipankake
+Saftsuppe|Saftsuppe
+Fyrstekake|Fyrstekake
+Havreflarn|Havreflarn
+Serinakaker|Serinakaker
+Ingefærnøtter|Ingefærnøtter
+Kanelstenger|Kanelstenger
+Finskepinner|Finska pinnar
+Mild sauce|Mild sauce
+Kaddon pika|null
+Tube rice pudding|Tube rice pudding
+Eel noodles|Eel noodles
+Malamba (drink)|null
+Guarapo (drink)|null
+Milkfish congee|Milkfish congee
+Camporelli|Camporelli
+Zelten|Zelten
+Danbing|Danbing
+Himono|null
+Zampina|Zampina di Sammichele
+Abbacchio|Abbacchio
+Cjarsons|Cjarsons
+Dobara (Algerian dish)|Dobara
+Mie combor|Mie combor
+Tinaktak|null
+Latiya (dessert)|null
+Balmoral chicken|Balmoral Chicken
+Feijão tropeiro|null
+Candied carrots|Candied carrots
+Baccalà all'abruzzese|Baccalà all'abruzzese
+Coregone di Campotosto|Coregone di Campotosto
+Scapece alla vastese|Scapece alla vastese
+Pecora alla callara|Pecora alla callara
+Cozze allo zafferano|Cozze allo zafferano
+Mazzarelle|Mazzarelle
+Pommes boulangère|Pommes boulangère
+Croffle|null
+Draft:Insalata Pomodoro|null
+Bò kho|Bò kho
+Estufao|T. O. Bava
+Kartoffelklösse|
+Batchoy Tagalog|Batchoy Tagalog
+Talabaw|Talabaw
+Dwaeji gukbap|null
+Chalakiles|null
+Torta della nonna|Torta della nonna
+Watergate cake|Watergate cake
+Butter mochi|Butter mochi
+Medivnyk|Medivnyk
+Guoba Cuisine|null
+Schenkele|Schenkele
+Tajine Lham-Lahlou|Lham Lahlou
+Tallarín saltado|null
+Abacus seeds|Abacus seeds
+Bolo fiado|Bolo Fiado
+Sarsa na uyang|Sarsa na uyang
+Vieta (dish)|null
+Bondiola sandwich|Bondiola sandwich
+Alpal|Älpäl
+Algerian couscous|Couscous
+Algerian baklawa|Baklawa
+Tarte aux mirabelles|Tarte aux mirabelles
+Datshi|null
+Pizza dolce di Beridde|Pizza dolce di Beridde
+Vaalai kai sambol|Vaali kai sambol
+Düğün çorbası|Düğün çorbası
+Telur gulung|null
+Marunchinos|Marunchinos
+Bologna cake|null
+Fig-cake (fruit)|Fig-cake
+Tatbila|Tatbila
+Khoresh karafs|Khoresh karafs, خورش کرفس
+Lentil rice|lentil rice, عدس پلو
+Tebirkes|Tebirkes
+Hadji bada|Hadji bada
+Coronation quiche|Coronation quiche
+Chikwangue|Chikwangue
+Cuccalar|Cuccalar
+Peanut butter and pickle sandwich|Peanut butter and pickle sandwich
+Pastechi|Pastechi
+Handwich|null
+Thor's Skyr|Thor's Skyr
+Thua nao|null
+Beef and broccoli|null
+Ji dan gao|Ji dan gao
+Chicken and broccoli|null
+Ryžový nákyp|Ryžový nákyp
+Colorado-style pizza|Colorado-style pizza
+New Orleans hot sausage|null
+Tiger's blood|Tiger's blood
+New York roll|New York roll
+Oko-oko|Oko-oko
+Quiaude|Quiaude
+Curly fries|Curly fries
+Taioro|Taioro
+Conti roll|null
+Evil jungle prince|Evil jungle prince
+Ohio Valley–style pizza|Ohio Valley–style pizza
+Sumiso|null
+Lemon pepper wings|null
+Buffalo ribs|null
+Conch fritter|null
+Goose as food|Goose
+Grits and grunts|Grits and grunts
+Cowboy cookies|null
+Conecuh sausage|null
+Salt and pepper chips|Salt and pepper chips
+Saraman curry|Saraman curry
+Ice cream potato|null
+Fried okra|null
+Barbecue bologna|null
+Ant egg soup|Ant egg soup
+Yellowhammer cookie|Yellowhammer cookie
+Gorontalese cuisine|Gorontalese cuisine
+Katt Bafla|Katt Bafla
+Chicken pastel|Chicken pastel
+Sate Tuna|Sate Tuna
+Binte biluhuta|Binte biluhuta
+Mollete (bread)|Mollete
+Loaded fries|Loaded fries
+Satti sorru|
+Puleleti|Puleleti
+Zeytoon Parvardeh|Zeytoon Parvardeh
+Bulemas|Bulemas
+Japanese milk bread|
+Spaghetti alla siracusana|Spaghetti alla siracusana
+Num pang|Num pang
+Bensone|Bensone
+Graffe|Graffe napoletane
+Pan meino|Pan meino
+Estofado (food)|Estofado
+Chicatana sauce|null
+Karantika|
+KFC rice|KFC rice
+Fried shrimp cake|Fried shrimp cake
+Insalata di riso|Insalata di riso
+Prego (Portuguese Sandwich)|Bitoque do Prego
+Salame genovese di Sant'Olcese|Salame genovese di Sant'Olcese
+X-caboquinho|X-caboquinho
+Feijoada (Brazilian dish)|Feijoada
+Lomi oio|Lomi ōio
+Mané pelado|null
+Chanang|Chanang
+Matelote|Matelote
+Miti hue|Miti hue
+Goteborg musubi|Göteborg musubi
+Samlor prahal|Samlor prahal
+Snow puffies|Snow puffies
+Nasi gemuk|Nasi gemuk
+Mafrum|Mafrum
+Beuschel|null
+Romeu e Julieta|null
+Brassói aprópecsenye|null
+Székelykáposzta|null
+Hot tamale (food)|null
+Dobash cake|Dobash
+Taegu (Hawaiian dish)|
+Tinala' katne|null
+Alkaki|null
+Gat-kimchi|null
+Pizookie|Pizookie
+Draft:Mawlid sweets|null
+Funchoza|Funchoza
+Pinapaitan|
+Lauya|
+Pork guisantes|Pork guisantes
+Pastele stew|Pastele stew
+Steem (peanut butter)|Steem
+Malsouka|Malsouka
+Hani (sandwich)|null
+Kōʻelepālau|elepālau}}
+Chha trob|Chha trob
+Draft:Piémontaise potato salad|Piémontaise salad
+Bannu pulao|Bannu Pulao
+Pão de rala|
+Pão de Mafra|
+Bolo de bolacha|
+Hmong sausage|Hmong sausage
+Doce de gila|
+Azevia|
+Areias (Portuguese food)|
+Areias (Portuguese food)|
+Pão de Ló|
+Broodje gezond|Broodje gezond
+Torta de Azeitão|Torta de Azeitão
+Toucinho do Céu|Toucinho do Céu
+Sericaia|
+Encharcada|
+Prahok ktis|Prahok ktis
+Fatias do Freixo|
+Torresmos|Torresmos
+Barriga de freira|
+Guardanapo|Guardanapo
+Jesuita (sandwich)|
+Cenil|Cenil
+Kaki furai|Kaki furai (カキフライ)
+Dak-hanmari|Dak-hanmari
+Nisholda|"4933" sha1="7obwcf275ajlyur6dd6jykxap71vm62" xml:space="preserve">
+Mastava|Mastava | name_lang = Uzbek | image = Мастава.jpg| image_size = | image_alt = | caption = Mastava | alternate_name = Liquid pilaf | type = Soup | course = Main course | place_of_origin = [[Uzbekistan]] | region = [[Central Asia]] | associated_cuisine = [[Uzbek cuisine]]| creator = , !-- or | creators = --,  | year = | mintime = | maxtime = | served = Hot | main_ingredient = Meat (usually lamb), rice, vegetables | minor_ingredient = Spices, herbs, katyk | variations = | glycemic_index = | similar_dish = Shurpa | cookbook = | commons = | other = | no_recipes = true }}
+Crompouce|Crompouce
+Chia pudding|Chia pudding
+Stelline|Stelline
+Pavese agnolotti|Pavese agnolotti
+Vepřo knedlo zelo|Vepřo knedlo zelo
+Tamina (dessert)|Tamina
+Kentucky cream candy|Kentucky cream candy
+Sarıyer böreği|Sarıyer böreği
+Ghonghi|Ghonghi
+Beef olives|null
+Tororo (food)|Tororo
+Chouquette|Chouquette
+Minnesota-style pizza|Minnesota–style pizza
+Morisqueta tostada|Morisqueta tostada
+Wet hamburger|null
+Num kreab|Num kreab
+Knickerbocker (Zamboanga)|Knickerbocker
+Nilagang saging|Nilagang saging
+Sili ice cream|Sili ice cream
+Balikucha|Balikucha
+Coconut toffee|Coconut toffee
+Gorgoria|Gorgoria
+Pinais|Pinais
+Chtitha|Chtitha
+Trollkrem|Trollkrem
+Pukjai|Pukjai
+Siryak-tyamuri|Siryak-tyamuri
+Tarte à l'oignon|Tarte à l'oignon
+Eggs Kejriwal|
+Liège waffle|
+Cha kroeung|Cha kroeung
+Grahova pretepena juha|Grahova pretepena juha
+Sombe|Sombe
+Firinda|Firinda
+Piada dei morti|Piada dei morti
+Bruscitti|Bruscitti
+Dek Ngor|Dek Ngor
+Khô cá lóc|Khô cá lóc đồng
+Ốc vú nàng|null
+Sobá|null
+Vaca atolada|Vaca atolada
+Bath chaps|Bath chaps
+Cream of sorrel soup|Cream of sorrel soup
+Renaibao|Renaibao
+Bağaça|Bağaça
+Baked pork chop rice|Baked pork chop rice
+Batsoà|null
+Muchines de yuca|Muchines de yuca
+Encacahuatado|null
+Espumilla|Espumilla
+Kampot Pepper Crab|Kampot Pepper Crab
+Cheese dessert of Biga|Cheese dessert of Biga, Biga peynir tatlısı
+Arroz carreteiro|null
+Wikipedia:April Fools/April Fools' Day 2024/Upside Down Cake|Upside-down cake
+Ponche Navideño|Ponche Navideño
+Le̍k-tāu-phòng|Lek-tau-phong
+Arook|Arook
+Garbage Plate|Garbage Plate
+Mie lethek|Mie lethek
+Ifisashi|Ifisashi
+Lengua estofado|Lengua estofado
+Chicken galantina|Chicken galantina
+Zajiangmian|Zajiang mian
+Taro pastry|Taro pastry
+&quot;Flower&quot; tofu|Douhua
+Egg yolk pastry|Egg yolk pastry
+Crisp pork|Crisp pork
+Dumb bread|Dumb bread
+Haitian spaghetti|
+Kolkata biryani|Kolkata biryani
+Pudingový koláč|Pudingový koláč (so smotanou)
+Šumienkový zákusok|Šumienkový zákusok
+Subric|null
+Tarte à l'badrée|null
+Draft:Buffalo sauce|null
+Pizza Rossini|Pizza Rossini
+Kutach|Kutach
+Khanom met khanun|Khanom met khanun
+Kinamatisang manok|Kinamatisang manok
+Pao Alentejano|
+Chinir saaj|Chinir saaj
+Torta Balcarce|Torta Balcarce
+Furrundu|null
+Nasi katok|Nasi katok
+Apple bread|Apple bread
+Scallion bread|Scallion bread
+Lort cha|Lort cha
+Grilled honeycomb|Grilled honeycomb
+Cheese latke|Cheese latke
+Bacalao al pil pil|null
+Beyran soup|Beyran
+Cuttlefish geng|Cuttlefish geng
+Draft:Bantan|Bantan
+Bacalao al ajoarriero|Bacalao al ajoarriero
+Pearl meatballs|Pearl meatballs
+Alivongvong|Alivongvong
+Kiâm-piánn|Kiâm-piánn
+Square cookie|Square cookie
+Mango shaved ice|Mango shaved ice
+Chicken wing rice roll|Chicken wing rice roll
+Draft:Buah melaka (Kuih)|Buah melaka
+Tsang Ying Tou|Tsang Ying Tou
+Garlic Noodles|Garlic Noodles
+Monroe Sausage|Monroe Sausage
+Sausages in Italian cuisine|Italian sausage
+Domachha|Domasa
+Katsu-sando|Katsu-sando
+Kolakaka|Kolakaka
+Panuozzo|Panuozzo
+Agege bread|Agege Bread
+Kkanpunggi|Kkanpunggi
+Pizza bianca|Pizza bianca
+Torcetti|Torcetti
+Masak lemak lada api|Masak lemak lada api ,
+Ecclefechan tart|Ecclefechan Tart
+Mikado cake|Mikado cake
+3-in-1 (fast food dish)|
+Sorrowful Rice|Sorrowful Rice
+Paturi (Bengali dish)|Paturi
+Brier Hill–style pizza|Brier Hill-style pizza
+Meso 'z tiblice|Meso 'z tiblice
+Sarbhaja|Sarbhaja
+Mee tauhu|Mee tauhu
+Chocolate haupia pie|Chocolate haupia pie
+Draft:Sprite cake|Sprite cake
+Raviola di ricotta di Caltanissetta|Raviola di ricotta di Caltanissetta
+Guasteddra|Guastedda
+Ossa di morto|Ossa di morto
+Cassatella di Agira|Cassatella di Agira
+Biscotti di San Martino|Biscotto di San Martino
+Polynesian curry|Polynesian curry
+Draft:Potato coco|Kuku Seebzamini
+Draft:Kuku Sibzamini|Kuku Sibzamini
+Guapple pie|Guapple Pie
+Chicken breast steak with peach|null
+Siddu (bread)|Siddu
+Ichijū-sansai|Ichijū-sansai
+Red Ant Chutney|Red Ant Chutney
+Tongmo|Tung lamaow
+Khao kaeng|Khao kaeng
+Draft:Mala Hotpot|Mala Hotpot
+Gan Guê To|Gan Guê To
+Draft:Khanom Kluea|Khanom Kluea
+Mao tofu|Mao tofu
+Draft:Partridgeberry squares|Partridgeberry squares
+Jam Jams|Jam Jams
+Khejurer Gur|Khejurer Gur
+Draft:Huoguo dun fen|火锅炖粉
+Kuanfen noodles|null
+Suan la fen|null
+Bansh|Bansh
+Draft:Kadayifff|Kadayif ,
+Corone (bread)|Corone
